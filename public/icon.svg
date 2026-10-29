@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="50%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a" />
+      <stop offset="50%" stop-color="#eab308" />
+      <stop offset="100%" stop-color="#ca8a04" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Background Base with rounded corners -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+
+  <!-- Outer Ring decorative border -->
+  <circle cx="256" cy="256" r="216" fill="none" stroke="url(#goldGrad)" stroke-width="6" stroke-dasharray="12 8" opacity="0.6" />
+  <circle cx="256" cy="256" r="202" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2" />
+
+  <!-- Central Emblem Container -->
+  <g filter="url(#shadow)">
+    <!-- Shield / Government Administrative Landmark Icon -->
+    <path d="M256 90 L370 145 V255 C370 335 256 395 256 395 C256 395 142 335 142 255 V145 Z" fill="#065f46" stroke="url(#goldGrad)" stroke-width="8" stroke-linejoin="round" />
+    
+    <!-- Inner ZP / PS Hierarchy Tree Graphic -->
+    <!-- Top Apex: Zilla Parishad Pillar / Star -->
+    <circle cx="256" cy="165" r="22" fill="url(#goldGrad)" />
+    <path d="M256 150 L260 162 L272 165 L262 173 L265 185 L256 178 L247 185 L250 173 L240 165 L252 162 Z" fill="#064e3b" />
+
+    <!-- Connecting Trunk -->
+    <path d="M256 187 V230" stroke="#fef08a" stroke-width="6" stroke-linecap="round" />
+
+    <!-- PS Branching nodes -->
+    <path d="M195 240 Q256 225 317 240" fill="none" stroke="#fef08a" stroke-width="5" stroke-linecap="round" />
+    
+    <!-- Left PS Gan node -->
+    <circle cx="195" cy="255" r="16" fill="#10b981" stroke="#fef08a" stroke-width="4" />
+    <text x="195" y="260" font-family="sans-serif" font-weight="900" font-size="12" fill="#ffffff" text-anchor="middle">PS</text>
+
+    <!-- Right PS Gan node -->
+    <circle cx="317" cy="255" r="16" fill="#10b981" stroke="#fef08a" stroke-width="4" />
+    <text x="317" y="260" font-family="sans-serif" font-weight="900" font-size="12" fill="#ffffff" text-anchor="middle">ZP</text>
+
+    <!-- Center Base: Gram Panchayat / Villages grid -->
+    <path d="M195 271 L175 320 M195 271 L215 320 M317 271 L297 320 M317 271 L337 320" stroke="rgba(255,255,255,0.7)" stroke-width="3" stroke-linecap="round" />
+
+    <!-- Villages Dots -->
+    <circle cx="175" cy="326" r="9" fill="#fef08a" />
+    <circle cx="215" cy="326" r="9" fill="#fef08a" />
+    <circle cx="297" cy="326" r="9" fill="#fef08a" />
+    <circle cx="337" cy="326" r="9" fill="#fef08a" />
+  </g>
+
+  <!-- Typography at bottom: नागपूर ZP • PS -->
+  <text x="256" y="440" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="28" fill="#ffffff" text-anchor="middle" letter-spacing="2">ZP &amp; PS WARD</text>
+  <text x="256" y="468" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="18" fill="#a7f3d0" text-anchor="middle" letter-spacing="4">NAGPUR DISTRICT</text>
+</svg>

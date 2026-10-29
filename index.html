@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nagpur District & Savner Panchayat Samiti - Z.P. & P.S. Ward Hierarchy</title>
+    <meta name="description" content="Hierarchical extraction of Zilla Parishad divisions, Panchayat Samiti gana, gram panchayats, and villages from Maharashtra gazettes with Google Sheets export." />
+    <meta property="og:title" content="Nagpur District & Savner Panchayat Samiti - Z.P. & P.S. Ward Hierarchy" />
+    <meta property="og:description" content="Hierarchical extraction of Zilla Parishad divisions, Panchayat Samiti gana, gram panchayats, and villages from Maharashtra gazettes with Google Sheets export." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#064e3b" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="ZP PS Wards" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <script>
+      // Gracefully ignore benign Vite HMR WebSocket connection closures in preview iframe
+      window.addEventListener('error', function(e) {
+        if (e && e.message && (e.message.includes('WebSocket') || e.message.includes('vite'))) {
+          e.stopImmediatePropagation();
+        }
+      });
+      window.addEventListener('unhandledrejection', function(e) {
+        if (e && e.reason && (e.reason.message || String(e.reason)).includes('WebSocket')) {
+          e.preventDefault();
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

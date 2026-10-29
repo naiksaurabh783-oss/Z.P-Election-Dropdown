@@ -1,0 +1,6 @@
+{
+  "name": "Nagpur District & Savner Panchayat Samiti - Z.P. & P.S. Ward Hierarchy",
+  "description": "Hierarchical extraction of Zilla Parishad divisions, Panchayat Samiti gana, gram panchayats, and villages from Maharashtra gazettes with Google Sheets export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

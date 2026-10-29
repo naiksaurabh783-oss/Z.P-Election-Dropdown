@@ -1,0 +1,19133 @@
+import { PanchayatSamitiHierarchy } from "./savnerData";
+
+export const NAGPUR_DISTRICT_FULL_HIERARCHY: PanchayatSamitiHierarchy[] = [
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "भिवापूर",
+    "talukaEn": "Bhiwapur",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "bhiwapur-div-55",
+        "number": 55,
+        "nameMr": "तास",
+        "nameEn": "Tas",
+        "code": "५५-तास",
+        "gana": [
+          {
+            "id": "bhiwapur-div-55-gan-109",
+            "number": 109,
+            "nameMr": "तास",
+            "nameEn": "Tas",
+            "code": "१०९-तास",
+            "gramPanchayats": [
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-1",
+                "serialNo": 1,
+                "nameMr": "नक्षी",
+                "nameEn": "नक्षी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "नक्षी",
+                    "nameEn": "नक्षी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "मांगली",
+                    "nameEn": "मांगली"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-1-v-3",
+                    "serialNo": 3,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-1-v-4",
+                    "serialNo": 4,
+                    "nameMr": "भुमकोलारगाटा",
+                    "nameEn": "भुमकोलारगाटा"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-2",
+                "serialNo": 2,
+                "nameMr": "चिखली",
+                "nameEn": "चिखली",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-2-v-5",
+                    "serialNo": 5,
+                    "nameMr": "चिखली",
+                    "nameEn": "चिखली"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-2-v-6",
+                    "serialNo": 6,
+                    "nameMr": "रोहणा",
+                    "nameEn": "रोहणा"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-2-v-7",
+                    "serialNo": 7,
+                    "nameMr": "सोनेगाब (रि)",
+                    "nameEn": "सोनेगाब (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-3",
+                "serialNo": 3,
+                "nameMr": "वडध",
+                "nameEn": "वडध",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-3-v-8",
+                    "serialNo": 8,
+                    "nameMr": "वडध",
+                    "nameEn": "वडध"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-3-v-9",
+                    "serialNo": 9,
+                    "nameMr": "खैरी रि",
+                    "nameEn": "खैरी रि"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-4",
+                "serialNo": 4,
+                "nameMr": "पांजरेपार (पुर्नवसित)",
+                "nameEn": "पांजरेपार (पुर्नवसित)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-4-v-10",
+                    "serialNo": 10,
+                    "nameMr": "पांजरेपार (पुर्नवसित)",
+                    "nameEn": "पांजरेपार (पुर्नवसित)",
+                    "notes": "पुनर्वसित (Rehabilitated)"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-4-v-11",
+                    "serialNo": 11,
+                    "nameMr": "गाहल्ली नांदोखंडा (पुर्नवसित)",
+                    "nameEn": "गाहल्ली नांदोखंडा (पुर्नवसित)",
+                    "notes": "पुनर्वसित (Rehabilitated)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-5",
+                "serialNo": 5,
+                "nameMr": "तास",
+                "nameEn": "तास",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-5-v-12",
+                    "serialNo": 12,
+                    "nameMr": "तास",
+                    "nameEn": "तास"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-5-v-13",
+                    "serialNo": 13,
+                    "nameMr": "मोखाळा",
+                    "nameEn": "मोखाळा"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-5-v-14",
+                    "serialNo": 14,
+                    "nameMr": "पावरगोंदी",
+                    "nameEn": "पावरगोंदी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-6",
+                "serialNo": 6,
+                "nameMr": "पुल्लर",
+                "nameEn": "पुल्लर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-15",
+                    "serialNo": 15,
+                    "nameMr": "पुल्लर",
+                    "nameEn": "पुल्लर"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-16",
+                    "serialNo": 16,
+                    "nameMr": "सोमनाळा",
+                    "nameEn": "सोमनाळा"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-17",
+                    "serialNo": 17,
+                    "nameMr": "कोलारी",
+                    "nameEn": "कोलारी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-18",
+                    "serialNo": 18,
+                    "nameMr": "डोंगरगाव",
+                    "nameEn": "डोंगरगाव"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-19",
+                    "serialNo": 19,
+                    "nameMr": "भोवरी",
+                    "nameEn": "भोवरी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-20",
+                    "serialNo": 20,
+                    "nameMr": "म्हशाडोंगरी (रि)",
+                    "nameEn": "म्हशाडोंगरी (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-21",
+                    "serialNo": 21,
+                    "nameMr": "पिंपळगाव (रि)",
+                    "nameEn": "पिंपळगाव (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-22",
+                    "serialNo": 22,
+                    "nameMr": "किटाळी (रि)",
+                    "nameEn": "किटाळी (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-6-v-23",
+                    "serialNo": 23,
+                    "nameMr": "हत्तीमुंडा (रि)",
+                    "nameEn": "हत्तीमुंडा (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-7",
+                "serialNo": 7,
+                "nameMr": "अड्याळ (पुनर्वसित)",
+                "nameEn": "अड्याळ (पुनर्वसित)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-7-v-24",
+                    "serialNo": 24,
+                    "nameMr": "अड्याळ (पुनर्वसित)",
+                    "nameEn": "अड्याळ (पुनर्वसित)",
+                    "notes": "पुनर्वसित (Rehabilitated)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-8",
+                "serialNo": 8,
+                "nameMr": "नागतरोली (पुनर्वसित)",
+                "nameEn": "नागतरोली (पुनर्वसित)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-8-v-25",
+                    "serialNo": 25,
+                    "nameMr": "नागतरोली (पुनर्वसित)",
+                    "nameEn": "नागतरोली (पुनर्वसित)",
+                    "notes": "पुनर्वसित (Rehabilitated)"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-8-v-26",
+                    "serialNo": 26,
+                    "nameMr": "जांभुडी",
+                    "nameEn": "जांभुडी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-9",
+                "serialNo": 9,
+                "nameMr": "गाडेघाट",
+                "nameEn": "गाडेघाट",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-9-v-27",
+                    "serialNo": 27,
+                    "nameMr": "गाडेघाट",
+                    "nameEn": "गाडेघाट"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-10",
+                "serialNo": 10,
+                "nameMr": "घाटउमरी (पुर्नवसित)",
+                "nameEn": "घाटउमरी (पुर्नवसित)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-10-v-28",
+                    "serialNo": 28,
+                    "nameMr": "घाटउमरी (पुर्नवसित)",
+                    "nameEn": "घाटउमरी (पुर्नवसित)",
+                    "notes": "पुनर्वसित (Rehabilitated)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-109-gp-11",
+                "serialNo": 11,
+                "nameMr": "नेरी - सावरगाव",
+                "nameEn": "नेरी - सावरगाव",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-11-v-29",
+                    "serialNo": 29,
+                    "nameMr": "नेरी",
+                    "nameEn": "नेरी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-109-gp-11-v-30",
+                    "serialNo": 30,
+                    "nameMr": "सावरगाव",
+                    "nameEn": "सावरगाव"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bhiwapur-div-55-gan-110",
+            "number": 110,
+            "nameMr": "कारगाव",
+            "nameEn": "Kargaon",
+            "code": "११०-कारगाव",
+            "gramPanchayats": [
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-12",
+                "serialNo": 1,
+                "nameMr": "कारगाव",
+                "nameEn": "कारगाव",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-12-v-31",
+                    "serialNo": 1,
+                    "nameMr": "कारगाव",
+                    "nameEn": "कारगाव"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-13",
+                "serialNo": 2,
+                "nameMr": "सालेशहरी सालेभट्टी (पुनर्वसन)",
+                "nameEn": "सालेशहरी सालेभट्टी (पुनर्वसन)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-13-v-32",
+                    "serialNo": 2,
+                    "nameMr": "सालेशहरी सालेभट्टी (पुनर्वसन)",
+                    "nameEn": "सालेशहरी सालेभट्टी (पुनर्वसन)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-14",
+                "serialNo": 3,
+                "nameMr": "मानोरा",
+                "nameEn": "मानोरा",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-14-v-33",
+                    "serialNo": 3,
+                    "nameMr": "मानोरा",
+                    "nameEn": "मानोरा"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-14-v-34",
+                    "serialNo": 4,
+                    "nameMr": "वेळवा (रि)",
+                    "nameEn": "वेळवा (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-14-v-35",
+                    "serialNo": 5,
+                    "nameMr": "खैरगाव",
+                    "nameEn": "खैरगाव"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-14-v-36",
+                    "serialNo": 6,
+                    "nameMr": "अकलाबोडी(रि)",
+                    "nameEn": "अकलाबोडी(रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-15",
+                "serialNo": 4,
+                "nameMr": "नवेगाव दे",
+                "nameEn": "नवेगाव दे",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-15-v-37",
+                    "serialNo": 7,
+                    "nameMr": "नवेगाव दे",
+                    "nameEn": "नवेगाव दे"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-15-v-38",
+                    "serialNo": 8,
+                    "nameMr": "रानमांगली",
+                    "nameEn": "रानमांगली"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-16",
+                "serialNo": 5,
+                "nameMr": "थुटानबोरी (पुनर्वसित)",
+                "nameEn": "थुटानबोरी (पुनर्वसित)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-16-v-39",
+                    "serialNo": 9,
+                    "nameMr": "थुटानबोरी (पुनर्वसित)",
+                    "nameEn": "थुटानबोरी (पुनर्वसित)",
+                    "notes": "पुनर्वसित (Rehabilitated)"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-16-v-40",
+                    "serialNo": 10,
+                    "nameMr": "तुकूमबोरी (रि)",
+                    "nameEn": "तुकूमबोरी (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-17",
+                "serialNo": 6,
+                "nameMr": "विरखंडी",
+                "nameEn": "विरखंडी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-17-v-41",
+                    "serialNo": 11,
+                    "nameMr": "विरखंडी",
+                    "nameEn": "विरखंडी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-17-v-42",
+                    "serialNo": 12,
+                    "nameMr": "धापर्ला",
+                    "nameEn": "धापर्ला"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-17-v-43",
+                    "serialNo": 13,
+                    "nameMr": "पेंढरी",
+                    "nameEn": "पेंढरी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-18",
+                "serialNo": 7,
+                "nameMr": "गोंडबोरी",
+                "nameEn": "गोंडबोरी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-18-v-44",
+                    "serialNo": 14,
+                    "nameMr": "गोंडबोरी",
+                    "nameEn": "गोंडबोरी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-19",
+                "serialNo": 8,
+                "nameMr": "मरुपार (पुनर्वसित)",
+                "nameEn": "मरुपार (पुनर्वसित)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-19-v-45",
+                    "serialNo": 15,
+                    "nameMr": "मरुपार (पुनर्वसित)",
+                    "nameEn": "मरुपार (पुनर्वसित)",
+                    "notes": "पुनर्वसित (Rehabilitated)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-20",
+                "serialNo": 9,
+                "nameMr": "भागेबोरी",
+                "nameEn": "भागेबोरी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-20-v-46",
+                    "serialNo": 16,
+                    "nameMr": "भागेबोरी",
+                    "nameEn": "भागेबोरी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-20-v-47",
+                    "serialNo": 17,
+                    "nameMr": "कन्हाळगाव (रि)",
+                    "nameEn": "कन्हाळगाव (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-55-gan-110-gp-21",
+                "serialNo": 10,
+                "nameMr": "जवराबोडी",
+                "nameEn": "जवराबोडी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-21-v-48",
+                    "serialNo": 18,
+                    "nameMr": "जवराबोडी",
+                    "nameEn": "जवराबोडी"
+                  },
+                  {
+                    "id": "bhiwapur-div-55-gan-110-gp-21-v-49",
+                    "serialNo": 19,
+                    "nameMr": "किन्हाळा",
+                    "nameEn": "किन्हाळा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bhiwapur-div-56",
+        "number": 56,
+        "nameMr": "मालेवाडा",
+        "nameEn": "Malewada",
+        "code": "५६-मालेवाडा",
+        "gana": [
+          {
+            "id": "bhiwapur-div-56-gan-111",
+            "number": 111,
+            "nameMr": "मोखेबर्डी - किन्हीकला - किन्हीखुर्द (पुनर्वसन)",
+            "nameEn": "Mokhebardi - Kinhikala - Kinhikhurd (Rehab)",
+            "code": "१११-मोखेबर्डी - किन्हीकला - किन्हीखुर्द (पुनर्वसन)",
+            "gramPanchayats": [
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-22",
+                "serialNo": 1,
+                "nameMr": "मांडवा सो",
+                "nameEn": "मांडवा सो",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-22-v-50",
+                    "serialNo": 1,
+                    "nameMr": "मांडवा सो",
+                    "nameEn": "मांडवा सो"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-22-v-51",
+                    "serialNo": 2,
+                    "nameMr": "सोमनाळा",
+                    "nameEn": "सोमनाळा"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-22-v-52",
+                    "serialNo": 3,
+                    "nameMr": "चिखली (रि)",
+                    "nameEn": "चिखली (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-23",
+                "serialNo": 2,
+                "nameMr": "सेलोटी",
+                "nameEn": "सेलोटी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-23-v-53",
+                    "serialNo": 4,
+                    "nameMr": "सेलोटी",
+                    "nameEn": "सेलोटी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-23-v-54",
+                    "serialNo": 5,
+                    "nameMr": "तातोली",
+                    "nameEn": "तातोली"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-24",
+                "serialNo": 3,
+                "nameMr": "वासी",
+                "nameEn": "वासी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-24-v-55",
+                    "serialNo": 6,
+                    "nameMr": "वासी",
+                    "nameEn": "वासी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-24-v-56",
+                    "serialNo": 7,
+                    "nameMr": "पिपर्डा",
+                    "nameEn": "पिपर्डा"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-25",
+                "serialNo": 4,
+                "nameMr": "झिलबोडी",
+                "nameEn": "झिलबोडी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-25-v-57",
+                    "serialNo": 8,
+                    "nameMr": "झिलबोडी",
+                    "nameEn": "झिलबोडी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-25-v-58",
+                    "serialNo": 9,
+                    "nameMr": "बोरगाव शा.",
+                    "nameEn": "बोरगाव शा."
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-26",
+                "serialNo": 5,
+                "nameMr": "मेढा",
+                "nameEn": "मेढा",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-26-v-59",
+                    "serialNo": 10,
+                    "nameMr": "मेढा",
+                    "nameEn": "मेढा"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-26-v-60",
+                    "serialNo": 11,
+                    "nameMr": "बोर्डखुर्द",
+                    "nameEn": "बोर्डखुर्द"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-27",
+                "serialNo": 6,
+                "nameMr": "धामनगाव विम",
+                "nameEn": "धामनगाव विम",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-27-v-61",
+                    "serialNo": 12,
+                    "nameMr": "धामनगाव विम",
+                    "nameEn": "धामनगाव विम"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-27-v-62",
+                    "serialNo": 13,
+                    "nameMr": "हत्तीबोडी",
+                    "nameEn": "हत्तीबोडी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-27-v-63",
+                    "serialNo": 14,
+                    "nameMr": "सायगाव (रि)",
+                    "nameEn": "सायगाव (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-28",
+                "serialNo": 7,
+                "nameMr": "जवळी",
+                "nameEn": "जवळी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-28-v-64",
+                    "serialNo": 15,
+                    "nameMr": "जवळी",
+                    "nameEn": "जवळी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-28-v-65",
+                    "serialNo": 16,
+                    "nameMr": "सोनेपाडा (रि)",
+                    "nameEn": "सोनेपाडा (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-28-v-66",
+                    "serialNo": 17,
+                    "nameMr": "महादापूर(रि)",
+                    "nameEn": "महादापूर(रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-29",
+                "serialNo": 8,
+                "nameMr": "पांढरवाणी",
+                "nameEn": "पांढरवाणी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-29-v-67",
+                    "serialNo": 18,
+                    "nameMr": "पांढरवाणी",
+                    "nameEn": "पांढरवाणी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-30",
+                "serialNo": 9,
+                "nameMr": "वाकेश्वर",
+                "nameEn": "वाकेश्वर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-30-v-68",
+                    "serialNo": 19,
+                    "nameMr": "वाकेश्वर",
+                    "nameEn": "वाकेश्वर"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-30-v-69",
+                    "serialNo": 20,
+                    "nameMr": "बोपेश्वर(रि)",
+                    "nameEn": "बोपेश्वर(रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-30-v-70",
+                    "serialNo": 21,
+                    "nameMr": "बोर्डकला",
+                    "nameEn": "बोर्डकला"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-31",
+                "serialNo": 10,
+                "nameMr": "मोखेबर्डी - किन्हीकला - किन्हीखुर्द (पुनर्वसन)",
+                "nameEn": "मोखेबर्डी - किन्हीकला - किन्हीखुर्द (पुनर्वसन)",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-31-v-71",
+                    "serialNo": 22,
+                    "nameMr": "मोखेबर्डी - किन्हीकला - किन्हीखुर्द (पुनर्वसन)",
+                    "nameEn": "मोखेबर्डी - किन्हीकला - किन्हीखुर्द (पुनर्वसन)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-32",
+                "serialNo": 11,
+                "nameMr": "धापर्ला डोये",
+                "nameEn": "धापर्ला डोये",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-32-v-72",
+                    "serialNo": 23,
+                    "nameMr": "किटाडी",
+                    "nameEn": "किटाडी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-32-v-73",
+                    "serialNo": 24,
+                    "nameMr": "धापर्ला डोये",
+                    "nameEn": "धापर्ला डोये"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-32-v-74",
+                    "serialNo": 25,
+                    "nameMr": "मल्हारपूर",
+                    "nameEn": "मल्हारपूर"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-111-gp-33",
+                "serialNo": 12,
+                "nameMr": "टाका",
+                "nameEn": "टाका",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-111-gp-33-v-75",
+                    "serialNo": 26,
+                    "nameMr": "टाका",
+                    "nameEn": "टाका"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bhiwapur-div-56-gan-112",
+            "number": 112,
+            "nameMr": "मालेवाडा",
+            "nameEn": "Malewada",
+            "code": "११२-मालेवाडा",
+            "gramPanchayats": [
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-34",
+                "serialNo": 1,
+                "nameMr": "पहामी",
+                "nameEn": "पहामी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-34-v-76",
+                    "serialNo": 1,
+                    "nameMr": "पहामी",
+                    "nameEn": "पहामी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-34-v-77",
+                    "serialNo": 2,
+                    "nameMr": "गरडापार",
+                    "nameEn": "गरडापार"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-35",
+                "serialNo": 2,
+                "nameMr": "मालेवाडा",
+                "nameEn": "मालेवाडा",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-35-v-78",
+                    "serialNo": 3,
+                    "nameMr": "मालेवाडा",
+                    "nameEn": "मालेवाडा"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-35-v-79",
+                    "serialNo": 4,
+                    "nameMr": "कोंडापूर (रि)",
+                    "nameEn": "कोंडापूर (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-36",
+                "serialNo": 3,
+                "nameMr": "बोटेझरी",
+                "nameEn": "बोटेझरी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-36-v-80",
+                    "serialNo": 5,
+                    "nameMr": "बोटेझरी",
+                    "nameEn": "बोटेझरी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-36-v-81",
+                    "serialNo": 6,
+                    "nameMr": "येडसंभा (रि)",
+                    "nameEn": "येडसंभा (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-37",
+                "serialNo": 4,
+                "nameMr": "चिचाळा",
+                "nameEn": "चिचाळा",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-37-v-82",
+                    "serialNo": 7,
+                    "nameMr": "चिचाळा",
+                    "nameEn": "चिचाळा"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-38",
+                "serialNo": 5,
+                "nameMr": "उखळी",
+                "nameEn": "उखळी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-38-v-83",
+                    "serialNo": 8,
+                    "nameMr": "उखळी",
+                    "nameEn": "उखळी"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-38-v-84",
+                    "serialNo": 9,
+                    "nameMr": "सुकळी",
+                    "nameEn": "सुकळी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-39",
+                "serialNo": 6,
+                "nameMr": "सालेभट्टी चोर",
+                "nameEn": "सालेभट्टी चोर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-39-v-85",
+                    "serialNo": 10,
+                    "nameMr": "सालेभट्टी चोर",
+                    "nameEn": "सालेभट्टी चोर"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-39-v-86",
+                    "serialNo": 11,
+                    "nameMr": "चोरविहीरा",
+                    "nameEn": "चोरविहीरा"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-39-v-87",
+                    "serialNo": 12,
+                    "nameMr": "भोवरी (रि)",
+                    "nameEn": "भोवरी (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-40",
+                "serialNo": 7,
+                "nameMr": "शिवापूर",
+                "nameEn": "शिवापूर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-40-v-88",
+                    "serialNo": 13,
+                    "nameMr": "शिवापूर",
+                    "nameEn": "शिवापूर"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-40-v-89",
+                    "serialNo": 14,
+                    "nameMr": "कंलांद्री (रि)",
+                    "nameEn": "कंलांद्री (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-41",
+                "serialNo": 8,
+                "nameMr": "पेंढराबोडी",
+                "nameEn": "पेंढराबोडी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-41-v-90",
+                    "serialNo": 15,
+                    "nameMr": "पेंढराबोडी",
+                    "nameEn": "पेंढराबोडी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-42",
+                "serialNo": 9,
+                "nameMr": "सरांडी",
+                "nameEn": "सरांडी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-42-v-91",
+                    "serialNo": 16,
+                    "nameMr": "सरांडी",
+                    "nameEn": "सरांडी"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-56-gan-112-gp-43",
+                "serialNo": 10,
+                "nameMr": "भगवानपूर",
+                "nameEn": "भगवानपूर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-43-v-92",
+                    "serialNo": 17,
+                    "nameMr": "भगवानपूर",
+                    "nameEn": "भगवानपूर"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-43-v-93",
+                    "serialNo": 18,
+                    "nameMr": "खरकाडा",
+                    "nameEn": "खरकाडा"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-43-v-94",
+                    "serialNo": 19,
+                    "nameMr": "पोळगाव",
+                    "nameEn": "पोळगाव"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-43-v-95",
+                    "serialNo": 20,
+                    "nameMr": "सायगाव",
+                    "nameEn": "सायगाव"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-43-v-96",
+                    "serialNo": 21,
+                    "nameMr": "तिडकेपार",
+                    "nameEn": "तिडकेपार"
+                  },
+                  {
+                    "id": "bhiwapur-div-56-gan-112-gp-43-v-97",
+                    "serialNo": 22,
+                    "nameMr": "खुर्सापार (रि)",
+                    "nameEn": "खुर्सापार (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bhiwapur-div-57",
+        "number": 57,
+        "nameMr": "नांद",
+        "nameEn": "Nand",
+        "code": "५७-नांद",
+        "gana": [
+          {
+            "id": "bhiwapur-div-57-gan-113",
+            "number": 113,
+            "nameMr": "बेसूर",
+            "nameEn": "Besur",
+            "code": "११३-बेसूर",
+            "gramPanchayats": [
+              {
+                "id": "bhiwapur-div-57-gan-113-gp-44",
+                "serialNo": 1,
+                "nameMr": "मांडवा लं",
+                "nameEn": "मांडवा लं",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-44-v-98",
+                    "serialNo": 1,
+                    "nameMr": "मांडवा लं",
+                    "nameEn": "मांडवा लं"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-44-v-99",
+                    "serialNo": 2,
+                    "nameMr": "चारगाव मु",
+                    "nameEn": "चारगाव मु"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-44-v-100",
+                    "serialNo": 3,
+                    "nameMr": "धनजीपेठ",
+                    "nameEn": "धनजीपेठ"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-113-gp-45",
+                "serialNo": 2,
+                "nameMr": "इंदापूर",
+                "nameEn": "इंदापूर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-45-v-101",
+                    "serialNo": 4,
+                    "nameMr": "इंदापूर",
+                    "nameEn": "इंदापूर"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-45-v-102",
+                    "serialNo": 5,
+                    "nameMr": "केसलापार",
+                    "nameEn": "केसलापार"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-113-gp-46",
+                "serialNo": 3,
+                "nameMr": "शिवणफळ",
+                "nameEn": "शिवणफळ",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-46-v-103",
+                    "serialNo": 6,
+                    "nameMr": "शिवणफळ",
+                    "nameEn": "शिवणफळ"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-46-v-104",
+                    "serialNo": 7,
+                    "nameMr": "नाड",
+                    "nameEn": "नाड"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-113-gp-47",
+                "serialNo": 4,
+                "nameMr": "बेसूर",
+                "nameEn": "बेसूर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-47-v-105",
+                    "serialNo": 8,
+                    "nameMr": "बेसूर",
+                    "nameEn": "बेसूर"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-113-gp-48",
+                "serialNo": 5,
+                "nameMr": "पिरावा",
+                "nameEn": "पिरावा",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-48-v-106",
+                    "serialNo": 9,
+                    "nameMr": "पिरावा",
+                    "nameEn": "पिरावा"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-48-v-107",
+                    "serialNo": 10,
+                    "nameMr": "खंडाळझरी",
+                    "nameEn": "खंडाळझरी"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-48-v-108",
+                    "serialNo": 11,
+                    "nameMr": "सुकळी (रि)",
+                    "nameEn": "सुकळी (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-113-gp-49",
+                "serialNo": 6,
+                "nameMr": "कवडसी बरड",
+                "nameEn": "कवडसी बरड",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-49-v-109",
+                    "serialNo": 12,
+                    "nameMr": "कवडसी ब",
+                    "nameEn": "कवडसी ब"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-49-v-110",
+                    "serialNo": 13,
+                    "nameMr": "चारगाव गो",
+                    "nameEn": "चारगाव गो"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-113-gp-50",
+                "serialNo": 7,
+                "nameMr": "मांगरूड",
+                "nameEn": "मांगरूड",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-113-gp-50-v-111",
+                    "serialNo": 14,
+                    "nameMr": "मांगरूड",
+                    "nameEn": "मांगरूड"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bhiwapur-div-57-gan-114",
+            "number": 114,
+            "nameMr": "नांद",
+            "nameEn": "Nand",
+            "code": "११४-नांद",
+            "gramPanchayats": [
+              {
+                "id": "bhiwapur-div-57-gan-114-gp-51",
+                "serialNo": 1,
+                "nameMr": "नांद",
+                "nameEn": "नांद",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-51-v-112",
+                    "serialNo": 1,
+                    "nameMr": "नांद",
+                    "nameEn": "नांद"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-51-v-113",
+                    "serialNo": 2,
+                    "nameMr": "मानकापूर (रि)",
+                    "nameEn": "मानकापूर (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-51-v-114",
+                    "serialNo": 3,
+                    "nameMr": "पांजरेपार",
+                    "nameEn": "पांजरेपार"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-114-gp-52",
+                "serialNo": 2,
+                "nameMr": "भिवी",
+                "nameEn": "भिवी",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-52-v-115",
+                    "serialNo": 4,
+                    "nameMr": "भिवी",
+                    "nameEn": "भिवी"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-52-v-116",
+                    "serialNo": 5,
+                    "nameMr": "उरकुडापार",
+                    "nameEn": "उरकुडापार"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-52-v-117",
+                    "serialNo": 6,
+                    "nameMr": "धर्मापार (रि)",
+                    "nameEn": "धर्मापार (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-114-gp-53",
+                "serialNo": 3,
+                "nameMr": "झमकोली",
+                "nameEn": "झमकोली",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-53-v-118",
+                    "serialNo": 7,
+                    "nameMr": "झमकोली",
+                    "nameEn": "झमकोली"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-53-v-119",
+                    "serialNo": 8,
+                    "nameMr": "बेल्लरपार",
+                    "nameEn": "बेल्लरपार"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-53-v-120",
+                    "serialNo": 9,
+                    "nameMr": "खरकाडा (रि)",
+                    "nameEn": "खरकाडा (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-114-gp-54",
+                "serialNo": 4,
+                "nameMr": "आलेसूर",
+                "nameEn": "आलेसूर",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-54-v-121",
+                    "serialNo": 10,
+                    "nameMr": "आलेसूर",
+                    "nameEn": "आलेसूर"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-54-v-122",
+                    "serialNo": 11,
+                    "nameMr": "वणी",
+                    "nameEn": "वणी"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-54-v-123",
+                    "serialNo": 12,
+                    "nameMr": "खापरी",
+                    "nameEn": "खापरी"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-54-v-124",
+                    "serialNo": 13,
+                    "nameMr": "साक्रा (रि)",
+                    "nameEn": "साक्रा (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-54-v-125",
+                    "serialNo": 14,
+                    "nameMr": "जामगाव (रि)",
+                    "nameEn": "जामगाव (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-54-v-126",
+                    "serialNo": 15,
+                    "nameMr": "खोलदोडा",
+                    "nameEn": "खोलदोडा"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-114-gp-55",
+                "serialNo": 5,
+                "nameMr": "धामनगाव ग",
+                "nameEn": "धामनगाव ग",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-55-v-127",
+                    "serialNo": 16,
+                    "nameMr": "धामनगाव ग",
+                    "nameEn": "धामनगाव ग"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-55-v-128",
+                    "serialNo": 17,
+                    "nameMr": "लोणारा",
+                    "nameEn": "लोणारा"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-114-gp-56",
+                "serialNo": 6,
+                "nameMr": "महालगाव",
+                "nameEn": "महालगाव",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-56-v-129",
+                    "serialNo": 18,
+                    "nameMr": "महालगाव",
+                    "nameEn": "महालगाव"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-56-v-130",
+                    "serialNo": 19,
+                    "nameMr": "चिखलापार",
+                    "nameEn": "चिखलापार"
+                  }
+                ]
+              },
+              {
+                "id": "bhiwapur-div-57-gan-114-gp-57",
+                "serialNo": 7,
+                "nameMr": "सालेभट्टी दंदे",
+                "nameEn": "सालेभट्टी दंदे",
+                "villages": [
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-57-v-131",
+                    "serialNo": 20,
+                    "nameMr": "सालेभट्टी दंदे",
+                    "nameEn": "सालेभट्टी दंदे"
+                  },
+                  {
+                    "id": "bhiwapur-div-57-gan-114-gp-57-v-132",
+                    "serialNo": 21,
+                    "nameMr": "खातखेडा",
+                    "nameEn": "खातखेडा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "उमरेड",
+    "talukaEn": "Umred",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "umred-div-51",
+        "number": 51,
+        "nameMr": "मकरधोकडा",
+        "nameEn": "Makardhokada",
+        "code": "५१-मकरधोकडा",
+        "gana": [
+          {
+            "id": "umred-div-51-gan-101",
+            "number": 101,
+            "nameMr": "पाचगाव",
+            "nameEn": "Pachgaon",
+            "code": "१०१-पाचगाव",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-51-gan-101-gp-1",
+                "serialNo": 1,
+                "nameMr": "पाचगाव",
+                "nameEn": "पाचगाव",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-101-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "पाचगाव",
+                    "nameEn": "पाचगाव"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "सालईमेंढा",
+                    "nameEn": "सालईमेंढा"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-101-gp-2",
+                "serialNo": 2,
+                "nameMr": "मटकाझरी",
+                "nameEn": "मटकाझरी",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-101-gp-2-v-3",
+                    "serialNo": 3,
+                    "nameMr": "मटकाझरी",
+                    "nameEn": "मटकाझरी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-2-v-4",
+                    "serialNo": 4,
+                    "nameMr": "कच्छीमेट",
+                    "nameEn": "कच्छीमेट"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-2-v-5",
+                    "serialNo": 5,
+                    "nameMr": "वडध",
+                    "nameEn": "वडध"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-2-v-6",
+                    "serialNo": 6,
+                    "nameMr": "चिमणाझरी",
+                    "nameEn": "चिमणाझरी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-101-gp-3",
+                "serialNo": 3,
+                "nameMr": "सुरगाव",
+                "nameEn": "सुरगाव",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-101-gp-3-v-7",
+                    "serialNo": 7,
+                    "nameMr": "सुरगाव",
+                    "nameEn": "सुरगाव"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-3-v-8",
+                    "serialNo": 8,
+                    "nameMr": "उंदरी",
+                    "nameEn": "उंदरी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-3-v-9",
+                    "serialNo": 9,
+                    "nameMr": "खापरी राजा",
+                    "nameEn": "खापरी राजा"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-3-v-10",
+                    "serialNo": 10,
+                    "nameMr": "माजरी रीठी",
+                    "nameEn": "माजरी रीठी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-101-gp-4",
+                "serialNo": 4,
+                "nameMr": "चांपा",
+                "nameEn": "चांपा",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-101-gp-4-v-11",
+                    "serialNo": 11,
+                    "nameMr": "चांपा",
+                    "nameEn": "चांपा"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-4-v-12",
+                    "serialNo": 12,
+                    "nameMr": "सुकळी",
+                    "nameEn": "सुकळी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-4-v-13",
+                    "serialNo": 13,
+                    "nameMr": "डवलीमेट रिठी",
+                    "nameEn": "डवलीमेट रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-101-gp-5",
+                "serialNo": 5,
+                "nameMr": "मांगली",
+                "nameEn": "मांगली",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-101-gp-5-v-14",
+                    "serialNo": 14,
+                    "nameMr": "मांगली",
+                    "nameEn": "मांगली"
+                  },
+                  {
+                    "id": "umred-div-51-gan-101-gp-5-v-15",
+                    "serialNo": 15,
+                    "nameMr": "खापरी कु.",
+                    "nameEn": "खापरी कु."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "umred-div-51-gan-102",
+            "number": 102,
+            "nameMr": "मकरधोकडा",
+            "nameEn": "Makardhokada",
+            "code": "१०२-मकरधोकडा",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-51-gan-102-gp-6",
+                "serialNo": 1,
+                "nameMr": "उटी",
+                "nameEn": "उटी",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-6-v-16",
+                    "serialNo": 1,
+                    "nameMr": "उटी",
+                    "nameEn": "उटी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-6-v-17",
+                    "serialNo": 2,
+                    "nameMr": "भिवापूर",
+                    "nameEn": "भिवापूर"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-102-gp-7",
+                "serialNo": 2,
+                "nameMr": "हळदगाव",
+                "nameEn": "हळदगाव",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-7-v-18",
+                    "serialNo": 3,
+                    "nameMr": "हळदगाव",
+                    "nameEn": "हळदगाव"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-7-v-19",
+                    "serialNo": 4,
+                    "nameMr": "पेंढरी",
+                    "nameEn": "पेंढरी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-102-gp-8",
+                "serialNo": 3,
+                "nameMr": "परसोडी",
+                "nameEn": "परसोडी",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-8-v-20",
+                    "serialNo": 5,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-8-v-21",
+                    "serialNo": 6,
+                    "nameMr": "तिखाडी",
+                    "nameEn": "तिखाडी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-8-v-22",
+                    "serialNo": 7,
+                    "nameMr": "दुधा",
+                    "nameEn": "दुधा"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-8-v-23",
+                    "serialNo": 8,
+                    "nameMr": "उमरा",
+                    "nameEn": "उमरा"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-102-gp-9",
+                "serialNo": 4,
+                "nameMr": "सायकी",
+                "nameEn": "सायकी",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-9-v-24",
+                    "serialNo": 9,
+                    "nameMr": "सायकी",
+                    "nameEn": "सायकी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-9-v-25",
+                    "serialNo": 10,
+                    "nameMr": "मासलकुंड",
+                    "nameEn": "मासलकुंड"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-9-v-26",
+                    "serialNo": 11,
+                    "nameMr": "दहेगाव",
+                    "nameEn": "दहेगाव"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-9-v-27",
+                    "serialNo": 12,
+                    "nameMr": "पारडगाव",
+                    "nameEn": "पारडगाव"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-102-gp-10",
+                "serialNo": 5,
+                "nameMr": "वेलसाखरा",
+                "nameEn": "वेलसाखरा",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-10-v-28",
+                    "serialNo": 13,
+                    "nameMr": "वेलसाखरा",
+                    "nameEn": "वेलसाखरा"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-10-v-29",
+                    "serialNo": 14,
+                    "nameMr": "उकडवाही हेटी",
+                    "nameEn": "उकडवाही हेटी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-102-gp-11",
+                "serialNo": 6,
+                "nameMr": "हेवती",
+                "nameEn": "हेवती",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-11-v-30",
+                    "serialNo": 15,
+                    "nameMr": "हेवती",
+                    "nameEn": "हेवती"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-11-v-31",
+                    "serialNo": 16,
+                    "nameMr": "सुकळी रीठी",
+                    "nameEn": "सुकळी रीठी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-102-gp-12",
+                "serialNo": 7,
+                "nameMr": "मकरधोकडा",
+                "nameEn": "मकरधोकडा",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-12-v-32",
+                    "serialNo": 17,
+                    "nameMr": "मकरधोकडा",
+                    "nameEn": "मकरधोकडा"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-12-v-33",
+                    "serialNo": 18,
+                    "nameMr": "भोपेश्वर रिठी",
+                    "nameEn": "भोपेश्वर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-51-gan-102-gp-13",
+                "serialNo": 8,
+                "nameMr": "डव्हा",
+                "nameEn": "डव्हा",
+                "villages": [
+                  {
+                    "id": "umred-div-51-gan-102-gp-13-v-34",
+                    "serialNo": 19,
+                    "nameMr": "डव्हा",
+                    "nameEn": "डव्हा"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-13-v-35",
+                    "serialNo": 20,
+                    "nameMr": "खापरी",
+                    "nameEn": "खापरी"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-13-v-36",
+                    "serialNo": 21,
+                    "nameMr": "थारा",
+                    "nameEn": "थारा"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-13-v-37",
+                    "serialNo": 22,
+                    "nameMr": "फुकेश्वर",
+                    "nameEn": "फुकेश्वर"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-13-v-38",
+                    "serialNo": 23,
+                    "nameMr": "वाघोली रिठी",
+                    "nameEn": "वाघोली रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-51-gan-102-gp-13-v-39",
+                    "serialNo": 24,
+                    "nameMr": "म्हसेपठार रिठी",
+                    "nameEn": "म्हसेपठार रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "umred-div-52",
+        "number": 52,
+        "nameMr": "वायगाव",
+        "nameEn": "Waygaon",
+        "code": "५२-वायगाव",
+        "gana": [
+          {
+            "id": "umred-div-52-gan-103",
+            "number": 103,
+            "nameMr": "वायगाव",
+            "nameEn": "Waygaon",
+            "code": "१०३-वायगाव",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-52-gan-103-gp-14",
+                "serialNo": 1,
+                "nameMr": "वायगाव (घो)",
+                "nameEn": "वायगाव (घो)",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-103-gp-14-v-40",
+                    "serialNo": 1,
+                    "nameMr": "वायगाव (घो)",
+                    "nameEn": "वायगाव (घो)"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-14-v-41",
+                    "serialNo": 2,
+                    "nameMr": "घोटुर्ली",
+                    "nameEn": "घोटुर्ली"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-14-v-42",
+                    "serialNo": 3,
+                    "nameMr": "नरसाळा रिठी",
+                    "nameEn": "नरसाळा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-14-v-43",
+                    "serialNo": 4,
+                    "nameMr": "बोरीभटारी रिठी",
+                    "nameEn": "बोरीभटारी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-14-v-44",
+                    "serialNo": 5,
+                    "nameMr": "हातकवडा रिठी",
+                    "nameEn": "हातकवडा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-103-gp-15",
+                "serialNo": 2,
+                "nameMr": "उदासा",
+                "nameEn": "उदासा",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-103-gp-15-v-45",
+                    "serialNo": 6,
+                    "nameMr": "उदासा",
+                    "nameEn": "उदासा"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-15-v-46",
+                    "serialNo": 7,
+                    "nameMr": "राजुरवाडी",
+                    "nameEn": "राजुरवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-103-gp-16",
+                "serialNo": 3,
+                "nameMr": "विरली",
+                "nameEn": "विरली",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-103-gp-16-v-47",
+                    "serialNo": 8,
+                    "nameMr": "विरली",
+                    "nameEn": "विरली"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-16-v-48",
+                    "serialNo": 9,
+                    "nameMr": "अकोला",
+                    "nameEn": "अकोला"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-16-v-49",
+                    "serialNo": 10,
+                    "nameMr": "पुसागोंदी रिठी",
+                    "nameEn": "पुसागोंदी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-16-v-50",
+                    "serialNo": 11,
+                    "nameMr": "वडेगाव",
+                    "nameEn": "वडेगाव"
+                  },
+                  {
+                    "id": "umred-div-52-gan-103-gp-16-v-51",
+                    "serialNo": 12,
+                    "nameMr": "पिपळा",
+                    "nameEn": "पिपळा"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "umred-div-52-gan-104",
+            "number": 104,
+            "nameMr": "सेव",
+            "nameEn": "Sew",
+            "code": "१०४-सेव",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-52-gan-104-gp-17",
+                "serialNo": 1,
+                "nameMr": "बोरगाव (क)",
+                "nameEn": "बोरगाव (क)",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-17-v-52",
+                    "serialNo": 1,
+                    "nameMr": "बोरगाव (क)",
+                    "nameEn": "बोरगाव (क)"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-17-v-53",
+                    "serialNo": 2,
+                    "nameMr": "कलांद्री",
+                    "nameEn": "कलांद्री"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-17-v-54",
+                    "serialNo": 3,
+                    "nameMr": "बारव्हा",
+                    "nameEn": "बारव्हा"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-17-v-55",
+                    "serialNo": 4,
+                    "nameMr": "कोलारमेट",
+                    "nameEn": "कोलारमेट"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-17-v-56",
+                    "serialNo": 5,
+                    "nameMr": "खैरी",
+                    "nameEn": "खैरी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-104-gp-18",
+                "serialNo": 2,
+                "nameMr": "निरव्हा",
+                "nameEn": "निरव्हा",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-18-v-57",
+                    "serialNo": 6,
+                    "nameMr": "निरव्हा",
+                    "nameEn": "निरव्हा"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-18-v-58",
+                    "serialNo": 7,
+                    "nameMr": "सोनपूरी",
+                    "nameEn": "सोनपूरी"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-18-v-59",
+                    "serialNo": 8,
+                    "nameMr": "सालई",
+                    "nameEn": "सालई"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-104-gp-19",
+                "serialNo": 3,
+                "nameMr": "आपतूर",
+                "nameEn": "आपतूर",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-19-v-60",
+                    "serialNo": 9,
+                    "nameMr": "आपतूर",
+                    "nameEn": "आपतूर"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-19-v-61",
+                    "serialNo": 10,
+                    "nameMr": "ब्रम्ही रिठी",
+                    "nameEn": "ब्रम्ही रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-104-gp-20",
+                "serialNo": 4,
+                "nameMr": "ब्राम्हणी",
+                "nameEn": "ब्राम्हणी",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-20-v-62",
+                    "serialNo": 11,
+                    "nameMr": "ब्राम्हणी",
+                    "nameEn": "ब्राम्हणी"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-20-v-63",
+                    "serialNo": 12,
+                    "nameMr": "कुंभापूर रिठी",
+                    "nameEn": "कुंभापूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-104-gp-21",
+                "serialNo": 5,
+                "nameMr": "गावसुत",
+                "nameEn": "गावसुत",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-21-v-64",
+                    "serialNo": 13,
+                    "nameMr": "गावसुत",
+                    "nameEn": "गावसुत"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-21-v-65",
+                    "serialNo": 14,
+                    "nameMr": "कोटगाव",
+                    "nameEn": "कोटगाव"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-104-gp-22",
+                "serialNo": 6,
+                "nameMr": "ठोंबरा",
+                "nameEn": "ठोंबरा",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-22-v-66",
+                    "serialNo": 15,
+                    "nameMr": "ठोंबरा",
+                    "nameEn": "ठोंबरा"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-104-gp-23",
+                "serialNo": 7,
+                "nameMr": "आंबोली",
+                "nameEn": "आंबोली",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-23-v-67",
+                    "serialNo": 16,
+                    "nameMr": "आंबोली",
+                    "nameEn": "आंबोली"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-23-v-68",
+                    "serialNo": 17,
+                    "nameMr": "पिराया",
+                    "nameEn": "पिराया"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-23-v-69",
+                    "serialNo": 18,
+                    "nameMr": "खापरी रिठी",
+                    "nameEn": "खापरी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-23-v-70",
+                    "serialNo": 19,
+                    "nameMr": "पौनी रिठी",
+                    "nameEn": "पौनी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-23-v-71",
+                    "serialNo": 20,
+                    "nameMr": "पिंपळखुट रिठी",
+                    "nameEn": "पिंपळखुट रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-52-gan-104-gp-24",
+                "serialNo": 8,
+                "nameMr": "सेव",
+                "nameEn": "सेव",
+                "villages": [
+                  {
+                    "id": "umred-div-52-gan-104-gp-24-v-72",
+                    "serialNo": 21,
+                    "nameMr": "सेव",
+                    "nameEn": "सेव"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-24-v-73",
+                    "serialNo": 22,
+                    "nameMr": "देणी",
+                    "nameEn": "देणी"
+                  },
+                  {
+                    "id": "umred-div-52-gan-104-gp-24-v-74",
+                    "serialNo": 23,
+                    "nameMr": "वानोडा",
+                    "nameEn": "वानोडा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "umred-div-53",
+        "number": 53,
+        "nameMr": "बेला",
+        "nameEn": "Bela",
+        "code": "५३-बेला",
+        "gana": [
+          {
+            "id": "umred-div-53-gan-105",
+            "number": 105,
+            "nameMr": "देवळो (आमगाव)",
+            "nameEn": "Devli (Amgaon)",
+            "code": "१०५-देवळो (आमगाव)",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-53-gan-105-gp-25",
+                "serialNo": 1,
+                "nameMr": "शिरपूर",
+                "nameEn": "शिरपूर",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-25-v-75",
+                    "serialNo": 1,
+                    "nameMr": "शिरपूर",
+                    "nameEn": "शिरपूर"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-25-v-76",
+                    "serialNo": 2,
+                    "nameMr": "कान्हवा",
+                    "nameEn": "कान्हवा"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-25-v-77",
+                    "serialNo": 3,
+                    "nameMr": "कटारा रिठी",
+                    "nameEn": "कटारा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-25-v-78",
+                    "serialNo": 4,
+                    "nameMr": "सोनेगाव रिठी",
+                    "nameEn": "सोनेगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-25-v-79",
+                    "serialNo": 5,
+                    "nameMr": "गणपावली रिठी",
+                    "nameEn": "गणपावली रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-105-gp-26",
+                "serialNo": 2,
+                "nameMr": "खुर्सापार (उमरेड)",
+                "nameEn": "खुर्सापार (उमरेड)",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-80",
+                    "serialNo": 6,
+                    "nameMr": "खुर्सापार (उमरेड)",
+                    "nameEn": "खुर्सापार (उमरेड)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-81",
+                    "serialNo": 7,
+                    "nameMr": "लोहारा",
+                    "nameEn": "लोहारा"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-82",
+                    "serialNo": 8,
+                    "nameMr": "पिपरडोल",
+                    "nameEn": "पिपरडोल"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-83",
+                    "serialNo": 9,
+                    "nameMr": "वाघोली रिठी",
+                    "nameEn": "वाघोली रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-84",
+                    "serialNo": 10,
+                    "nameMr": "आलागोंदी रिठी",
+                    "nameEn": "आलागोंदी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-85",
+                    "serialNo": 11,
+                    "nameMr": "पांढरतळ रिठी",
+                    "nameEn": "पांढरतळ रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-86",
+                    "serialNo": 12,
+                    "nameMr": "डोंगरगाव",
+                    "nameEn": "डोंगरगाव"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-87",
+                    "serialNo": 13,
+                    "nameMr": "पांजरेपार रिठी",
+                    "nameEn": "पांजरेपार रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-26-v-88",
+                    "serialNo": 14,
+                    "nameMr": "धामणगाव रिठी",
+                    "nameEn": "धामणगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-105-gp-27",
+                "serialNo": 3,
+                "nameMr": "देवळी (आमगाव)",
+                "nameEn": "देवळी (आमगाव)",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-89",
+                    "serialNo": 15,
+                    "nameMr": "देवळी (आमगाव)",
+                    "nameEn": "देवळी (आमगाव)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-90",
+                    "serialNo": 16,
+                    "nameMr": "आमगाव",
+                    "nameEn": "आमगाव"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-91",
+                    "serialNo": 17,
+                    "nameMr": "जांभळापाणी",
+                    "nameEn": "जांभळापाणी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-92",
+                    "serialNo": 18,
+                    "nameMr": "भिवगड",
+                    "nameEn": "भिवगड"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-93",
+                    "serialNo": 19,
+                    "nameMr": "मुरझडी",
+                    "nameEn": "मुरझडी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-94",
+                    "serialNo": 20,
+                    "nameMr": "तांबेखणी रिठी",
+                    "nameEn": "तांबेखणी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-95",
+                    "serialNo": 21,
+                    "nameMr": "तांबेखणी मा.",
+                    "nameEn": "तांबेखणी मा."
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-96",
+                    "serialNo": 22,
+                    "nameMr": "गरमसुर रिठी",
+                    "nameEn": "गरमसुर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-97",
+                    "serialNo": 23,
+                    "nameMr": "मेंढेपठार रिठी",
+                    "nameEn": "मेंढेपठार रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-98",
+                    "serialNo": 24,
+                    "nameMr": "उमरी रिठी",
+                    "nameEn": "उमरी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-27-v-99",
+                    "serialNo": 25,
+                    "nameMr": "सुरजपूर रिठी",
+                    "nameEn": "सुरजपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-105-gp-28",
+                "serialNo": 4,
+                "nameMr": "खैरी (चारगाव)",
+                "nameEn": "खैरी (चारगाव)",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-28-v-100",
+                    "serialNo": 26,
+                    "nameMr": "खैरी",
+                    "nameEn": "खैरी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-28-v-101",
+                    "serialNo": 27,
+                    "nameMr": "चारगाव",
+                    "nameEn": "चारगाव"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-28-v-102",
+                    "serialNo": 28,
+                    "nameMr": "सिंदीविहीरी",
+                    "nameEn": "सिंदीविहीरी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-28-v-103",
+                    "serialNo": 29,
+                    "nameMr": "जामगड",
+                    "nameEn": "जामगड"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-105-gp-29",
+                "serialNo": 5,
+                "nameMr": "बोथली",
+                "nameEn": "बोथली",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-104",
+                    "serialNo": 30,
+                    "nameMr": "बोथली",
+                    "nameEn": "बोथली"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-105",
+                    "serialNo": 31,
+                    "nameMr": "खैरी कलार",
+                    "nameEn": "खैरी कलार"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-106",
+                    "serialNo": 32,
+                    "nameMr": "बेंदोली",
+                    "nameEn": "बेंदोली"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-107",
+                    "serialNo": 33,
+                    "nameMr": "ठाणा पादरी",
+                    "nameEn": "ठाणा पादरी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-108",
+                    "serialNo": 34,
+                    "nameMr": "पिटीचुवा",
+                    "nameEn": "पिटीचुवा"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-109",
+                    "serialNo": 35,
+                    "nameMr": "मरजघाट रिठी",
+                    "nameEn": "मरजघाट रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-110",
+                    "serialNo": 36,
+                    "nameMr": "मरमझरी रिठी",
+                    "nameEn": "मरमझरी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-111",
+                    "serialNo": 37,
+                    "nameMr": "रिधोरा रिठी",
+                    "nameEn": "रिधोरा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-29-v-112",
+                    "serialNo": 38,
+                    "nameMr": "किन्हाळा दे.",
+                    "nameEn": "किन्हाळा दे."
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-105-gp-30",
+                "serialNo": 6,
+                "nameMr": "खुर्सापार (बेला)",
+                "nameEn": "खुर्सापार (बेला)",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-30-v-113",
+                    "serialNo": 39,
+                    "nameMr": "खुर्सापार (बेला)",
+                    "nameEn": "खुर्सापार (बेला)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-30-v-114",
+                    "serialNo": 40,
+                    "nameMr": "मुरादपूर",
+                    "nameEn": "मुरादपूर"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-30-v-115",
+                    "serialNo": 41,
+                    "nameMr": "निशाणघाट",
+                    "nameEn": "निशाणघाट"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-30-v-116",
+                    "serialNo": 42,
+                    "nameMr": "कवडापूर",
+                    "nameEn": "कवडापूर"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-105-gp-31",
+                "serialNo": 7,
+                "nameMr": "बोरगाव (लांबट)",
+                "nameEn": "बोरगाव (लांबट)",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-117",
+                    "serialNo": 43,
+                    "nameMr": "बोरगाव (लांबट)",
+                    "nameEn": "बोरगाव (लांबट)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-118",
+                    "serialNo": 44,
+                    "nameMr": "कोहळा",
+                    "nameEn": "कोहळा"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-119",
+                    "serialNo": 45,
+                    "nameMr": "पेंडकापार",
+                    "nameEn": "पेंडकापार"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-120",
+                    "serialNo": 46,
+                    "nameMr": "किन्हाळा",
+                    "nameEn": "किन्हाळा"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-121",
+                    "serialNo": 47,
+                    "nameMr": "वडगाव",
+                    "nameEn": "वडगाव"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-122",
+                    "serialNo": 48,
+                    "nameMr": "राखी रिठी",
+                    "nameEn": "राखी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-123",
+                    "serialNo": 49,
+                    "nameMr": "गोवरी रिठी",
+                    "nameEn": "गोवरी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-31-v-124",
+                    "serialNo": 50,
+                    "nameMr": "गणेशपूर रिठी",
+                    "nameEn": "गणेशपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-105-gp-32",
+                "serialNo": 8,
+                "nameMr": "सालईराणी",
+                "nameEn": "सालईराणी",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-105-gp-32-v-125",
+                    "serialNo": 51,
+                    "nameMr": "सालईराणी",
+                    "nameEn": "सालईराणी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-32-v-126",
+                    "serialNo": 52,
+                    "nameMr": "बोरगाव (का)",
+                    "nameEn": "बोरगाव (का)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-105-gp-32-v-127",
+                    "serialNo": 53,
+                    "nameMr": "सुराबर्डी",
+                    "nameEn": "सुराबर्डी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "umred-div-53-gan-106",
+            "number": 106,
+            "nameMr": "बेला",
+            "nameEn": "Bela",
+            "code": "१०६-बेला",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-53-gan-106-gp-33",
+                "serialNo": 1,
+                "nameMr": "बेला",
+                "nameEn": "बेला",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-106-gp-33-v-128",
+                    "serialNo": 1,
+                    "nameMr": "बेला",
+                    "nameEn": "बेला"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-106-gp-34",
+                "serialNo": 2,
+                "nameMr": "कळमणा (बेला)",
+                "nameEn": "कळमणा (बेला)",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-129",
+                    "serialNo": 2,
+                    "nameMr": "कळमणा (बेला)",
+                    "nameEn": "कळमणा (बेला)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-130",
+                    "serialNo": 3,
+                    "nameMr": "सालई (खुर्द)",
+                    "nameEn": "सालई (खुर्द)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-131",
+                    "serialNo": 4,
+                    "nameMr": "पवनी",
+                    "nameEn": "पवनी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-132",
+                    "serialNo": 5,
+                    "nameMr": "जैतापूर",
+                    "nameEn": "जैतापूर"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-133",
+                    "serialNo": 6,
+                    "nameMr": "मेनखात रिठी",
+                    "nameEn": "मेनखात रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-134",
+                    "serialNo": 7,
+                    "nameMr": "सालई (बुज) रिठी",
+                    "nameEn": "सालई (बुज) रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-135",
+                    "serialNo": 8,
+                    "nameMr": "सिंगापूर (रिठी)",
+                    "nameEn": "सिंगापूर (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-34-v-136",
+                    "serialNo": 9,
+                    "nameMr": "पेठमहम्मदपूर रिठी",
+                    "nameEn": "पेठमहम्मदपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-106-gp-35",
+                "serialNo": 3,
+                "nameMr": "सिंगोरी",
+                "nameEn": "सिंगोरी",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-106-gp-35-v-137",
+                    "serialNo": 10,
+                    "nameMr": "सिंगोरी",
+                    "nameEn": "सिंगोरी"
+                  },
+                  {
+                    "id": "umred-div-53-gan-106-gp-35-v-138",
+                    "serialNo": 11,
+                    "nameMr": "सायेश्वर",
+                    "nameEn": "सायेश्वर"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-53-gan-106-gp-36",
+                "serialNo": 4,
+                "nameMr": "सावंगी (बुज)",
+                "nameEn": "सावंगी (बुज)",
+                "villages": [
+                  {
+                    "id": "umred-div-53-gan-106-gp-36-v-139",
+                    "serialNo": 12,
+                    "nameMr": "सावंगी (बुज)",
+                    "nameEn": "सावंगी (बुज)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "umred-div-54",
+        "number": 54,
+        "nameMr": "सिर्सी",
+        "nameEn": "Sirsi",
+        "code": "५४-सिर्सी",
+        "gana": [
+          {
+            "id": "umred-div-54-gan-107",
+            "number": 107,
+            "nameMr": "सिर्सी",
+            "nameEn": "Sirsi",
+            "code": "१०७-सिर्सी",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-54-gan-107-gp-37",
+                "serialNo": 1,
+                "nameMr": "सावंगी (खुर्द)",
+                "nameEn": "सावंगी (खुर्द)",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-107-gp-37-v-140",
+                    "serialNo": 1,
+                    "nameMr": "सावंगी (खुर्द)",
+                    "nameEn": "सावंगी (खुर्द)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-37-v-141",
+                    "serialNo": 2,
+                    "nameMr": "बोरगाव",
+                    "nameEn": "बोरगाव"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-37-v-142",
+                    "serialNo": 3,
+                    "nameMr": "आमघाट",
+                    "nameEn": "आमघाट"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-37-v-143",
+                    "serialNo": 4,
+                    "nameMr": "बोरीमाजरा",
+                    "nameEn": "बोरीमाजरा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-37-v-144",
+                    "serialNo": 5,
+                    "nameMr": "बेलपेठ",
+                    "nameEn": "बेलपेठ"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-107-gp-38",
+                "serialNo": 2,
+                "nameMr": "शेडेश्वर",
+                "nameEn": "शेडेश्वर",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-107-gp-38-v-145",
+                    "serialNo": 6,
+                    "nameMr": "शेडेश्वर",
+                    "nameEn": "शेडेश्वर"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-38-v-146",
+                    "serialNo": 7,
+                    "nameMr": "मानोरी",
+                    "nameEn": "मानोरी"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-107-gp-39",
+                "serialNo": 3,
+                "nameMr": "पिपरा",
+                "nameEn": "पिपरा",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-107-gp-39-v-147",
+                    "serialNo": 8,
+                    "nameMr": "पिपरा",
+                    "nameEn": "पिपरा"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-107-gp-40",
+                "serialNo": 4,
+                "nameMr": "किन्हाळा",
+                "nameEn": "किन्हाळा",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-107-gp-40-v-148",
+                    "serialNo": 9,
+                    "nameMr": "किन्हाळा",
+                    "nameEn": "किन्हाळा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-40-v-149",
+                    "serialNo": 10,
+                    "nameMr": "बोथली",
+                    "nameEn": "बोथली"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-40-v-150",
+                    "serialNo": 11,
+                    "nameMr": "सांडीगोंडी रिठी",
+                    "nameEn": "सांडीगोंडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-107-gp-40-v-151",
+                    "serialNo": 12,
+                    "nameMr": "गुलालपूर रिठी",
+                    "nameEn": "गुलालपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-107-gp-41",
+                "serialNo": 5,
+                "nameMr": "सिर्सी",
+                "nameEn": "सिर्सी",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-107-gp-41-v-152",
+                    "serialNo": 13,
+                    "nameMr": "सिर्सी",
+                    "nameEn": "सिर्सी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "umred-div-54-gan-108",
+            "number": 108,
+            "nameMr": "नवेगाव (साधू)",
+            "nameEn": "Navegaon (Sadhu)",
+            "code": "१०८-नवेगाव (साधू)",
+            "gramPanchayats": [
+              {
+                "id": "umred-div-54-gan-108-gp-42",
+                "serialNo": 1,
+                "nameMr": "चनोडा",
+                "nameEn": "चनोडा",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-153",
+                    "serialNo": 1,
+                    "nameMr": "चनोडा",
+                    "nameEn": "चनोडा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-154",
+                    "serialNo": 2,
+                    "nameMr": "केसलापूर",
+                    "nameEn": "केसलापूर"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-155",
+                    "serialNo": 3,
+                    "nameMr": "चिखलधोकडा",
+                    "nameEn": "चिखलधोकडा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-156",
+                    "serialNo": 4,
+                    "nameMr": "म्हसाळा",
+                    "nameEn": "म्हसाळा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-157",
+                    "serialNo": 5,
+                    "nameMr": "नांदरा",
+                    "nameEn": "नांदरा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-158",
+                    "serialNo": 6,
+                    "nameMr": "बिडमोहना रिठी",
+                    "nameEn": "बिडमोहना रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-159",
+                    "serialNo": 7,
+                    "nameMr": "ईब्राहीमपूर रिठी",
+                    "nameEn": "ईब्राहीमपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-42-v-160",
+                    "serialNo": 8,
+                    "nameMr": "काचलकुही रिठी",
+                    "nameEn": "काचलकुही रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-108-gp-43",
+                "serialNo": 2,
+                "nameMr": "हिवरा",
+                "nameEn": "हिवरा",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-108-gp-43-v-161",
+                    "serialNo": 9,
+                    "nameMr": "हिवरा",
+                    "nameEn": "हिवरा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-43-v-162",
+                    "serialNo": 10,
+                    "nameMr": "सुकळी (जुनोनी)",
+                    "nameEn": "सुकळी (जुनोनी)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-43-v-163",
+                    "serialNo": 11,
+                    "nameMr": "सेलोटी रिठी",
+                    "nameEn": "सेलोटी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-108-gp-44",
+                "serialNo": 3,
+                "nameMr": "गोधणी",
+                "nameEn": "गोधणी",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-108-gp-44-v-164",
+                    "serialNo": 12,
+                    "nameMr": "गोधणी",
+                    "nameEn": "गोधणी"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-44-v-165",
+                    "serialNo": 13,
+                    "nameMr": "जुनोनी",
+                    "nameEn": "जुनोनी"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-44-v-166",
+                    "serialNo": 14,
+                    "nameMr": "तेलकवडसी",
+                    "nameEn": "तेलकवडसी"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-44-v-167",
+                    "serialNo": 15,
+                    "nameMr": "दिघोरी",
+                    "nameEn": "दिघोरी"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-44-v-168",
+                    "serialNo": 16,
+                    "nameMr": "सुकळी रिठी",
+                    "nameEn": "सुकळी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-44-v-169",
+                    "serialNo": 17,
+                    "nameMr": "मेटमांगरूड रिठी",
+                    "nameEn": "मेटमांगरूड रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-44-v-170",
+                    "serialNo": 18,
+                    "nameMr": "म्हसाळा",
+                    "nameEn": "म्हसाळा"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-108-gp-45",
+                "serialNo": 4,
+                "nameMr": "कळमणा (उमरेड)",
+                "nameEn": "कळमणा (उमरेड)",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-108-gp-45-v-171",
+                    "serialNo": 19,
+                    "nameMr": "कळमणा (उमरेड)",
+                    "nameEn": "कळमणा (उमरेड)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-45-v-172",
+                    "serialNo": 20,
+                    "nameMr": "सालई महालगाव",
+                    "nameEn": "सालई महालगाव"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-45-v-173",
+                    "serialNo": 21,
+                    "nameMr": "पांढराबोडी रिठी",
+                    "nameEn": "पांढराबोडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-108-gp-46",
+                "serialNo": 5,
+                "nameMr": "धुरखेडा",
+                "nameEn": "धुरखेडा",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-108-gp-46-v-174",
+                    "serialNo": 22,
+                    "nameMr": "धुरखेडा",
+                    "nameEn": "धुरखेडा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-46-v-175",
+                    "serialNo": 23,
+                    "nameMr": "मोहपा",
+                    "nameEn": "मोहपा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-46-v-176",
+                    "serialNo": 24,
+                    "nameMr": "कुंभारी",
+                    "nameEn": "कुंभारी"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-46-v-177",
+                    "serialNo": 25,
+                    "nameMr": "फत्तेपूर रिठी",
+                    "nameEn": "फत्तेपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-46-v-178",
+                    "serialNo": 26,
+                    "nameMr": "बोरगाव रिठी",
+                    "nameEn": "बोरगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "umred-div-54-gan-108-gp-47",
+                "serialNo": 6,
+                "nameMr": "नवेगाव (साधू)",
+                "nameEn": "नवेगाव (साधू)",
+                "villages": [
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-179",
+                    "serialNo": 27,
+                    "nameMr": "नवेगाव (साधू)",
+                    "nameEn": "नवेगाव (साधू)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-180",
+                    "serialNo": 28,
+                    "nameMr": "खेडी",
+                    "nameEn": "खेडी"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-181",
+                    "serialNo": 29,
+                    "nameMr": "चिचोली रिठी",
+                    "nameEn": "चिचोली रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-182",
+                    "serialNo": 30,
+                    "nameMr": "तिरखुरा",
+                    "nameEn": "तिरखुरा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-183",
+                    "serialNo": 31,
+                    "nameMr": "भापसी",
+                    "nameEn": "भापसी"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-184",
+                    "serialNo": 32,
+                    "nameMr": "क-हांडला",
+                    "nameEn": "क-हांडला"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-185",
+                    "serialNo": 33,
+                    "nameMr": "ठाणा",
+                    "nameEn": "ठाणा"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-186",
+                    "serialNo": 34,
+                    "nameMr": "वडांद्रा रिठी",
+                    "nameEn": "वडांद्रा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "umred-div-54-gan-108-gp-47-v-187",
+                    "serialNo": 35,
+                    "nameMr": "पांजरेपार रिठी",
+                    "nameEn": "पांजरेपार रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "हिंगणा",
+    "talukaEn": "Hingna",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "hingna-div-46",
+        "number": 46,
+        "nameMr": "रायपूर",
+        "nameEn": "Raipur",
+        "code": "४६-रायपूर",
+        "gana": [
+          {
+            "id": "hingna-div-46-gan-91",
+            "number": 91,
+            "nameMr": "रायपूर",
+            "nameEn": "Raipur",
+            "code": "९१-रायपूर",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-46-gan-91-gp-1",
+                "serialNo": 1,
+                "nameMr": "रायपूर",
+                "nameEn": "रायपूर",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-91-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "रायपूर",
+                    "nameEn": "रायपूर"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-46-gan-91-gp-2",
+                "serialNo": 2,
+                "nameMr": "किन्ही (धानोली)",
+                "nameEn": "किन्ही (धानोली)",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-91-gp-2-v-2",
+                    "serialNo": 2,
+                    "nameMr": "किन्ही",
+                    "nameEn": "किन्ही"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-91-gp-2-v-3",
+                    "serialNo": 3,
+                    "nameMr": "धानोली",
+                    "nameEn": "धानोली"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-91-gp-2-v-4",
+                    "serialNo": 4,
+                    "nameMr": "मांगली",
+                    "nameEn": "मांगली"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-46-gan-91-gp-3",
+                "serialNo": 3,
+                "nameMr": "जुनेवाणी",
+                "nameEn": "जुनेवाणी",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-91-gp-3-v-5",
+                    "serialNo": 5,
+                    "nameMr": "जुनेवाणी",
+                    "nameEn": "जुनेवाणी"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-91-gp-3-v-6",
+                    "serialNo": 6,
+                    "nameMr": "नांदा (खुर्द)",
+                    "nameEn": "नांदा (खुर्द)"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-91-gp-3-v-7",
+                    "serialNo": 7,
+                    "nameMr": "खैरी (खुर्द)",
+                    "nameEn": "खैरी (खुर्द)"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-91-gp-3-v-8",
+                    "serialNo": 8,
+                    "nameMr": "उखळी",
+                    "nameEn": "उखळी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "hingna-div-46-gan-92",
+            "number": 92,
+            "nameMr": "वडधामना",
+            "nameEn": "Waddhamna",
+            "code": "९२-वडधामना",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-46-gan-92-gp-4",
+                "serialNo": 1,
+                "nameMr": "वडधामना",
+                "nameEn": "वडधामना",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-92-gp-4-v-9",
+                    "serialNo": 1,
+                    "nameMr": "वडधामना",
+                    "nameEn": "वडधामना"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-92-gp-4-v-10",
+                    "serialNo": 2,
+                    "nameMr": "सावरघोटा",
+                    "nameEn": "सावरघोटा"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-92-gp-4-v-11",
+                    "serialNo": 3,
+                    "nameMr": "पेंढरी",
+                    "nameEn": "पेंढरी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-46-gan-92-gp-5",
+                "serialNo": 2,
+                "nameMr": "नागलवाडी",
+                "nameEn": "नागलवाडी",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-92-gp-5-v-12",
+                    "serialNo": 4,
+                    "nameMr": "नागलवाडी",
+                    "nameEn": "नागलवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-46-gan-92-gp-6",
+                "serialNo": 3,
+                "nameMr": "खैरी (पन्नासे)",
+                "nameEn": "खैरी (पन्नासे)",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-92-gp-6-v-13",
+                    "serialNo": 5,
+                    "nameMr": "खैरी (पन्नासे)",
+                    "nameEn": "खैरी (पन्नासे)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-46-gan-92-gp-7",
+                "serialNo": 4,
+                "nameMr": "मंगरुळ",
+                "nameEn": "मंगरुळ",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-92-gp-7-v-14",
+                    "serialNo": 6,
+                    "nameMr": "मंगरुळ",
+                    "nameEn": "मंगरुळ"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-92-gp-7-v-15",
+                    "serialNo": 7,
+                    "nameMr": "निलडोह (पन्नासे)",
+                    "nameEn": "निलडोह (पन्नासे)"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-92-gp-7-v-16",
+                    "serialNo": 8,
+                    "nameMr": "सिनका (रिठी)",
+                    "nameEn": "सिनका (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-46-gan-92-gp-8",
+                "serialNo": 5,
+                "nameMr": "मेटाउमरी",
+                "nameEn": "मेटाउमरी",
+                "villages": [
+                  {
+                    "id": "hingna-div-46-gan-92-gp-8-v-17",
+                    "serialNo": 9,
+                    "nameMr": "मेटाउमरी",
+                    "nameEn": "मेटाउमरी"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-92-gp-8-v-18",
+                    "serialNo": 10,
+                    "nameMr": "गिरोला",
+                    "nameEn": "गिरोला"
+                  },
+                  {
+                    "id": "hingna-div-46-gan-92-gp-8-v-19",
+                    "serialNo": 11,
+                    "nameMr": "म्हसाठा (रिठी)",
+                    "nameEn": "म्हसाठा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hingna-div-47",
+        "number": 47,
+        "nameMr": "ईसासनी",
+        "nameEn": "Isasani",
+        "code": "४७-ईसासनी",
+        "gana": [
+          {
+            "id": "hingna-div-47-gan-93",
+            "number": 93,
+            "nameMr": "ईसासनी",
+            "nameEn": "Isasani",
+            "code": "९३-ईसासनी",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-47-gan-93-gp-9",
+                "serialNo": 1,
+                "nameMr": "ईसासनी",
+                "nameEn": "ईसासनी",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-93-gp-9-v-20",
+                    "serialNo": 1,
+                    "nameMr": "ईसासनी",
+                    "nameEn": "ईसासनी"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-93-gp-9-v-21",
+                    "serialNo": 2,
+                    "nameMr": "वागदरा",
+                    "nameEn": "वागदरा"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "hingna-div-47-gan-94",
+            "number": 94,
+            "nameMr": "गुमगाव",
+            "nameEn": "Gumgaon",
+            "code": "९४-गुमगाव",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-47-gan-94-gp-10",
+                "serialNo": 1,
+                "nameMr": "गुमगाव",
+                "nameEn": "गुमगाव",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-94-gp-10-v-22",
+                    "serialNo": 1,
+                    "nameMr": "गुमगाव",
+                    "nameEn": "गुमगाव"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-10-v-23",
+                    "serialNo": 2,
+                    "nameMr": "किरमीटी",
+                    "nameEn": "किरमीटी"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-10-v-24",
+                    "serialNo": 3,
+                    "nameMr": "शिवमडका",
+                    "nameEn": "शिवमडका"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-10-v-25",
+                    "serialNo": 4,
+                    "nameMr": "लाडगाव (रिठी)",
+                    "nameEn": "लाडगाव (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-10-v-26",
+                    "serialNo": 5,
+                    "nameMr": "गोधणी (रिठी)",
+                    "nameEn": "गोधणी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-10-v-27",
+                    "serialNo": 6,
+                    "nameMr": "मेनखात (रिठी)",
+                    "nameEn": "मेनखात (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-47-gan-94-gp-11",
+                "serialNo": 2,
+                "nameMr": "वागदरा",
+                "nameEn": "वागदरा",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-94-gp-11-v-28",
+                    "serialNo": 7,
+                    "nameMr": "वागदरा",
+                    "nameEn": "वागदरा"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-47-gan-94-gp-12",
+                "serialNo": 3,
+                "nameMr": "धानोली (गुमगाव)",
+                "nameEn": "धानोली (गुमगाव)",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-94-gp-12-v-29",
+                    "serialNo": 8,
+                    "nameMr": "धानोली (गुमगाव)",
+                    "nameEn": "धानोली (गुमगाव)"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-12-v-30",
+                    "serialNo": 9,
+                    "nameMr": "कान्होली",
+                    "nameEn": "कान्होली"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-47-gan-94-gp-13",
+                "serialNo": 4,
+                "nameMr": "कोतेवाडा",
+                "nameEn": "कोतेवाडा",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-94-gp-13-v-31",
+                    "serialNo": 10,
+                    "nameMr": "सुमठाना",
+                    "nameEn": "सुमठाना"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-13-v-32",
+                    "serialNo": 11,
+                    "nameMr": "कोतेवाडा",
+                    "nameEn": "कोतेवाडा"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-13-v-33",
+                    "serialNo": 12,
+                    "nameMr": "सोंडापार (रिठी)",
+                    "nameEn": "सोंडापार (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-47-gan-94-gp-14",
+                "serialNo": 5,
+                "nameMr": "वडगाव (गुजर)",
+                "nameEn": "वडगाव (गुजर)",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-94-gp-14-v-34",
+                    "serialNo": 13,
+                    "nameMr": "वडगाव (गुजर)",
+                    "nameEn": "वडगाव (गुजर)"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-14-v-35",
+                    "serialNo": 14,
+                    "nameMr": "दाताळा",
+                    "nameEn": "दाताळा"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-47-gan-94-gp-15",
+                "serialNo": 6,
+                "nameMr": "शिरुळ",
+                "nameEn": "शिरुळ",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-94-gp-15-v-36",
+                    "serialNo": 15,
+                    "nameMr": "शिरुळ",
+                    "nameEn": "शिरुळ"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-15-v-37",
+                    "serialNo": 16,
+                    "nameMr": "कान्होली (रिठी)",
+                    "nameEn": "कान्होली (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-15-v-38",
+                    "serialNo": 17,
+                    "nameMr": "देवळी (पेठ)",
+                    "nameEn": "देवळी (पेठ)"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-15-v-39",
+                    "serialNo": 18,
+                    "nameMr": "चिचघाट (रिठी)",
+                    "nameEn": "चिचघाट (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-47-gan-94-gp-16",
+                "serialNo": 7,
+                "nameMr": "सालईदाभा",
+                "nameEn": "सालईदाभा",
+                "villages": [
+                  {
+                    "id": "hingna-div-47-gan-94-gp-16-v-40",
+                    "serialNo": 19,
+                    "nameMr": "सालईदाभा",
+                    "nameEn": "सालईदाभा"
+                  },
+                  {
+                    "id": "hingna-div-47-gan-94-gp-16-v-41",
+                    "serialNo": 20,
+                    "nameMr": "पोही",
+                    "nameEn": "पोही"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hingna-div-48",
+        "number": 48,
+        "nameMr": "टाकळघाट",
+        "nameEn": "Takalghat",
+        "code": "४८-टाकळघाट",
+        "gana": [
+          {
+            "id": "hingna-div-48-gan-95",
+            "number": 95,
+            "nameMr": "टाकळघाट",
+            "nameEn": "Takalghat",
+            "code": "९५-टाकळघाट",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-48-gan-95-gp-17",
+                "serialNo": 1,
+                "nameMr": "टाकळघाट",
+                "nameEn": "टाकळघाट",
+                "villages": [
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-42",
+                    "serialNo": 1,
+                    "nameMr": "खापा (रिठी)",
+                    "nameEn": "खापा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-43",
+                    "serialNo": 2,
+                    "nameMr": "गांगापूर (रिठी)",
+                    "nameEn": "गांगापूर (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-44",
+                    "serialNo": 3,
+                    "nameMr": "टाकळघाट",
+                    "nameEn": "टाकळघाट"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-45",
+                    "serialNo": 4,
+                    "nameMr": "बिडगणेशपूर",
+                    "nameEn": "बिडगणेशपूर"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-46",
+                    "serialNo": 5,
+                    "nameMr": "सुकळी (बेलदार)",
+                    "nameEn": "सुकळी (बेलदार)"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-47",
+                    "serialNo": 6,
+                    "nameMr": "मुरझडी (रिठी)",
+                    "nameEn": "मुरझडी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-48",
+                    "serialNo": 7,
+                    "nameMr": "उमरी (रिठी)",
+                    "nameEn": "उमरी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-49",
+                    "serialNo": 8,
+                    "nameMr": "देवापूर (रिठी)",
+                    "nameEn": "देवापूर (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-95-gp-17-v-50",
+                    "serialNo": 9,
+                    "nameMr": "जुनापानी (रिठी)",
+                    "nameEn": "जुनापानी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "hingna-div-48-gan-96",
+            "number": 96,
+            "nameMr": "सातगाव",
+            "nameEn": "Satgaon",
+            "code": "९६-सातगाव",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-48-gan-96-gp-18",
+                "serialNo": 1,
+                "nameMr": "सातगाव",
+                "nameEn": "सातगाव",
+                "villages": [
+                  {
+                    "id": "hingna-div-48-gan-96-gp-18-v-51",
+                    "serialNo": 1,
+                    "nameMr": "सातगाव (वेणा)",
+                    "nameEn": "सातगाव (वेणा)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-48-gan-96-gp-19",
+                "serialNo": 2,
+                "nameMr": "किरमिटी (भारकस)",
+                "nameEn": "किरमिटी (भारकस)",
+                "villages": [
+                  {
+                    "id": "hingna-div-48-gan-96-gp-19-v-52",
+                    "serialNo": 2,
+                    "nameMr": "किरमिटी (भारकस)",
+                    "nameEn": "किरमिटी (भारकस)"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-96-gp-19-v-53",
+                    "serialNo": 3,
+                    "nameMr": "टेंभरी",
+                    "nameEn": "टेंभरी"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-96-gp-19-v-54",
+                    "serialNo": 4,
+                    "nameMr": "तुरकमारी",
+                    "nameEn": "तुरकमारी"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-96-gp-19-v-55",
+                    "serialNo": 5,
+                    "nameMr": "वटेघाट",
+                    "nameEn": "वटेघाट"
+                  },
+                  {
+                    "id": "hingna-div-48-gan-96-gp-19-v-56",
+                    "serialNo": 6,
+                    "nameMr": "किन्ही",
+                    "nameEn": "किन्ही"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hingna-div-49",
+        "number": 49,
+        "nameMr": "सावंगी(देवळी)",
+        "nameEn": "Sawangi (Deoli)",
+        "code": "४९-सावंगी(देवळी)",
+        "gana": [
+          {
+            "id": "hingna-div-49-gan-97",
+            "number": 97,
+            "nameMr": "सावंगी(देवळी)",
+            "nameEn": "Sawangi (Deoli)",
+            "code": "९७-सावंगी(देवळी)",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-49-gan-97-gp-20",
+                "serialNo": 1,
+                "nameMr": "सावंगी देवळी",
+                "nameEn": "सावंगी देवळी",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-20-v-57",
+                    "serialNo": 1,
+                    "nameMr": "सावंगी देवळी",
+                    "nameEn": "सावंगी देवळी"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-20-v-58",
+                    "serialNo": 2,
+                    "nameMr": "बिडबोरगाव",
+                    "nameEn": "बिडबोरगाव"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-97-gp-21",
+                "serialNo": 2,
+                "nameMr": "सुकळी (गुपचूप)",
+                "nameEn": "सुकळी (गुपचूप)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-21-v-59",
+                    "serialNo": 3,
+                    "nameMr": "सुकळी (गुपचूप)",
+                    "nameEn": "सुकळी (गुपचूप)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-21-v-60",
+                    "serialNo": 4,
+                    "nameMr": "टाकळी",
+                    "nameEn": "टाकळी"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-21-v-61",
+                    "serialNo": 5,
+                    "nameMr": "खडका",
+                    "nameEn": "खडका"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-97-gp-22",
+                "serialNo": 3,
+                "nameMr": "मोंढा",
+                "nameEn": "मोंढा",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-22-v-62",
+                    "serialNo": 6,
+                    "nameMr": "मोंढा",
+                    "nameEn": "मोंढा"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-22-v-63",
+                    "serialNo": 7,
+                    "nameMr": "पांजरी",
+                    "nameEn": "पांजरी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-97-gp-23",
+                "serialNo": 4,
+                "nameMr": "आमगाव (देवळी)",
+                "nameEn": "आमगाव (देवळी)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-23-v-64",
+                    "serialNo": 8,
+                    "nameMr": "आमगाव (देवळी)",
+                    "nameEn": "आमगाव (देवळी)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-23-v-65",
+                    "serialNo": 9,
+                    "nameMr": "पिठेसूर (रिठी)",
+                    "nameEn": "पिठेसूर (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-23-v-66",
+                    "serialNo": 10,
+                    "nameMr": "वायफळ (रिठी)",
+                    "nameEn": "वायफळ (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-97-gp-24",
+                "serialNo": 5,
+                "nameMr": "देवळी (आमगाव)",
+                "nameEn": "देवळी (आमगाव)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-24-v-67",
+                    "serialNo": 11,
+                    "nameMr": "देवळी (आमगाव)",
+                    "nameEn": "देवळी (आमगाव)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-24-v-68",
+                    "serialNo": 12,
+                    "nameMr": "सुकळी (घारपुरे)",
+                    "nameEn": "सुकळी (घारपुरे)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-97-gp-25",
+                "serialNo": 6,
+                "nameMr": "मांडवघोराड",
+                "nameEn": "मांडवघोराड",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-25-v-69",
+                    "serialNo": 13,
+                    "nameMr": "मांडवघोराड",
+                    "nameEn": "मांडवघोराड"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-25-v-70",
+                    "serialNo": 14,
+                    "nameMr": "सालईमेंढा",
+                    "nameEn": "सालईमेंढा"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-25-v-71",
+                    "serialNo": 15,
+                    "nameMr": "भिवकुंड (रिठी)",
+                    "nameEn": "भिवकुंड (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-97-gp-26",
+                "serialNo": 7,
+                "nameMr": "मोहगाव (झिल्पी)",
+                "nameEn": "मोहगाव (झिल्पी)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-26-v-72",
+                    "serialNo": 16,
+                    "nameMr": "मोहगाव",
+                    "nameEn": "मोहगाव"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-26-v-73",
+                    "serialNo": 17,
+                    "nameMr": "झिल्पी",
+                    "nameEn": "झिल्पी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-97-gp-27",
+                "serialNo": 8,
+                "nameMr": "डेगमा (बु)",
+                "nameEn": "डेगमा (बु)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-97-gp-27-v-74",
+                    "serialNo": 18,
+                    "nameMr": "डेगमा (बु)",
+                    "nameEn": "डेगमा (बु)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-27-v-75",
+                    "serialNo": 19,
+                    "nameMr": "माथनी",
+                    "nameEn": "माथनी"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-27-v-76",
+                    "serialNo": 20,
+                    "nameMr": "कोकर्डी",
+                    "nameEn": "कोकर्डी"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-27-v-77",
+                    "serialNo": 21,
+                    "nameMr": "बिडनिलझोडी (रिठी)",
+                    "nameEn": "बिडनिलझोडी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-97-gp-27-v-78",
+                    "serialNo": 22,
+                    "nameMr": "किन्ही (रिठी)",
+                    "nameEn": "किन्ही (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "hingna-div-49-gan-98",
+            "number": 98,
+            "nameMr": "नेरी मानकर",
+            "nameEn": "Neri Mankar",
+            "code": "९८-नेरी मानकर",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-49-gan-98-gp-28",
+                "serialNo": 1,
+                "nameMr": "नेरी मानकर",
+                "nameEn": "नेरी मानकर",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-28-v-79",
+                    "serialNo": 1,
+                    "nameMr": "नेरी मानकर",
+                    "nameEn": "नेरी मानकर"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-28-v-80",
+                    "serialNo": 2,
+                    "nameMr": "किन्ही",
+                    "nameEn": "किन्ही"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-28-v-81",
+                    "serialNo": 3,
+                    "nameMr": "तुरागोंदी",
+                    "nameEn": "तुरागोंदी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-29",
+                "serialNo": 2,
+                "nameMr": "अडेगाव",
+                "nameEn": "अडेगाव",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-29-v-82",
+                    "serialNo": 4,
+                    "nameMr": "अडेगाव",
+                    "nameEn": "अडेगाव"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-29-v-83",
+                    "serialNo": 5,
+                    "nameMr": "खापरी कार्लेकर",
+                    "nameEn": "खापरी कार्लेकर"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-29-v-84",
+                    "serialNo": 6,
+                    "nameMr": "केरागोंदी (रिठी)",
+                    "nameEn": "केरागोंदी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-30",
+                "serialNo": 3,
+                "nameMr": "गिदमगड",
+                "nameEn": "गिदमगड",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-30-v-85",
+                    "serialNo": 7,
+                    "nameMr": "गिदमगड",
+                    "nameEn": "गिदमगड"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-30-v-86",
+                    "serialNo": 8,
+                    "nameMr": "गोठणगाव",
+                    "nameEn": "गोठणगाव"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-31",
+                "serialNo": 4,
+                "nameMr": "गौराळा",
+                "nameEn": "गौराळा",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-31-v-87",
+                    "serialNo": 9,
+                    "nameMr": "गौराळा",
+                    "nameEn": "गौराळा"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-31-v-88",
+                    "serialNo": 10,
+                    "nameMr": "सिताखैरी",
+                    "nameEn": "सिताखैरी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-32",
+                "serialNo": 5,
+                "nameMr": "देवळी (काळबांडे)",
+                "nameEn": "देवळी (काळबांडे)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-32-v-89",
+                    "serialNo": 11,
+                    "nameMr": "देवळी (काळबांडे)",
+                    "nameEn": "देवळी (काळबांडे)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-32-v-90",
+                    "serialNo": 12,
+                    "nameMr": "खापा खुर्द",
+                    "nameEn": "खापा खुर्द"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-32-v-91",
+                    "serialNo": 13,
+                    "nameMr": "आमगाव (रिठी)",
+                    "nameEn": "आमगाव (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-33",
+                "serialNo": 6,
+                "nameMr": "डिगडोह पांडे",
+                "nameEn": "डिगडोह पांडे",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-33-v-92",
+                    "serialNo": 14,
+                    "nameMr": "डिगडोह पांडे",
+                    "nameEn": "डिगडोह पांडे"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-33-v-93",
+                    "serialNo": 15,
+                    "nameMr": "वलनी",
+                    "nameEn": "वलनी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-34",
+                "serialNo": 7,
+                "nameMr": "उमरी वाघ",
+                "nameEn": "उमरी वाघ",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-34-v-94",
+                    "serialNo": 16,
+                    "nameMr": "उमरी वाघ",
+                    "nameEn": "उमरी वाघ"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-35",
+                "serialNo": 8,
+                "nameMr": "चिचोली (पठार)",
+                "nameEn": "चिचोली (पठार)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-35-v-95",
+                    "serialNo": 17,
+                    "nameMr": "चिचोली (पठार)",
+                    "nameEn": "चिचोली (पठार)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-36",
+                "serialNo": 9,
+                "nameMr": "सुकळी कलार",
+                "nameEn": "सुकळी कलार",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-36-v-96",
+                    "serialNo": 18,
+                    "nameMr": "सुकळी कलार",
+                    "nameEn": "सुकळी कलार"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-36-v-97",
+                    "serialNo": 19,
+                    "nameMr": "नांदेरा",
+                    "nameEn": "नांदेरा"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-36-v-98",
+                    "serialNo": 20,
+                    "nameMr": "बिडमसाळा",
+                    "nameEn": "बिडमसाळा"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-37",
+                "serialNo": 10,
+                "nameMr": "दाभा",
+                "nameEn": "दाभा",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-37-v-99",
+                    "serialNo": 21,
+                    "nameMr": "दाभा",
+                    "nameEn": "दाभा"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-37-v-100",
+                    "serialNo": 22,
+                    "nameMr": "आगरगाव",
+                    "nameEn": "आगरगाव"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-37-v-101",
+                    "serialNo": 23,
+                    "nameMr": "एरणगाव",
+                    "nameEn": "एरणगाव"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-49-gan-98-gp-38",
+                "serialNo": 11,
+                "nameMr": "डेगमा (खुर्द)",
+                "nameEn": "डेगमा (खुर्द)",
+                "villages": [
+                  {
+                    "id": "hingna-div-49-gan-98-gp-38-v-102",
+                    "serialNo": 24,
+                    "nameMr": "डेगमा (खुर्द)",
+                    "nameEn": "डेगमा (खुर्द)"
+                  },
+                  {
+                    "id": "hingna-div-49-gan-98-gp-38-v-103",
+                    "serialNo": 25,
+                    "nameMr": "अंबाझरी शेषनगर",
+                    "nameEn": "अंबाझरी शेषनगर"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hingna-div-50",
+        "number": 50,
+        "nameMr": "कान्होलीबारा",
+        "nameEn": "Kanholibara",
+        "code": "५०-कान्होलीबारा",
+        "gana": [
+          {
+            "id": "hingna-div-50-gan-99",
+            "number": 99,
+            "nameMr": "कान्होलीबारा",
+            "nameEn": "Kanholibara",
+            "code": "९९-कान्होलीबारा",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-50-gan-99-gp-39",
+                "serialNo": 1,
+                "nameMr": "कान्होलीबारा",
+                "nameEn": "कान्होलीबारा",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-99-gp-39-v-104",
+                    "serialNo": 1,
+                    "nameMr": "कान्होलीबारा",
+                    "nameEn": "कान्होलीबारा"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-99-gp-40",
+                "serialNo": 2,
+                "nameMr": "कवडस",
+                "nameEn": "कवडस",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-99-gp-40-v-105",
+                    "serialNo": 2,
+                    "nameMr": "कवडस",
+                    "nameEn": "कवडस"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-99-gp-41",
+                "serialNo": 3,
+                "nameMr": "धानोली (कवडस)",
+                "nameEn": "धानोली (कवडस)",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-99-gp-41-v-106",
+                    "serialNo": 3,
+                    "nameMr": "धानोली",
+                    "nameEn": "धानोली"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-41-v-107",
+                    "serialNo": 4,
+                    "nameMr": "मोहगाव ढोले",
+                    "nameEn": "मोहगाव ढोले"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-41-v-108",
+                    "serialNo": 5,
+                    "nameMr": "नवेगाव (खुर्द)",
+                    "nameEn": "नवेगाव (खुर्द)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-41-v-109",
+                    "serialNo": 6,
+                    "nameMr": "खापा निपाणी",
+                    "nameEn": "खापा निपाणी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-41-v-110",
+                    "serialNo": 7,
+                    "nameMr": "खोरीखापा",
+                    "nameEn": "खोरीखापा"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-99-gp-42",
+                "serialNo": 4,
+                "nameMr": "देवळी पेंढरी",
+                "nameEn": "देवळी पेंढरी",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-99-gp-42-v-111",
+                    "serialNo": 8,
+                    "nameMr": "देवळी पेंढरी",
+                    "nameEn": "देवळी पेंढरी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-42-v-112",
+                    "serialNo": 9,
+                    "nameMr": "मौदा",
+                    "nameEn": "मौदा"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-99-gp-43",
+                "serialNo": 5,
+                "nameMr": "पेंढरी (देवळी)",
+                "nameEn": "पेंढरी (देवळी)",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-99-gp-43-v-113",
+                    "serialNo": 10,
+                    "nameMr": "पेंढरी",
+                    "nameEn": "पेंढरी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-43-v-114",
+                    "serialNo": 11,
+                    "nameMr": "ईटेवाही",
+                    "nameEn": "ईटेवाही"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-43-v-115",
+                    "serialNo": 12,
+                    "nameMr": "काजळी",
+                    "nameEn": "काजळी"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-99-gp-44",
+                "serialNo": 6,
+                "nameMr": "सावळी बीबी",
+                "nameEn": "सावळी बीबी",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-99-gp-44-v-116",
+                    "serialNo": 13,
+                    "nameMr": "सावळी",
+                    "nameEn": "सावळी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-44-v-117",
+                    "serialNo": 14,
+                    "nameMr": "बीबी",
+                    "nameEn": "बीबी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-44-v-118",
+                    "serialNo": 15,
+                    "nameMr": "चौकी",
+                    "nameEn": "चौकी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-44-v-119",
+                    "serialNo": 16,
+                    "nameMr": "धोकर्डा",
+                    "nameEn": "धोकर्डा"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-99-gp-44-v-120",
+                    "serialNo": 17,
+                    "nameMr": "आलेसूर (रिठी)",
+                    "nameEn": "आलेसूर (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "hingna-div-50-gan-100",
+            "number": 100,
+            "nameMr": "खडकी",
+            "nameEn": "Khadki",
+            "code": "१००-खडकी",
+            "gramPanchayats": [
+              {
+                "id": "hingna-div-50-gan-100-gp-45",
+                "serialNo": 1,
+                "nameMr": "खडकी",
+                "nameEn": "खडकी",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-100-gp-45-v-121",
+                    "serialNo": 1,
+                    "nameMr": "खडकी",
+                    "nameEn": "खडकी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-45-v-122",
+                    "serialNo": 2,
+                    "nameMr": "सिंगारदीप",
+                    "nameEn": "सिंगारदीप"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-45-v-123",
+                    "serialNo": 3,
+                    "nameMr": "लखमापुर",
+                    "nameEn": "लखमापुर"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-45-v-124",
+                    "serialNo": 4,
+                    "nameMr": "किन्ही",
+                    "nameEn": "किन्ही"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-45-v-125",
+                    "serialNo": 5,
+                    "nameMr": "मांडवा",
+                    "nameEn": "मांडवा"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-45-v-126",
+                    "serialNo": 6,
+                    "nameMr": "भान्सोली",
+                    "nameEn": "भान्सोली"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-45-v-127",
+                    "serialNo": 7,
+                    "nameMr": "नान्ही (रिठी)",
+                    "nameEn": "नान्ही (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-100-gp-46",
+                "serialNo": 2,
+                "nameMr": "खापरी गांधी",
+                "nameEn": "खापरी गांधी",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-100-gp-46-v-128",
+                    "serialNo": 8,
+                    "nameMr": "खापरी गांधी",
+                    "nameEn": "खापरी गांधी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-46-v-129",
+                    "serialNo": 9,
+                    "nameMr": "डोंगरगाव (रिठी)",
+                    "nameEn": "डोंगरगाव (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-46-v-130",
+                    "serialNo": 10,
+                    "nameMr": "पिपरी",
+                    "nameEn": "पिपरी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-46-v-131",
+                    "serialNo": 11,
+                    "nameMr": "देवळी",
+                    "nameEn": "देवळी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-46-v-132",
+                    "serialNo": 12,
+                    "nameMr": "बोरगाव (रिठी)",
+                    "nameEn": "बोरगाव (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-46-v-133",
+                    "serialNo": 13,
+                    "nameMr": "वानार्डोंगरी (रिठी)",
+                    "nameEn": "वानार्डोंगरी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-46-v-134",
+                    "serialNo": 14,
+                    "nameMr": "आमगाव (रिठी)",
+                    "nameEn": "आमगाव (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-100-gp-47",
+                "serialNo": 3,
+                "nameMr": "खापरी (मोरेश्वर)",
+                "nameEn": "खापरी (मोरेश्वर)",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-100-gp-47-v-135",
+                    "serialNo": 15,
+                    "nameMr": "खापरी (मोरेश्वर)",
+                    "nameEn": "खापरी (मोरेश्वर)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-47-v-136",
+                    "serialNo": 16,
+                    "nameMr": "कोहळा (रिठी)",
+                    "nameEn": "कोहळा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-47-v-137",
+                    "serialNo": 17,
+                    "nameMr": "खैरी (खुर्द)",
+                    "nameEn": "खैरी (खुर्द)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-47-v-138",
+                    "serialNo": 18,
+                    "nameMr": "बोथली (रिठी)",
+                    "nameEn": "बोथली (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-100-gp-48",
+                "serialNo": 4,
+                "nameMr": "सावंगी आसोला",
+                "nameEn": "सावंगी आसोला",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-100-gp-48-v-139",
+                    "serialNo": 19,
+                    "nameMr": "आसोला",
+                    "nameEn": "आसोला"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-48-v-140",
+                    "serialNo": 20,
+                    "nameMr": "सावंगी",
+                    "nameEn": "सावंगी"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-48-v-141",
+                    "serialNo": 21,
+                    "nameMr": "घोगली (रिठी)",
+                    "nameEn": "घोगली (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-100-gp-49",
+                "serialNo": 5,
+                "nameMr": "हळदगाव",
+                "nameEn": "हळदगाव",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-100-gp-49-v-142",
+                    "serialNo": 22,
+                    "nameMr": "हळदगाव",
+                    "nameEn": "हळदगाव"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-49-v-143",
+                    "serialNo": 23,
+                    "nameMr": "वडगाव (बक्षी)",
+                    "nameEn": "वडगाव (बक्षी)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-49-v-144",
+                    "serialNo": 24,
+                    "nameMr": "भान्सोली",
+                    "nameEn": "भान्सोली"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-100-gp-50",
+                "serialNo": 6,
+                "nameMr": "घोडेघाट",
+                "nameEn": "घोडेघाट",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-100-gp-50-v-145",
+                    "serialNo": 25,
+                    "nameMr": "घोडेघाट",
+                    "nameEn": "घोडेघाट"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-50-v-146",
+                    "serialNo": 26,
+                    "nameMr": "आजनगाव",
+                    "nameEn": "आजनगाव"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-50-v-147",
+                    "serialNo": 27,
+                    "nameMr": "वारंगा",
+                    "nameEn": "वारंगा"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-50-v-148",
+                    "serialNo": 28,
+                    "nameMr": "किन्हाळा (रिठी)",
+                    "nameEn": "किन्हाळा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-50-v-149",
+                    "serialNo": 29,
+                    "nameMr": "बिडआंजनगाव (रिठी)",
+                    "nameEn": "बिडआंजनगाव (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "hingna-div-50-gan-100-gp-51",
+                "serialNo": 7,
+                "nameMr": "पिपळधरा",
+                "nameEn": "पिपळधरा",
+                "villages": [
+                  {
+                    "id": "hingna-div-50-gan-100-gp-51-v-150",
+                    "serialNo": 30,
+                    "nameMr": "पिपळधरा",
+                    "nameEn": "पिपळधरा"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-51-v-151",
+                    "serialNo": 31,
+                    "nameMr": "कटंगधरा",
+                    "nameEn": "कटंगधरा"
+                  },
+                  {
+                    "id": "hingna-div-50-gan-100-gp-51-v-152",
+                    "serialNo": 32,
+                    "nameMr": "मांडवा (मारवाडी)",
+                    "nameEn": "मांडवा (मारवाडी)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "नरखेड",
+    "talukaEn": "Narkhed",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "narkhed-div-42",
+        "number": 42,
+        "nameMr": "बेलोना",
+        "nameEn": "Belona",
+        "code": "४२-बेलोना",
+        "gana": [
+          {
+            "id": "narkhed-div-42-gan-83",
+            "number": 83,
+            "nameMr": "बेलोना",
+            "nameEn": "Belona",
+            "code": "८३-बेलोना",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-42-gan-83-gp-1",
+                "serialNo": 1,
+                "nameMr": "बेलोना",
+                "nameEn": "बेलोना",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "बेलोना",
+                    "nameEn": "बेलोना"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-83-gp-2",
+                "serialNo": 2,
+                "nameMr": "माणिकवाडा",
+                "nameEn": "माणिकवाडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-2-v-2",
+                    "serialNo": 2,
+                    "nameMr": "माणिकवाडा",
+                    "nameEn": "माणिकवाडा"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-2-v-3",
+                    "serialNo": 3,
+                    "nameMr": "भायवाडी",
+                    "nameEn": "भायवाडी"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-2-v-4",
+                    "serialNo": 4,
+                    "nameMr": "गांडेगाव",
+                    "nameEn": "गांडेगाव"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-2-v-5",
+                    "serialNo": 5,
+                    "nameMr": "नवेगाव",
+                    "nameEn": "नवेगाव"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-2-v-6",
+                    "serialNo": 6,
+                    "nameMr": "पिलापुर",
+                    "nameEn": "पिलापुर"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-83-gp-3",
+                "serialNo": 3,
+                "nameMr": "खैरगाव",
+                "nameEn": "खैरगाव",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-3-v-7",
+                    "serialNo": 7,
+                    "nameMr": "खैरगाव",
+                    "nameEn": "खैरगाव"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-83-gp-4",
+                "serialNo": 4,
+                "nameMr": "येरला इंदोरा",
+                "nameEn": "येरला इंदोरा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-4-v-8",
+                    "serialNo": 8,
+                    "nameMr": "येरला",
+                    "nameEn": "येरला"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-4-v-9",
+                    "serialNo": 9,
+                    "nameMr": "इंदोरा",
+                    "nameEn": "इंदोरा"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-4-v-10",
+                    "serialNo": 10,
+                    "nameMr": "गंगालडोह",
+                    "nameEn": "गंगालडोह"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-4-v-11",
+                    "serialNo": 11,
+                    "nameMr": "परसोडी रा.",
+                    "nameEn": "परसोडी रा."
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-83-gp-5",
+                "serialNo": 5,
+                "nameMr": "गोधनी गाय.",
+                "nameEn": "गोधनी गाय.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-5-v-12",
+                    "serialNo": 12,
+                    "nameMr": "गोधनी गाय.",
+                    "nameEn": "गोधनी गाय."
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-83-gp-5-v-13",
+                    "serialNo": 13,
+                    "nameMr": "गायमुख",
+                    "nameEn": "गायमुख"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "narkhed-div-42-gan-84",
+            "number": 84,
+            "nameMr": "खरसोली",
+            "nameEn": "Kharsoli",
+            "code": "८४-खरसोली",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-42-gan-84-gp-6",
+                "serialNo": 1,
+                "nameMr": "खरसोली",
+                "nameEn": "खरसोली",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-6-v-14",
+                    "serialNo": 1,
+                    "nameMr": "खरसोली",
+                    "nameEn": "खरसोली"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-6-v-15",
+                    "serialNo": 2,
+                    "nameMr": "नांदोरी",
+                    "nameEn": "नांदोरी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-7",
+                "serialNo": 2,
+                "nameMr": "देवग्राम",
+                "nameEn": "देवग्राम",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-7-v-16",
+                    "serialNo": 3,
+                    "nameMr": "देवग्राम",
+                    "nameEn": "देवग्राम"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-7-v-17",
+                    "serialNo": 4,
+                    "nameMr": "मोहगाव रिठी",
+                    "nameEn": "मोहगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-8",
+                "serialNo": 3,
+                "nameMr": "खेडी कर्यात",
+                "nameEn": "खेडी कर्यात",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-8-v-18",
+                    "serialNo": 5,
+                    "nameMr": "खेडी कर्यात",
+                    "nameEn": "खेडी कर्यात"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-9",
+                "serialNo": 4,
+                "nameMr": "सिंगारखेडा",
+                "nameEn": "सिंगारखेडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-9-v-19",
+                    "serialNo": 6,
+                    "nameMr": "सिंगारखेडा",
+                    "nameEn": "सिंगारखेडा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-10",
+                "serialNo": 5,
+                "nameMr": "खंडाळा बु.",
+                "nameEn": "खंडाळा बु.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-10-v-20",
+                    "serialNo": 7,
+                    "nameMr": "खंडाळा बु.",
+                    "nameEn": "खंडाळा बु."
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-11",
+                "serialNo": 6,
+                "nameMr": "वडेगांव उमरी",
+                "nameEn": "वडेगांव उमरी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-11-v-21",
+                    "serialNo": 8,
+                    "nameMr": "वडेगांव उमरी",
+                    "nameEn": "वडेगांव उमरी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-12",
+                "serialNo": 7,
+                "nameMr": "मोहदी धोत्रा",
+                "nameEn": "मोहदी धोत्रा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-12-v-22",
+                    "serialNo": 9,
+                    "nameMr": "मोहदी धोत्रा",
+                    "nameEn": "मोहदी धोत्रा"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-12-v-23",
+                    "serialNo": 10,
+                    "nameMr": "धोत्रा",
+                    "nameEn": "धोत्रा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-13",
+                "serialNo": 8,
+                "nameMr": "मोगरा",
+                "nameEn": "मोगरा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-13-v-24",
+                    "serialNo": 11,
+                    "nameMr": "मोगरा",
+                    "nameEn": "मोगरा"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-13-v-25",
+                    "serialNo": 12,
+                    "nameMr": "टोयापार",
+                    "nameEn": "टोयापार"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-14",
+                "serialNo": 9,
+                "nameMr": "देवळी",
+                "nameEn": "देवळी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-14-v-26",
+                    "serialNo": 13,
+                    "nameMr": "देवळी",
+                    "nameEn": "देवळी"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-14-v-27",
+                    "serialNo": 14,
+                    "nameMr": "जुनोना घारड",
+                    "nameEn": "जुनोना घारड"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-14-v-28",
+                    "serialNo": 15,
+                    "nameMr": "नसीरपूर रिठी",
+                    "nameEn": "नसीरपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-15",
+                "serialNo": 10,
+                "nameMr": "थुगांव निपानी",
+                "nameEn": "थुगांव निपानी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-15-v-29",
+                    "serialNo": 16,
+                    "nameMr": "थुगांव निपानी",
+                    "nameEn": "थुगांव निपानी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-42-gan-84-gp-16",
+                "serialNo": 11,
+                "nameMr": "पिंपळगाव व.",
+                "nameEn": "पिंपळगाव व.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-16-v-30",
+                    "serialNo": 17,
+                    "nameMr": "पिंपळगाव व.",
+                    "nameEn": "पिंपळगाव व."
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-16-v-31",
+                    "serialNo": 18,
+                    "nameMr": "कामठी टोला",
+                    "nameEn": "कामठी टोला"
+                  },
+                  {
+                    "id": "narkhed-div-42-gan-84-gp-16-v-32",
+                    "serialNo": 19,
+                    "nameMr": "पारडी रिठी",
+                    "nameEn": "पारडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "narkhed-div-43",
+        "number": 43,
+        "nameMr": "सावरगांव",
+        "nameEn": "Sawargaon",
+        "code": "४३-सावरगांव",
+        "gana": [
+          {
+            "id": "narkhed-div-43-gan-85",
+            "number": 85,
+            "nameMr": "सावरगांव",
+            "nameEn": "Sawargaon",
+            "code": "८५-सावरगांव",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-43-gan-85-gp-17",
+                "serialNo": 1,
+                "nameMr": "सावरगांव",
+                "nameEn": "सावरगांव",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-17-v-33",
+                    "serialNo": 1,
+                    "nameMr": "सावरगांव",
+                    "nameEn": "सावरगांव"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-17-v-34",
+                    "serialNo": 2,
+                    "nameMr": "अंबोला",
+                    "nameEn": "अंबोला"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-17-v-35",
+                    "serialNo": 3,
+                    "nameMr": "सिप्पीखापा",
+                    "nameEn": "सिप्पीखापा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-85-gp-18",
+                "serialNo": 2,
+                "nameMr": "मोहदी दळवी",
+                "nameEn": "मोहदी दळवी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-18-v-36",
+                    "serialNo": 4,
+                    "nameMr": "मोहदी दळवी",
+                    "nameEn": "मोहदी दळवी"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-18-v-37",
+                    "serialNo": 5,
+                    "nameMr": "पळसगाव रिठी",
+                    "nameEn": "पळसगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-18-v-38",
+                    "serialNo": 6,
+                    "nameMr": "सारडी",
+                    "nameEn": "सारडी"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-18-v-39",
+                    "serialNo": 7,
+                    "nameMr": "ब्राम्हणी रिठी",
+                    "nameEn": "ब्राम्हणी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-85-gp-19",
+                "serialNo": 3,
+                "nameMr": "बानोर पिठोरी",
+                "nameEn": "बानोर पिठोरी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-19-v-40",
+                    "serialNo": 8,
+                    "nameMr": "बानोर पिठोरी",
+                    "nameEn": "बानोर पिठोरी"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-19-v-41",
+                    "serialNo": 9,
+                    "nameMr": "पिठोरी",
+                    "nameEn": "पिठोरी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-85-gp-20",
+                "serialNo": 4,
+                "nameMr": "येनिकोणी",
+                "nameEn": "येनिकोणी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-20-v-42",
+                    "serialNo": 10,
+                    "nameMr": "येनी",
+                    "nameEn": "येनी"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-20-v-43",
+                    "serialNo": 11,
+                    "nameMr": "कोणी",
+                    "nameEn": "कोणी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-85-gp-21",
+                "serialNo": 5,
+                "nameMr": "अंबाडा दे.",
+                "nameEn": "अंबाडा दे.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-21-v-44",
+                    "serialNo": 12,
+                    "nameMr": "अंबाडा दे.",
+                    "nameEn": "अंबाडा दे."
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-85-gp-22",
+                "serialNo": 6,
+                "nameMr": "मालापूर",
+                "nameEn": "मालापूर",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-22-v-45",
+                    "serialNo": 13,
+                    "nameMr": "मालापूर",
+                    "nameEn": "मालापूर"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-22-v-46",
+                    "serialNo": 14,
+                    "nameMr": "बोरखेडी ठेके",
+                    "nameEn": "बोरखेडी ठेके"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-22-v-47",
+                    "serialNo": 15,
+                    "nameMr": "लोहगड माल",
+                    "nameEn": "लोहगड माल"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-85-gp-22-v-48",
+                    "serialNo": 16,
+                    "nameMr": "लोहगड ठेके",
+                    "nameEn": "लोहगड ठेके"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "narkhed-div-43-gan-86",
+            "number": 86,
+            "nameMr": "पिंपळा के.",
+            "nameEn": "Pimpla K.",
+            "code": "८६-पिंपळा के.",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-43-gan-86-gp-23",
+                "serialNo": 1,
+                "nameMr": "पिंपळा के.",
+                "nameEn": "पिंपळा के.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-23-v-49",
+                    "serialNo": 1,
+                    "nameMr": "पिंपळा के.",
+                    "nameEn": "पिंपळा के."
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-23-v-50",
+                    "serialNo": 2,
+                    "nameMr": "खुटखैरी",
+                    "nameEn": "खुटखैरी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-24",
+                "serialNo": 2,
+                "nameMr": "मोहगांव भ.",
+                "nameEn": "मोहगांव भ.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-24-v-51",
+                    "serialNo": 3,
+                    "nameMr": "मोहगांव भ.",
+                    "nameEn": "मोहगांव भ."
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-24-v-52",
+                    "serialNo": 4,
+                    "nameMr": "बोरखेडी माल",
+                    "nameEn": "बोरखेडी माल"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-25",
+                "serialNo": 3,
+                "nameMr": "मसोरा",
+                "nameEn": "मसोरा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-25-v-53",
+                    "serialNo": 5,
+                    "nameMr": "मसोरा",
+                    "nameEn": "मसोरा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-26",
+                "serialNo": 4,
+                "nameMr": "जुनोना फुके",
+                "nameEn": "जुनोना फुके",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-26-v-54",
+                    "serialNo": 6,
+                    "nameMr": "जुनोना फुके",
+                    "nameEn": "जुनोना फुके"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-26-v-55",
+                    "serialNo": 7,
+                    "nameMr": "नांदा शिदे",
+                    "nameEn": "नांदा शिदे"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-27",
+                "serialNo": 5,
+                "nameMr": "सिंदी",
+                "nameEn": "सिंदी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-27-v-56",
+                    "serialNo": 8,
+                    "nameMr": "सिंदी",
+                    "nameEn": "सिंदी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-28",
+                "serialNo": 6,
+                "nameMr": "उमरी",
+                "nameEn": "उमरी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-28-v-57",
+                    "serialNo": 9,
+                    "nameMr": "उमरी",
+                    "nameEn": "उमरी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-29",
+                "serialNo": 7,
+                "nameMr": "खेडी गो.गो.",
+                "nameEn": "खेडी गो.गो.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-29-v-58",
+                    "serialNo": 10,
+                    "nameMr": "खेडी गो.गो.",
+                    "nameEn": "खेडी गो.गो."
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-29-v-59",
+                    "serialNo": 11,
+                    "nameMr": "मन्नाथ",
+                    "nameEn": "मन्नाथ"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-30",
+                "serialNo": 8,
+                "nameMr": "शेमडा",
+                "nameEn": "शेमडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-30-v-60",
+                    "serialNo": 12,
+                    "nameMr": "शेमडा",
+                    "nameEn": "शेमडा"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-30-v-61",
+                    "serialNo": 13,
+                    "nameMr": "चौरखैरी",
+                    "nameEn": "चौरखैरी"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-30-v-62",
+                    "serialNo": 14,
+                    "nameMr": "खापरी गोसावी",
+                    "nameEn": "खापरी गोसावी"
+                  },
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-30-v-63",
+                    "serialNo": 15,
+                    "nameMr": "पिपळा खुर्द",
+                    "nameEn": "पिपळा खुर्द"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-43-gan-86-gp-31",
+                "serialNo": 9,
+                "nameMr": "आग्रा",
+                "nameEn": "आग्रा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-43-gan-86-gp-31-v-64",
+                    "serialNo": 16,
+                    "nameMr": "आग्रा",
+                    "nameEn": "आग्रा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "narkhed-div-44",
+        "number": 44,
+        "nameMr": "जलालखेडा",
+        "nameEn": "Jalalkheda",
+        "code": "४४-जलालखेडा",
+        "gana": [
+          {
+            "id": "narkhed-div-44-gan-87",
+            "number": 87,
+            "nameMr": "जलालखेडा",
+            "nameEn": "Jalalkheda",
+            "code": "८७-जलालखेडा",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-44-gan-87-gp-32",
+                "serialNo": 1,
+                "nameMr": "जलालखेडा",
+                "nameEn": "जलालखेडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-32-v-65",
+                    "serialNo": 1,
+                    "nameMr": "जलालखेडा",
+                    "nameEn": "जलालखेडा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-32-v-66",
+                    "serialNo": 2,
+                    "nameMr": "गौलखेडा",
+                    "nameEn": "गौलखेडा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-32-v-67",
+                    "serialNo": 3,
+                    "nameMr": "करिमाबाद",
+                    "nameEn": "करिमाबाद"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-32-v-68",
+                    "serialNo": 4,
+                    "nameMr": "मोहणपूर",
+                    "nameEn": "मोहणपूर"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-32-v-69",
+                    "serialNo": 5,
+                    "nameMr": "मुंडमालीपूरा",
+                    "nameEn": "मुंडमालीपूरा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-32-v-70",
+                    "serialNo": 6,
+                    "nameMr": "रामगांव रिठी",
+                    "nameEn": "रामगांव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-33",
+                "serialNo": 2,
+                "nameMr": "पेठ ईस्माइलपूर",
+                "nameEn": "पेठ ईस्माइलपूर",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-33-v-71",
+                    "serialNo": 7,
+                    "nameMr": "पेठ ईस्माइलपूर",
+                    "nameEn": "पेठ ईस्माइलपूर"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-33-v-72",
+                    "serialNo": 8,
+                    "nameMr": "खडकी",
+                    "nameEn": "खडकी"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-33-v-73",
+                    "serialNo": 9,
+                    "nameMr": "मिर्झापूर",
+                    "nameEn": "मिर्झापूर"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-33-v-74",
+                    "serialNo": 10,
+                    "nameMr": "नांदणी",
+                    "nameEn": "नांदणी"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-33-v-75",
+                    "serialNo": 11,
+                    "nameMr": "शाबासपूर रिठी",
+                    "nameEn": "शाबासपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-34",
+                "serialNo": 3,
+                "nameMr": "महेंद्री",
+                "nameEn": "महेंद्री",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-34-v-76",
+                    "serialNo": 12,
+                    "nameMr": "महेंद्री",
+                    "nameEn": "महेंद्री"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-35",
+                "serialNo": 4,
+                "nameMr": "वडविहीरा",
+                "nameEn": "वडविहीरा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-35-v-77",
+                    "serialNo": 13,
+                    "nameMr": "वडविहीरा",
+                    "nameEn": "वडविहीरा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-36",
+                "serialNo": 5,
+                "nameMr": "दातेवाडी",
+                "nameEn": "दातेवाडी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-36-v-78",
+                    "serialNo": 14,
+                    "nameMr": "दातेवाडी",
+                    "nameEn": "दातेवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-37",
+                "serialNo": 6,
+                "nameMr": "उमठा",
+                "nameEn": "उमठा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-37-v-79",
+                    "serialNo": 15,
+                    "nameMr": "उमठा",
+                    "nameEn": "उमठा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-37-v-80",
+                    "serialNo": 16,
+                    "nameMr": "तळेगांव रिठी",
+                    "nameEn": "तळेगांव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-38",
+                "serialNo": 7,
+                "nameMr": "वाढोणा",
+                "nameEn": "वाढोणा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-38-v-81",
+                    "serialNo": 17,
+                    "nameMr": "वाढोणा",
+                    "nameEn": "वाढोणा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-38-v-82",
+                    "serialNo": 18,
+                    "nameMr": "पिपळदरा",
+                    "nameEn": "पिपळदरा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-39",
+                "serialNo": 8,
+                "nameMr": "आरंभी",
+                "nameEn": "आरंभी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-39-v-83",
+                    "serialNo": 19,
+                    "nameMr": "आरंभी",
+                    "nameEn": "आरंभी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-40",
+                "serialNo": 9,
+                "nameMr": "हिवरमठ",
+                "nameEn": "हिवरमठ",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-40-v-84",
+                    "serialNo": 20,
+                    "nameMr": "हिवरमठ",
+                    "nameEn": "हिवरमठ"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-40-v-85",
+                    "serialNo": 21,
+                    "nameMr": "मठ रिठी",
+                    "nameEn": "मठ रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-87-gp-41",
+                "serialNo": 10,
+                "nameMr": "मदना",
+                "nameEn": "मदना",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-41-v-86",
+                    "serialNo": 22,
+                    "nameMr": "मदना",
+                    "nameEn": "मदना"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-87-gp-41-v-87",
+                    "serialNo": 23,
+                    "nameMr": "बोपापूर",
+                    "nameEn": "बोपापूर"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "narkhed-div-44-gan-88",
+            "number": 88,
+            "nameMr": "मेंढला",
+            "nameEn": "Mendhala",
+            "code": "८८-मेंढला",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-44-gan-88-gp-42",
+                "serialNo": 1,
+                "nameMr": "मेंढला",
+                "nameEn": "मेंढला",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-42-v-88",
+                    "serialNo": 1,
+                    "nameMr": "मेंढला",
+                    "nameEn": "मेंढला"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-43",
+                "serialNo": 2,
+                "nameMr": "अंबाडा",
+                "nameEn": "अंबाडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-43-v-89",
+                    "serialNo": 2,
+                    "nameMr": "अंबाडा सा.",
+                    "nameEn": "अंबाडा सा."
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-44",
+                "serialNo": 3,
+                "nameMr": "थडीपवनी",
+                "nameEn": "थडीपवनी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-44-v-90",
+                    "serialNo": 3,
+                    "nameMr": "थडीपवनी",
+                    "nameEn": "थडीपवनी"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-44-v-91",
+                    "serialNo": 4,
+                    "nameMr": "बरडपवनी",
+                    "nameEn": "बरडपवनी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-45",
+                "serialNo": 4,
+                "nameMr": "खरबडी",
+                "nameEn": "खरबडी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-45-v-92",
+                    "serialNo": 5,
+                    "nameMr": "खरबडी",
+                    "nameEn": "खरबडी"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-45-v-93",
+                    "serialNo": 6,
+                    "nameMr": "खेडी खुर्द",
+                    "nameEn": "खेडी खुर्द"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-45-v-94",
+                    "serialNo": 7,
+                    "nameMr": "महाजनपूर",
+                    "nameEn": "महाजनपूर"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-46",
+                "serialNo": 5,
+                "nameMr": "साखरखेडा",
+                "nameEn": "साखरखेडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-46-v-95",
+                    "serialNo": 8,
+                    "nameMr": "साखरखेडा",
+                    "nameEn": "साखरखेडा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-46-v-96",
+                    "serialNo": 9,
+                    "nameMr": "भैयापूर",
+                    "nameEn": "भैयापूर"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-46-v-97",
+                    "serialNo": 10,
+                    "nameMr": "ममदापूर",
+                    "nameEn": "ममदापूर"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-47",
+                "serialNo": 6,
+                "nameMr": "दावसा",
+                "nameEn": "दावसा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-47-v-98",
+                    "serialNo": 11,
+                    "nameMr": "दावसा",
+                    "nameEn": "दावसा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-48",
+                "serialNo": 7,
+                "nameMr": "बानोरचंद्र",
+                "nameEn": "बानोरचंद्र",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-48-v-99",
+                    "serialNo": 12,
+                    "nameMr": "बानोरचंद्र",
+                    "nameEn": "बानोरचंद्र"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-48-v-100",
+                    "serialNo": 13,
+                    "nameMr": "चिंचकूंभ",
+                    "nameEn": "चिंचकूंभ"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-48-v-101",
+                    "serialNo": 14,
+                    "nameMr": "रामपूरी माल",
+                    "nameEn": "रामपूरी माल"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-48-v-102",
+                    "serialNo": 15,
+                    "nameMr": "रामपूरी रिठी",
+                    "nameEn": "रामपूरी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-48-v-103",
+                    "serialNo": 16,
+                    "nameMr": "उदापूर",
+                    "nameEn": "उदापूर"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-49",
+                "serialNo": 8,
+                "nameMr": "सायवाडा",
+                "nameEn": "सायवाडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-49-v-104",
+                    "serialNo": 17,
+                    "nameMr": "सायवाडा",
+                    "nameEn": "सायवाडा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-49-v-105",
+                    "serialNo": 18,
+                    "nameMr": "खलानगोंदी",
+                    "nameEn": "खलानगोंदी"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-49-v-106",
+                    "serialNo": 19,
+                    "nameMr": "खारगड",
+                    "nameEn": "खारगड"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-49-v-107",
+                    "serialNo": 20,
+                    "nameMr": "उतारा",
+                    "nameEn": "उतारा"
+                  },
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-49-v-108",
+                    "serialNo": 21,
+                    "nameMr": "तारा",
+                    "nameEn": "तारा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-50",
+                "serialNo": 9,
+                "nameMr": "रामठी",
+                "nameEn": "रामठी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-50-v-109",
+                    "serialNo": 22,
+                    "nameMr": "रामठी",
+                    "nameEn": "रामठी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-44-gan-88-gp-51",
+                "serialNo": 10,
+                "nameMr": "सिंजर",
+                "nameEn": "सिंजर",
+                "villages": [
+                  {
+                    "id": "narkhed-div-44-gan-88-gp-51-v-110",
+                    "serialNo": 23,
+                    "nameMr": "सिंजर",
+                    "nameEn": "सिंजर"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "narkhed-div-45",
+        "number": 45,
+        "nameMr": "भिष्णूर",
+        "nameEn": "Bhishnur",
+        "code": "४५-भिष्णूर",
+        "gana": [
+          {
+            "id": "narkhed-div-45-gan-89",
+            "number": 89,
+            "nameMr": "भिष्णुर",
+            "nameEn": "Bhishnur",
+            "code": "८९-भिष्णुर",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-45-gan-89-gp-52",
+                "serialNo": 1,
+                "nameMr": "भिष्णूर",
+                "nameEn": "भिष्णूर",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-52-v-111",
+                    "serialNo": 1,
+                    "nameMr": "भिष्णूर",
+                    "nameEn": "भिष्णूर"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-53",
+                "serialNo": 2,
+                "nameMr": "जामगांव खुर्द",
+                "nameEn": "जामगांव खुर्द",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-53-v-112",
+                    "serialNo": 2,
+                    "nameMr": "जामगांव खुर्द",
+                    "nameEn": "जामगांव खुर्द"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-53-v-113",
+                    "serialNo": 3,
+                    "nameMr": "जोलवाडी",
+                    "nameEn": "जोलवाडी"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-53-v-114",
+                    "serialNo": 4,
+                    "nameMr": "करंजोली",
+                    "nameEn": "करंजोली"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-53-v-115",
+                    "serialNo": 5,
+                    "nameMr": "रानवाडी",
+                    "nameEn": "रानवाडी"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-53-v-116",
+                    "serialNo": 6,
+                    "nameMr": "पानवाडी",
+                    "nameEn": "पानवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-54",
+                "serialNo": 3,
+                "nameMr": "तिनखेडा",
+                "nameEn": "तिनखेडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-54-v-117",
+                    "serialNo": 7,
+                    "nameMr": "तिनखेडा",
+                    "nameEn": "तिनखेडा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-55",
+                "serialNo": 4,
+                "nameMr": "पिपळगांव रा.",
+                "nameEn": "पिपळगांव रा.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-55-v-118",
+                    "serialNo": 8,
+                    "nameMr": "पिपळगांव रा.",
+                    "nameEn": "पिपळगांव रा."
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-56",
+                "serialNo": 5,
+                "nameMr": "परसोडी दि.",
+                "nameEn": "परसोडी दि.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-56-v-119",
+                    "serialNo": 9,
+                    "nameMr": "परसोडी दि.",
+                    "nameEn": "परसोडी दि."
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-56-v-120",
+                    "serialNo": 10,
+                    "nameMr": "नवाबपूर रिठी",
+                    "nameEn": "नवाबपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-57",
+                "serialNo": 6,
+                "nameMr": "नारसिंगी",
+                "nameEn": "नारसिंगी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-57-v-121",
+                    "serialNo": 11,
+                    "nameMr": "नारसिंगी",
+                    "nameEn": "नारसिंगी"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-57-v-122",
+                    "serialNo": 12,
+                    "nameMr": "नायगांव ठा.",
+                    "nameEn": "नायगांव ठा."
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-57-v-123",
+                    "serialNo": 13,
+                    "nameMr": "रामपूर रिठी",
+                    "nameEn": "रामपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-58",
+                "serialNo": 7,
+                "nameMr": "भारसिंगी",
+                "nameEn": "भारसिंगी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-58-v-124",
+                    "serialNo": 14,
+                    "nameMr": "भारसिंगी",
+                    "nameEn": "भारसिंगी"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-58-v-125",
+                    "serialNo": 15,
+                    "nameMr": "सहजापूर",
+                    "nameEn": "सहजापूर"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-59",
+                "serialNo": 8,
+                "nameMr": "विवरा",
+                "nameEn": "विवरा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-59-v-126",
+                    "serialNo": 16,
+                    "nameMr": "विवरा",
+                    "nameEn": "विवरा"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-59-v-127",
+                    "serialNo": 17,
+                    "nameMr": "खुशालपूर",
+                    "nameEn": "खुशालपूर"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-59-v-128",
+                    "serialNo": 18,
+                    "nameMr": "नायगांव धो.",
+                    "nameEn": "नायगांव धो."
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-60",
+                "serialNo": 9,
+                "nameMr": "दिंदरगांव",
+                "nameEn": "दिंदरगांव",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-60-v-129",
+                    "serialNo": 19,
+                    "nameMr": "दिंदरगांव",
+                    "nameEn": "दिंदरगांव"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-60-v-130",
+                    "serialNo": 20,
+                    "nameMr": "मिलानपूर रिठी",
+                    "nameEn": "मिलानपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-60-v-131",
+                    "serialNo": 21,
+                    "nameMr": "सोनपूर रिठी",
+                    "nameEn": "सोनपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-89-gp-61",
+                "serialNo": 10,
+                "nameMr": "जामगांव बु.",
+                "nameEn": "जामगांव बु.",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-89-gp-61-v-132",
+                    "serialNo": 22,
+                    "nameMr": "जामगांव बु.",
+                    "nameEn": "जामगांव बु."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "narkhed-div-45-gan-90",
+            "number": 90,
+            "nameMr": "लोहारी सावंगा",
+            "nameEn": "Lohari Sawanga",
+            "code": "९०-लोहारी सावंगा",
+            "gramPanchayats": [
+              {
+                "id": "narkhed-div-45-gan-90-gp-62",
+                "serialNo": 1,
+                "nameMr": "लोहारी सावंगा",
+                "nameEn": "लोहारी सावंगा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-62-v-133",
+                    "serialNo": 1,
+                    "nameMr": "लोहारी सावंगा",
+                    "nameEn": "लोहारी सावंगा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-63",
+                "serialNo": 2,
+                "nameMr": "खराळा",
+                "nameEn": "खराळा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-63-v-134",
+                    "serialNo": 2,
+                    "nameMr": "खराळा",
+                    "nameEn": "खराळा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-64",
+                "serialNo": 3,
+                "nameMr": "खराशी",
+                "nameEn": "खराशी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-64-v-135",
+                    "serialNo": 3,
+                    "nameMr": "खराशी",
+                    "nameEn": "खराशी"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-64-v-136",
+                    "serialNo": 4,
+                    "nameMr": "गुमगांव",
+                    "nameEn": "गुमगांव"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-64-v-137",
+                    "serialNo": 5,
+                    "nameMr": "जाटलापूर",
+                    "nameEn": "जाटलापूर"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-64-v-138",
+                    "serialNo": 6,
+                    "nameMr": "सालई रिठी",
+                    "nameEn": "सालई रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-65",
+                "serialNo": 4,
+                "nameMr": "घोगरा",
+                "nameEn": "घोगरा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-65-v-139",
+                    "serialNo": 7,
+                    "nameMr": "घोगरा",
+                    "nameEn": "घोगरा"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-65-v-140",
+                    "serialNo": 8,
+                    "nameMr": "जुनेवाणी",
+                    "nameEn": "जुनेवाणी"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-65-v-141",
+                    "serialNo": 9,
+                    "nameMr": "लोहारा",
+                    "nameEn": "लोहारा"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-65-v-142",
+                    "serialNo": 10,
+                    "nameMr": "सोनेगांव रिठी",
+                    "nameEn": "सोनेगांव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-66",
+                "serialNo": 5,
+                "nameMr": "रोहणा",
+                "nameEn": "रोहणा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-66-v-143",
+                    "serialNo": 11,
+                    "nameMr": "रोहणा",
+                    "nameEn": "रोहणा"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-66-v-144",
+                    "serialNo": 12,
+                    "nameMr": "इंदरवाडा",
+                    "nameEn": "इंदरवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-67",
+                "serialNo": 6,
+                "nameMr": "मायवाडी",
+                "nameEn": "मायवाडी",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-67-v-145",
+                    "serialNo": 13,
+                    "nameMr": "मायवाडी",
+                    "nameEn": "मायवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-68",
+                "serialNo": 7,
+                "nameMr": "थाटूरवाडा",
+                "nameEn": "थाटूरवाडा",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-68-v-146",
+                    "serialNo": 14,
+                    "nameMr": "थाटूरवाडा",
+                    "nameEn": "थाटूरवाडा"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-68-v-147",
+                    "serialNo": 15,
+                    "nameMr": "बाभूळखेडा",
+                    "nameEn": "बाभूळखेडा"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-68-v-148",
+                    "serialNo": 16,
+                    "nameMr": "वरंजाळी",
+                    "nameEn": "वरंजाळी"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-69",
+                "serialNo": 8,
+                "nameMr": "खापरी केने",
+                "nameEn": "खापरी केने",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-69-v-149",
+                    "serialNo": 17,
+                    "nameMr": "खापरी केने",
+                    "nameEn": "खापरी केने"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-69-v-150",
+                    "serialNo": 18,
+                    "nameMr": "अंबाडा रिठी",
+                    "nameEn": "अंबाडा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-69-v-151",
+                    "serialNo": 19,
+                    "nameMr": "नारायणपूर रिठी",
+                    "nameEn": "नारायणपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "narkhed-div-45-gan-90-gp-70",
+                "serialNo": 9,
+                "nameMr": "खापा घु",
+                "nameEn": "खापा घु",
+                "villages": [
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-70-v-152",
+                    "serialNo": 20,
+                    "nameMr": "खापा घु",
+                    "nameEn": "खापा घु"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-70-v-153",
+                    "serialNo": 21,
+                    "nameMr": "कुकडी रिठी",
+                    "nameEn": "कुकडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "narkhed-div-45-gan-90-gp-70-v-154",
+                    "serialNo": 22,
+                    "nameMr": "काकडधरा",
+                    "nameEn": "काकडधरा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "काटोल",
+    "talukaEn": "Katol",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "katol-div-38",
+        "number": 38,
+        "nameMr": "येनवा",
+        "nameEn": "Yenwa",
+        "code": "३८-येनवा",
+        "gana": [
+          {
+            "id": "katol-div-38-gan-75",
+            "number": 75,
+            "nameMr": "येनवा",
+            "nameEn": "Yenwa",
+            "code": "७५-येनवा",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-38-gan-75-gp-1",
+                "serialNo": 1,
+                "nameMr": "येनवा",
+                "nameEn": "येनवा",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "येनवा",
+                    "nameEn": "येनवा"
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "सालई रीठी",
+                    "nameEn": "सालई रीठी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-2",
+                "serialNo": 2,
+                "nameMr": "दिग्रस बु.",
+                "nameEn": "दिग्रस बु.",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-2-v-3",
+                    "serialNo": 3,
+                    "nameMr": "दिग्रस बु.",
+                    "nameEn": "दिग्रस बु."
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-2-v-4",
+                    "serialNo": 4,
+                    "nameMr": "इसासनी",
+                    "nameEn": "इसासनी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-3",
+                "serialNo": 3,
+                "nameMr": "वंडली खु.",
+                "nameEn": "वंडली खु.",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-3-v-5",
+                    "serialNo": 5,
+                    "nameMr": "वंडली खु.",
+                    "nameEn": "वंडली खु."
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-4",
+                "serialNo": 4,
+                "nameMr": "मसली",
+                "nameEn": "मसली",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-4-v-6",
+                    "serialNo": 6,
+                    "nameMr": "मसली",
+                    "nameEn": "मसली"
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-4-v-7",
+                    "serialNo": 7,
+                    "nameMr": "बाबुळखेडा रिठी",
+                    "nameEn": "बाबुळखेडा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-5",
+                "serialNo": 5,
+                "nameMr": "कलंभा",
+                "nameEn": "कलंभा",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-5-v-8",
+                    "serialNo": 8,
+                    "nameMr": "कलंभा",
+                    "nameEn": "कलंभा"
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-5-v-9",
+                    "serialNo": 9,
+                    "nameMr": "मोहखेडी",
+                    "nameEn": "मोहखेडी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-6",
+                "serialNo": 6,
+                "nameMr": "वाढोणा",
+                "nameEn": "वाढोणा",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-6-v-10",
+                    "serialNo": 10,
+                    "nameMr": "वाढोणा",
+                    "nameEn": "वाढोणा"
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-6-v-11",
+                    "serialNo": 11,
+                    "nameMr": "कारला",
+                    "nameEn": "कारला"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-7",
+                "serialNo": 7,
+                "nameMr": "येरला धोटे",
+                "nameEn": "येरला धोटे",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-7-v-12",
+                    "serialNo": 12,
+                    "nameMr": "येरला धोटे",
+                    "nameEn": "येरला धोटे"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-8",
+                "serialNo": 8,
+                "nameMr": "डोरली भांडवलकर",
+                "nameEn": "डोरली भांडवलकर",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-8-v-13",
+                    "serialNo": 13,
+                    "nameMr": "डोरली भांडवलकर",
+                    "nameEn": "डोरली भांडवलकर"
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-8-v-14",
+                    "serialNo": 14,
+                    "nameMr": "मुकनी",
+                    "nameEn": "मुकनी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-9",
+                "serialNo": 9,
+                "nameMr": "गोंडीदिग्रस",
+                "nameEn": "गोंडीदिग्रस",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-9-v-15",
+                    "serialNo": 15,
+                    "nameMr": "गोंडीदिग्रस",
+                    "nameEn": "गोंडीदिग्रस"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-10",
+                "serialNo": 10,
+                "nameMr": "राजनी",
+                "nameEn": "राजनी",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-10-v-16",
+                    "serialNo": 16,
+                    "nameMr": "राजनी",
+                    "nameEn": "राजनी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-75-gp-11",
+                "serialNo": 11,
+                "nameMr": "सिर्सावाडी",
+                "nameEn": "सिर्सावाडी",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-75-gp-11-v-17",
+                    "serialNo": 17,
+                    "nameMr": "सिर्सावाडी",
+                    "nameEn": "सिर्सावाडी"
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-11-v-18",
+                    "serialNo": 18,
+                    "nameMr": "चिचाळा",
+                    "nameEn": "चिचाळा"
+                  },
+                  {
+                    "id": "katol-div-38-gan-75-gp-11-v-19",
+                    "serialNo": 19,
+                    "nameMr": "नायगाव",
+                    "nameEn": "नायगाव"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "katol-div-38-gan-76",
+            "number": 76,
+            "nameMr": "झिलपा",
+            "nameEn": "Zilpa",
+            "code": "७६-झिलपा",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-38-gan-76-gp-12",
+                "serialNo": 1,
+                "nameMr": "झिलपा",
+                "nameEn": "झिलपा",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-12-v-20",
+                    "serialNo": 1,
+                    "nameMr": "झिलपा",
+                    "nameEn": "झिलपा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-13",
+                "serialNo": 2,
+                "nameMr": "गोंडीमोहगाव",
+                "nameEn": "गोंडीमोहगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-13-v-21",
+                    "serialNo": 2,
+                    "nameMr": "गोंडीमोहगाव",
+                    "nameEn": "गोंडीमोहगाव"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-13-v-22",
+                    "serialNo": 3,
+                    "nameMr": "जटामझरी",
+                    "nameEn": "जटामझरी"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-13-v-23",
+                    "serialNo": 4,
+                    "nameMr": "पांजरा रिठी",
+                    "nameEn": "पांजरा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-13-v-24",
+                    "serialNo": 5,
+                    "nameMr": "बिट जटामझरी",
+                    "nameEn": "बिट जटामझरी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-14",
+                "serialNo": 3,
+                "nameMr": "तपनी",
+                "nameEn": "तपनी",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-14-v-25",
+                    "serialNo": 6,
+                    "nameMr": "तपनी",
+                    "nameEn": "तपनी"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-14-v-26",
+                    "serialNo": 7,
+                    "nameMr": "गोल्हरखापा",
+                    "nameEn": "गोल्हरखापा"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-14-v-27",
+                    "serialNo": 8,
+                    "nameMr": "पारडी रिठी",
+                    "nameEn": "पारडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-15",
+                "serialNo": 4,
+                "nameMr": "बोरी",
+                "nameEn": "बोरी",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-15-v-28",
+                    "serialNo": 9,
+                    "nameMr": "बोरी",
+                    "nameEn": "बोरी"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-15-v-29",
+                    "serialNo": 10,
+                    "nameMr": "खैरी नवघरे",
+                    "nameEn": "खैरी नवघरे"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-16",
+                "serialNo": 5,
+                "nameMr": "मेंडकी",
+                "nameEn": "मेंडकी",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-16-v-30",
+                    "serialNo": 11,
+                    "nameMr": "मेंडकी",
+                    "nameEn": "मेंडकी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-17",
+                "serialNo": 6,
+                "nameMr": "गोन्ही",
+                "nameEn": "गोन्ही",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-17-v-31",
+                    "serialNo": 12,
+                    "nameMr": "गोन्ही",
+                    "nameEn": "गोन्ही"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-17-v-32",
+                    "serialNo": 13,
+                    "nameMr": "चिखली मैना",
+                    "nameEn": "चिखली मैना"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-18",
+                "serialNo": 7,
+                "nameMr": "सोनोली",
+                "nameEn": "सोनोली",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-18-v-33",
+                    "serialNo": 14,
+                    "nameMr": "सोनोली",
+                    "nameEn": "सोनोली"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-18-v-34",
+                    "serialNo": 15,
+                    "nameMr": "नांदा रिठी",
+                    "nameEn": "नांदा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-19",
+                "serialNo": 8,
+                "nameMr": "इसापूर खुर्द",
+                "nameEn": "इसापूर खुर्द",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-19-v-35",
+                    "serialNo": 16,
+                    "nameMr": "इसापूर खुर्द",
+                    "nameEn": "इसापूर खुर्द"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-20",
+                "serialNo": 9,
+                "nameMr": "इसापूर बु.",
+                "nameEn": "इसापूर बु.",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-20-v-36",
+                    "serialNo": 17,
+                    "nameMr": "इसापूर बु.",
+                    "nameEn": "इसापूर बु."
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-21",
+                "serialNo": 10,
+                "nameMr": "खामली",
+                "nameEn": "खामली",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-21-v-37",
+                    "serialNo": 18,
+                    "nameMr": "खामली",
+                    "nameEn": "खामली"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-38-gan-76-gp-22",
+                "serialNo": 11,
+                "nameMr": "डोंगरगाव",
+                "nameEn": "डोंगरगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-38-gan-76-gp-22-v-38",
+                    "serialNo": 19,
+                    "nameMr": "डोंगरगाव",
+                    "nameEn": "डोंगरगाव"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-22-v-39",
+                    "serialNo": 20,
+                    "nameMr": "पठार",
+                    "nameEn": "पठार"
+                  },
+                  {
+                    "id": "katol-div-38-gan-76-gp-22-v-40",
+                    "serialNo": 21,
+                    "nameMr": "अमनेरगोंदी",
+                    "nameEn": "अमनेरगोंदी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "katol-div-39",
+        "number": 39,
+        "nameMr": "रिधोरा",
+        "nameEn": "Ridhora",
+        "code": "३९-रिधोरा",
+        "gana": [
+          {
+            "id": "katol-div-39-gan-77",
+            "number": 77,
+            "nameMr": "रिधोरा",
+            "nameEn": "Ridhora",
+            "code": "७७-रिधोरा",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-39-gan-77-gp-23",
+                "serialNo": 1,
+                "nameMr": "रिधोरा",
+                "nameEn": "रिधोरा",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-77-gp-23-v-41",
+                    "serialNo": 1,
+                    "nameMr": "रिधोरा",
+                    "nameEn": "रिधोरा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-23-v-42",
+                    "serialNo": 2,
+                    "nameMr": "कोकरडा",
+                    "nameEn": "कोकरडा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-23-v-43",
+                    "serialNo": 3,
+                    "nameMr": "खापरी खु.",
+                    "nameEn": "खापरी खु."
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-23-v-44",
+                    "serialNo": 4,
+                    "nameMr": "सावळी खु.",
+                    "nameEn": "सावळी खु."
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-23-v-45",
+                    "serialNo": 5,
+                    "nameMr": "बोरखेडी",
+                    "nameEn": "बोरखेडी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-77-gp-24",
+                "serialNo": 2,
+                "nameMr": "कचारीसावंगा",
+                "nameEn": "कचारीसावंगा",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-77-gp-24-v-46",
+                    "serialNo": 6,
+                    "nameMr": "कचारीसावंगा",
+                    "nameEn": "कचारीसावंगा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-24-v-47",
+                    "serialNo": 7,
+                    "nameMr": "सोनपूर",
+                    "nameEn": "सोनपूर"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-24-v-48",
+                    "serialNo": 8,
+                    "nameMr": "कलकुही",
+                    "nameEn": "कलकुही"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-77-gp-25",
+                "serialNo": 3,
+                "nameMr": "नांदोरा",
+                "nameEn": "नांदोरा",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-77-gp-25-v-49",
+                    "serialNo": 9,
+                    "nameMr": "नांदोरा",
+                    "nameEn": "नांदोरा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-25-v-50",
+                    "serialNo": 10,
+                    "nameMr": "खापा सोनार",
+                    "nameEn": "खापा सोनार"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-25-v-51",
+                    "serialNo": 11,
+                    "nameMr": "मेंढेपठार जंगली",
+                    "nameEn": "मेंढेपठार जंगली"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-77-gp-26",
+                "serialNo": 4,
+                "nameMr": "पंचधार",
+                "nameEn": "पंचधार",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-77-gp-26-v-52",
+                    "serialNo": 12,
+                    "nameMr": "पंचधार",
+                    "nameEn": "पंचधार"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-26-v-53",
+                    "serialNo": 13,
+                    "nameMr": "बोरगाव रिठी",
+                    "nameEn": "बोरगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-77-gp-27",
+                "serialNo": 5,
+                "nameMr": "लिंगा",
+                "nameEn": "लिंगा",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-77-gp-27-v-54",
+                    "serialNo": 14,
+                    "nameMr": "लिंगा",
+                    "nameEn": "लिंगा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-27-v-55",
+                    "serialNo": 15,
+                    "nameMr": "सावळी बु.",
+                    "nameEn": "सावळी बु."
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-77-gp-28",
+                "serialNo": 6,
+                "nameMr": "कोढासावळी",
+                "nameEn": "कोढासावळी",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-77-gp-28-v-56",
+                    "serialNo": 16,
+                    "nameMr": "कोढासावळी",
+                    "nameEn": "कोढासावळी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-77-gp-29",
+                "serialNo": 7,
+                "nameMr": "वाई खु.",
+                "nameEn": "वाई खु.",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-77-gp-29-v-57",
+                    "serialNo": 17,
+                    "nameMr": "वाई खु.",
+                    "nameEn": "वाई खु."
+                  },
+                  {
+                    "id": "katol-div-39-gan-77-gp-29-v-58",
+                    "serialNo": 18,
+                    "nameMr": "वाई बु.",
+                    "nameEn": "वाई बु."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "katol-div-39-gan-78",
+            "number": 78,
+            "nameMr": "डोरली भिंगारे",
+            "nameEn": "Dorli Bhingare",
+            "code": "७८-डोरली भिंगारे",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-39-gan-78-gp-30",
+                "serialNo": 1,
+                "nameMr": "डोरली भिंगारे",
+                "nameEn": "डोरली भिंगारे",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-30-v-59",
+                    "serialNo": 1,
+                    "nameMr": "डोरली भिंगारे",
+                    "nameEn": "डोरली भिंगारे"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-30-v-60",
+                    "serialNo": 2,
+                    "nameMr": "डोरली खु.",
+                    "nameEn": "डोरली खु."
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-31",
+                "serialNo": 2,
+                "nameMr": "मेटपांजरा",
+                "nameEn": "मेटपांजरा",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-31-v-61",
+                    "serialNo": 3,
+                    "nameMr": "मेटपांजरा",
+                    "nameEn": "मेटपांजरा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-31-v-62",
+                    "serialNo": 4,
+                    "nameMr": "ताराबोडी",
+                    "nameEn": "ताराबोडी"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-31-v-63",
+                    "serialNo": 5,
+                    "nameMr": "मोहगाव रिठी",
+                    "nameEn": "मोहगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-31-v-64",
+                    "serialNo": 6,
+                    "nameMr": "उबगी रिठी",
+                    "nameEn": "उबगी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-32",
+                "serialNo": 3,
+                "nameMr": "वाजबोडी",
+                "nameEn": "वाजबोडी",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-32-v-65",
+                    "serialNo": 7,
+                    "nameMr": "वाजबोडी",
+                    "nameEn": "वाजबोडी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-33",
+                "serialNo": 4,
+                "nameMr": "मेंढेपठार",
+                "nameEn": "मेंढेपठार",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-33-v-66",
+                    "serialNo": 8,
+                    "nameMr": "मेंढेपठार",
+                    "nameEn": "मेंढेपठार"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-34",
+                "serialNo": 5,
+                "nameMr": "आजनगाव",
+                "nameEn": "आजनगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-34-v-67",
+                    "serialNo": 9,
+                    "nameMr": "आजनगाव",
+                    "nameEn": "आजनगाव"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-35",
+                "serialNo": 6,
+                "nameMr": "सोनखांब",
+                "nameEn": "सोनखांब",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-35-v-68",
+                    "serialNo": 10,
+                    "nameMr": "सोनखांब",
+                    "nameEn": "सोनखांब"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-36",
+                "serialNo": 7,
+                "nameMr": "चारगाव",
+                "nameEn": "चारगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-36-v-69",
+                    "serialNo": 11,
+                    "nameMr": "चारगाव",
+                    "nameEn": "चारगाव"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-37",
+                "serialNo": 8,
+                "nameMr": "मरगसुर",
+                "nameEn": "मरगसुर",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-37-v-70",
+                    "serialNo": 12,
+                    "nameMr": "मरगसुर",
+                    "nameEn": "मरगसुर"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-37-v-71",
+                    "serialNo": 13,
+                    "nameMr": "आलागोंदी",
+                    "nameEn": "आलागोंदी"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-37-v-72",
+                    "serialNo": 14,
+                    "nameMr": "चौकीगड रिठी",
+                    "nameEn": "चौकीगड रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-38",
+                "serialNo": 9,
+                "nameMr": "चिखली माळोदे",
+                "nameEn": "चिखली माळोदे",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-38-v-73",
+                    "serialNo": 15,
+                    "nameMr": "चिखली माळोदे",
+                    "nameEn": "चिखली माळोदे"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-38-v-74",
+                    "serialNo": 16,
+                    "nameMr": "सोनमोह",
+                    "nameEn": "सोनमोह"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-39",
+                "serialNo": 10,
+                "nameMr": "गंगालडोह",
+                "nameEn": "गंगालडोह",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-39-v-75",
+                    "serialNo": 17,
+                    "nameMr": "गंगालडोह",
+                    "nameEn": "गंगालडोह"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-39-v-76",
+                    "serialNo": 18,
+                    "nameMr": "भाजीपानी",
+                    "nameEn": "भाजीपानी"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-39-v-77",
+                    "serialNo": 19,
+                    "nameMr": "बोरडोह",
+                    "nameEn": "बोरडोह"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-40",
+                "serialNo": 11,
+                "nameMr": "माळेगाव",
+                "nameEn": "माळेगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-40-v-78",
+                    "serialNo": 20,
+                    "nameMr": "माळेगाव",
+                    "nameEn": "माळेगाव"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-40-v-79",
+                    "serialNo": 21,
+                    "nameMr": "लाखोळी",
+                    "nameEn": "लाखोळी"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-40-v-80",
+                    "serialNo": 22,
+                    "nameMr": "चंडकापूर",
+                    "nameEn": "चंडकापूर"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-40-v-81",
+                    "serialNo": 23,
+                    "nameMr": "मसखापरा",
+                    "nameEn": "मसखापरा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-40-v-82",
+                    "serialNo": 24,
+                    "nameMr": "गोंडीखापा",
+                    "nameEn": "गोंडीखापा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-40-v-83",
+                    "serialNo": 25,
+                    "nameMr": "रणघोडा रिठी",
+                    "nameEn": "रणघोडा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-41",
+                "serialNo": 12,
+                "nameMr": "कोहळा",
+                "nameEn": "कोहळा",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-41-v-84",
+                    "serialNo": 26,
+                    "nameMr": "कोहळा",
+                    "nameEn": "कोहळा"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-41-v-85",
+                    "serialNo": 27,
+                    "nameMr": "ब्रम्हपूरी",
+                    "nameEn": "ब्रम्हपूरी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-42",
+                "serialNo": 13,
+                "nameMr": "राउळगाव",
+                "nameEn": "राउळगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-42-v-86",
+                    "serialNo": 28,
+                    "nameMr": "राउळगाव",
+                    "nameEn": "राउळगाव"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-43",
+                "serialNo": 14,
+                "nameMr": "कोतवालबर्डी",
+                "nameEn": "कोतवालबर्डी",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-43-v-87",
+                    "serialNo": 29,
+                    "nameMr": "कोतवालबर्डी",
+                    "nameEn": "कोतवालबर्डी"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-43-v-88",
+                    "serialNo": 30,
+                    "nameMr": "ऐनविहीरा",
+                    "nameEn": "ऐनविहीरा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-39-gan-78-gp-44",
+                "serialNo": 15,
+                "nameMr": "कातलाबोडी",
+                "nameEn": "कातलाबोडी",
+                "villages": [
+                  {
+                    "id": "katol-div-39-gan-78-gp-44-v-89",
+                    "serialNo": 31,
+                    "nameMr": "कातलाबोडी",
+                    "nameEn": "कातलाबोडी"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-44-v-90",
+                    "serialNo": 32,
+                    "nameMr": "धनकुंडी",
+                    "nameEn": "धनकुंडी"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-44-v-91",
+                    "serialNo": 33,
+                    "nameMr": "मुरली",
+                    "nameEn": "मुरली"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-44-v-92",
+                    "serialNo": 34,
+                    "nameMr": "मंडला रिठी",
+                    "nameEn": "मंडला रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-44-v-93",
+                    "serialNo": 35,
+                    "nameMr": "भडकमुडका",
+                    "nameEn": "भडकमुडका"
+                  },
+                  {
+                    "id": "katol-div-39-gan-78-gp-44-v-94",
+                    "serialNo": 36,
+                    "nameMr": "घोरपड रिठी",
+                    "nameEn": "घोरपड रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "katol-div-40",
+        "number": 40,
+        "nameMr": "पारडसिंगा",
+        "nameEn": "Paradsinga",
+        "code": "४०-पारडसिंगा",
+        "gana": [
+          {
+            "id": "katol-div-40-gan-79",
+            "number": 79,
+            "nameMr": "पारडसिंगा",
+            "nameEn": "Paradsinga",
+            "code": "७९-पारडसिंगा",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-40-gan-79-gp-45",
+                "serialNo": 1,
+                "nameMr": "पारडसिंगा",
+                "nameEn": "पारडसिंगा",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-45-v-95",
+                    "serialNo": 1,
+                    "nameMr": "पारडसिंगा",
+                    "nameEn": "पारडसिंगा"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-45-v-96",
+                    "serialNo": 2,
+                    "nameMr": "लमधाम रिठी",
+                    "nameEn": "लमधाम रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-45-v-97",
+                    "serialNo": 3,
+                    "nameMr": "वडविहीरा",
+                    "nameEn": "वडविहीरा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-79-gp-46",
+                "serialNo": 2,
+                "nameMr": "खानगाव",
+                "nameEn": "खानगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-46-v-98",
+                    "serialNo": 4,
+                    "nameMr": "खानगाव",
+                    "nameEn": "खानगाव"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-46-v-99",
+                    "serialNo": 5,
+                    "nameMr": "कोळंबी",
+                    "nameEn": "कोळंबी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-79-gp-47",
+                "serialNo": 3,
+                "nameMr": "भोरगड",
+                "nameEn": "भोरगड",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-47-v-100",
+                    "serialNo": 6,
+                    "nameMr": "भोरगड",
+                    "nameEn": "भोरगड"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-47-v-101",
+                    "serialNo": 7,
+                    "nameMr": "कोल्हू",
+                    "nameEn": "कोल्हू"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-47-v-102",
+                    "serialNo": 8,
+                    "nameMr": "सावळी",
+                    "nameEn": "सावळी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-79-gp-48",
+                "serialNo": 4,
+                "nameMr": "फेटरी",
+                "nameEn": "फेटरी",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-48-v-103",
+                    "serialNo": 9,
+                    "nameMr": "फेटरी",
+                    "nameEn": "फेटरी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-48-v-104",
+                    "serialNo": 10,
+                    "nameMr": "जुनेवाणी",
+                    "nameEn": "जुनेवाणी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-48-v-105",
+                    "serialNo": 11,
+                    "nameMr": "ढिवरवाडी",
+                    "nameEn": "ढिवरवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-79-gp-49",
+                "serialNo": 5,
+                "nameMr": "पांढरढाकणी",
+                "nameEn": "पांढरढाकणी",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-49-v-106",
+                    "serialNo": 12,
+                    "nameMr": "पांढरढाकणी",
+                    "nameEn": "पांढरढाकणी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-49-v-107",
+                    "serialNo": 13,
+                    "nameMr": "मोहगाव ढोले",
+                    "nameEn": "मोहगाव ढोले"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-49-v-108",
+                    "serialNo": 14,
+                    "nameMr": "मोहगाव जंगली",
+                    "nameEn": "मोहगाव जंगली"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-49-v-109",
+                    "serialNo": 15,
+                    "nameMr": "खडकी",
+                    "nameEn": "खडकी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-49-v-110",
+                    "serialNo": 16,
+                    "nameMr": "चौरेपठार",
+                    "nameEn": "चौरेपठार"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-79-gp-50",
+                "serialNo": 6,
+                "nameMr": "खंडाळा खुर्द",
+                "nameEn": "खंडाळा खुर्द",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-50-v-111",
+                    "serialNo": 17,
+                    "nameMr": "खंडाळा खुर्द",
+                    "nameEn": "खंडाळा खुर्द"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-50-v-112",
+                    "serialNo": 18,
+                    "nameMr": "जटामकोहला",
+                    "nameEn": "जटामकोहला"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-79-gp-51",
+                "serialNo": 7,
+                "nameMr": "अंबाडा सोनक",
+                "nameEn": "अंबाडा सोनक",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-51-v-113",
+                    "serialNo": 19,
+                    "nameMr": "अंबाडा सोनक",
+                    "nameEn": "अंबाडा सोनक"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-79-gp-52",
+                "serialNo": 8,
+                "nameMr": "पानवाडी",
+                "nameEn": "पानवाडी",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-79-gp-52-v-114",
+                    "serialNo": 20,
+                    "nameMr": "पानवाडी",
+                    "nameEn": "पानवाडी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-52-v-115",
+                    "serialNo": 21,
+                    "nameMr": "हरणखुरी",
+                    "nameEn": "हरणखुरी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-52-v-116",
+                    "serialNo": 22,
+                    "nameMr": "खानवाडी रिठी",
+                    "nameEn": "खानवाडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "katol-div-40-gan-79-gp-52-v-117",
+                    "serialNo": 23,
+                    "nameMr": "देलवाडी रिठी",
+                    "nameEn": "देलवाडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "katol-div-40-gan-80",
+            "number": 80,
+            "nameMr": "लाडगाव",
+            "nameEn": "Ladgaon",
+            "code": "८०-लाडगाव",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-40-gan-80-gp-53",
+                "serialNo": 1,
+                "nameMr": "लाडगाव",
+                "nameEn": "लाडगाव",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-53-v-118",
+                    "serialNo": 1,
+                    "nameMr": "लाडगाव",
+                    "nameEn": "लाडगाव"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-53-v-119",
+                    "serialNo": 2,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-53-v-120",
+                    "serialNo": 3,
+                    "nameMr": "केदारपूर",
+                    "nameEn": "केदारपूर"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-54",
+                "serialNo": 2,
+                "nameMr": "ढवळापूर",
+                "nameEn": "ढवळापूर",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-54-v-121",
+                    "serialNo": 4,
+                    "nameMr": "ढवळापूर",
+                    "nameEn": "ढवळापूर"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-55",
+                "serialNo": 3,
+                "nameMr": "हातला",
+                "nameEn": "हातला",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-55-v-122",
+                    "serialNo": 5,
+                    "nameMr": "हातला",
+                    "nameEn": "हातला"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-56",
+                "serialNo": 4,
+                "nameMr": "पारडी गोतमारे",
+                "nameEn": "पारडी गोतमारे",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-56-v-123",
+                    "serialNo": 6,
+                    "nameMr": "पारडी गोतमारे",
+                    "nameEn": "पारडी गोतमारे"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-56-v-124",
+                    "serialNo": 7,
+                    "nameMr": "बोरगोंदी",
+                    "nameEn": "बोरगोंदी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-56-v-125",
+                    "serialNo": 8,
+                    "nameMr": "पांजरा बु.",
+                    "nameEn": "पांजरा बु."
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-57",
+                "serialNo": 5,
+                "nameMr": "घरतवाडा",
+                "nameEn": "घरतवाडा",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-57-v-126",
+                    "serialNo": 9,
+                    "nameMr": "घरतवाडा",
+                    "nameEn": "घरतवाडा"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-57-v-127",
+                    "serialNo": 10,
+                    "nameMr": "गुजरखेडी",
+                    "nameEn": "गुजरखेडी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-58",
+                "serialNo": 6,
+                "nameMr": "वंडली बु.",
+                "nameEn": "वंडली बु.",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-58-v-128",
+                    "serialNo": 11,
+                    "nameMr": "वंडली बु.",
+                    "nameEn": "वंडली बु."
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-59",
+                "serialNo": 7,
+                "nameMr": "खुटांबा",
+                "nameEn": "खुटांबा",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-59-v-129",
+                    "serialNo": 12,
+                    "nameMr": "खुटांबा",
+                    "nameEn": "खुटांबा"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-59-v-130",
+                    "serialNo": 13,
+                    "nameMr": "वाघोडा",
+                    "nameEn": "वाघोडा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-60",
+                "serialNo": 8,
+                "nameMr": "चिखलागड",
+                "nameEn": "चिखलागड",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-60-v-131",
+                    "serialNo": 14,
+                    "nameMr": "चिखलागड",
+                    "nameEn": "चिखलागड"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-60-v-132",
+                    "serialNo": 15,
+                    "nameMr": "वलनी",
+                    "nameEn": "वलनी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-60-v-133",
+                    "serialNo": 16,
+                    "nameMr": "तांदुळवाडी",
+                    "nameEn": "तांदुळवाडी"
+                  },
+                  {
+                    "id": "katol-div-40-gan-80-gp-60-v-134",
+                    "serialNo": 17,
+                    "nameMr": "पालगोंदी रिठी",
+                    "nameEn": "पालगोंदी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-40-gan-80-gp-61",
+                "serialNo": 9,
+                "nameMr": "मुर्ती",
+                "nameEn": "मुर्ती",
+                "villages": [
+                  {
+                    "id": "katol-div-40-gan-80-gp-61-v-135",
+                    "serialNo": 18,
+                    "nameMr": "मुर्ती",
+                    "nameEn": "मुर्ती"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "katol-div-41",
+        "number": 41,
+        "nameMr": "दुधाळा",
+        "nameEn": "Dudhala",
+        "code": "४१-दुधाळा",
+        "gana": [
+          {
+            "id": "katol-div-41-gan-81",
+            "number": 81,
+            "nameMr": "दुधाळा",
+            "nameEn": "Dudhala",
+            "code": "८१-दुधाळा",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-41-gan-81-gp-62",
+                "serialNo": 1,
+                "nameMr": "दुधाळा",
+                "nameEn": "दुधाळा",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-62-v-136",
+                    "serialNo": 1,
+                    "nameMr": "दुधाळा",
+                    "nameEn": "दुधाळा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-63",
+                "serialNo": 2,
+                "nameMr": "बिहालगोंदी",
+                "nameEn": "बिहालगोंदी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-63-v-137",
+                    "serialNo": 2,
+                    "nameMr": "बिहालगोंदी",
+                    "nameEn": "बिहालगोंदी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-63-v-138",
+                    "serialNo": 3,
+                    "nameMr": "सालई बु.",
+                    "nameEn": "सालई बु."
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-63-v-139",
+                    "serialNo": 4,
+                    "nameMr": "कुंडी",
+                    "nameEn": "कुंडी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-63-v-140",
+                    "serialNo": 5,
+                    "nameMr": "केळापूर",
+                    "nameEn": "केळापूर"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-64",
+                "serialNo": 3,
+                "nameMr": "रिंगणाबोडी",
+                "nameEn": "रिंगणाबोडी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-64-v-141",
+                    "serialNo": 6,
+                    "nameMr": "रिंगणाबोडी",
+                    "nameEn": "रिंगणाबोडी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-64-v-142",
+                    "serialNo": 7,
+                    "nameMr": "हरदोली",
+                    "nameEn": "हरदोली"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-64-v-143",
+                    "serialNo": 8,
+                    "nameMr": "चाकडोह",
+                    "nameEn": "चाकडोह"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-64-v-144",
+                    "serialNo": 9,
+                    "nameMr": "आकेवाडा",
+                    "nameEn": "आकेवाडा"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-64-v-145",
+                    "serialNo": 10,
+                    "nameMr": "ऐलकापार",
+                    "nameEn": "ऐलकापार"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-65",
+                "serialNo": 4,
+                "nameMr": "घुबडी",
+                "nameEn": "घुबडी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-65-v-146",
+                    "serialNo": 11,
+                    "nameMr": "घुबडी",
+                    "nameEn": "घुबडी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-66",
+                "serialNo": 5,
+                "nameMr": "मिनीवाडा",
+                "nameEn": "मिनीवाडा",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-66-v-147",
+                    "serialNo": 12,
+                    "nameMr": "मिनीवाडा",
+                    "nameEn": "मिनीवाडा"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-66-v-148",
+                    "serialNo": 13,
+                    "nameMr": "मसाळा",
+                    "nameEn": "मसाळा"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-66-v-149",
+                    "serialNo": 14,
+                    "nameMr": "मलकापूर",
+                    "nameEn": "मलकापूर"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-66-v-150",
+                    "serialNo": 15,
+                    "nameMr": "कावडीमेठ",
+                    "nameEn": "कावडीमेठ"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-67",
+                "serialNo": 6,
+                "nameMr": "पांजरा काटे",
+                "nameEn": "पांजरा काटे",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-67-v-151",
+                    "serialNo": 16,
+                    "nameMr": "पांजरा काटे",
+                    "nameEn": "पांजरा काटे"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-68",
+                "serialNo": 7,
+                "nameMr": "दोडकी",
+                "nameEn": "दोडकी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-68-v-152",
+                    "serialNo": 17,
+                    "nameMr": "दोडकी",
+                    "nameEn": "दोडकी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-68-v-153",
+                    "serialNo": 18,
+                    "nameMr": "वसंतनगर",
+                    "nameEn": "वसंतनगर"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-69",
+                "serialNo": 8,
+                "nameMr": "पुसागोंदी",
+                "nameEn": "पुसागोंदी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-69-v-154",
+                    "serialNo": 19,
+                    "nameMr": "पुसागोंदी",
+                    "nameEn": "पुसागोंदी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-69-v-155",
+                    "serialNo": 20,
+                    "nameMr": "किनकीघोडा",
+                    "nameEn": "किनकीघोडा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-70",
+                "serialNo": 9,
+                "nameMr": "धोतीवाडा",
+                "nameEn": "धोतीवाडा",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-70-v-156",
+                    "serialNo": 21,
+                    "nameMr": "धोतीवाडा",
+                    "nameEn": "धोतीवाडा"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-70-v-157",
+                    "serialNo": 22,
+                    "nameMr": "खापा",
+                    "nameEn": "खापा"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-70-v-158",
+                    "serialNo": 23,
+                    "nameMr": "प्रतापगड",
+                    "nameEn": "प्रतापगड"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-71",
+                "serialNo": 10,
+                "nameMr": "गणेशपूर",
+                "nameEn": "गणेशपूर",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-71-v-159",
+                    "serialNo": 24,
+                    "nameMr": "गणेशपूर",
+                    "nameEn": "गणेशपूर"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-71-v-160",
+                    "serialNo": 25,
+                    "nameMr": "शेकापूर",
+                    "nameEn": "शेकापूर"
+                  },
+                  {
+                    "id": "katol-div-41-gan-81-gp-71-v-161",
+                    "serialNo": 26,
+                    "nameMr": "कलमुंडा",
+                    "nameEn": "कलमुंडा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-81-gp-72",
+                "serialNo": 11,
+                "nameMr": "गरमसुर",
+                "nameEn": "गरमसुर",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-81-gp-72-v-162",
+                    "serialNo": 27,
+                    "nameMr": "गरमसुर",
+                    "nameEn": "गरमसुर"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "katol-div-41-gan-82",
+            "number": 82,
+            "nameMr": "मासोद",
+            "nameEn": "Masod",
+            "code": "८२-मासोद",
+            "gramPanchayats": [
+              {
+                "id": "katol-div-41-gan-82-gp-73",
+                "serialNo": 1,
+                "nameMr": "मासोद",
+                "nameEn": "मासोद",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-73-v-163",
+                    "serialNo": 1,
+                    "nameMr": "मासोद",
+                    "nameEn": "मासोद"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-74",
+                "serialNo": 2,
+                "nameMr": "कामठी",
+                "nameEn": "कामठी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-74-v-164",
+                    "serialNo": 2,
+                    "nameMr": "कामठी",
+                    "nameEn": "कामठी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-74-v-165",
+                    "serialNo": 3,
+                    "nameMr": "जाटलापूर",
+                    "nameEn": "जाटलापूर"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-74-v-166",
+                    "serialNo": 4,
+                    "nameMr": "बोपापूर",
+                    "nameEn": "बोपापूर"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-75",
+                "serialNo": 3,
+                "nameMr": "चिखली मासोद",
+                "nameEn": "चिखली मासोद",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-75-v-167",
+                    "serialNo": 5,
+                    "nameMr": "चिखली मासोद",
+                    "nameEn": "चिखली मासोद"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-76",
+                "serialNo": 4,
+                "nameMr": "जुनापाणी",
+                "nameEn": "जुनापाणी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-76-v-168",
+                    "serialNo": 6,
+                    "nameMr": "जुनापाणी",
+                    "nameEn": "जुनापाणी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-76-v-169",
+                    "serialNo": 7,
+                    "nameMr": "अहमदनगर",
+                    "nameEn": "अहमदनगर"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-76-v-170",
+                    "serialNo": 8,
+                    "nameMr": "चिचोली",
+                    "nameEn": "चिचोली"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-76-v-171",
+                    "serialNo": 9,
+                    "nameMr": "जामगड",
+                    "nameEn": "जामगड"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-77",
+                "serialNo": 5,
+                "nameMr": "खापरी बारोकर",
+                "nameEn": "खापरी बारोकर",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-77-v-172",
+                    "serialNo": 10,
+                    "nameMr": "खापरी बारोकर",
+                    "nameEn": "खापरी बारोकर"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-77-v-173",
+                    "serialNo": 11,
+                    "nameMr": "धामनगाव",
+                    "nameEn": "धामनगाव"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-77-v-174",
+                    "serialNo": 12,
+                    "nameMr": "शिवकामट रिठी",
+                    "nameEn": "शिवकामट रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-78",
+                "serialNo": 6,
+                "nameMr": "खुर्सापार",
+                "nameEn": "खुर्सापार",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-78-v-175",
+                    "serialNo": 13,
+                    "nameMr": "खुर्सापार",
+                    "nameEn": "खुर्सापार"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-78-v-176",
+                    "serialNo": 14,
+                    "nameMr": "सालई खु.",
+                    "nameEn": "सालई खु."
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-79",
+                "serialNo": 7,
+                "nameMr": "धुरखेडा",
+                "nameEn": "धुरखेडा",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-79-v-177",
+                    "serialNo": 15,
+                    "nameMr": "धुरखेडा",
+                    "nameEn": "धुरखेडा"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-79-v-178",
+                    "serialNo": 16,
+                    "nameMr": "बोरगाव",
+                    "nameEn": "बोरगाव"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-80",
+                "serialNo": 8,
+                "nameMr": "खैरी",
+                "nameEn": "खैरी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-80-v-179",
+                    "serialNo": 17,
+                    "nameMr": "खैरी",
+                    "nameEn": "खैरी"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-80-v-180",
+                    "serialNo": 18,
+                    "nameMr": "तरोडा",
+                    "nameEn": "तरोडा"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-81",
+                "serialNo": 9,
+                "nameMr": "चंदनपार्डी",
+                "nameEn": "चंदनपार्डी",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-81-v-181",
+                    "serialNo": 19,
+                    "nameMr": "चंदनपार्डी",
+                    "nameEn": "चंदनपार्डी"
+                  }
+                ]
+              },
+              {
+                "id": "katol-div-41-gan-82-gp-82",
+                "serialNo": 10,
+                "nameMr": "सबकुंड",
+                "nameEn": "सबकुंड",
+                "villages": [
+                  {
+                    "id": "katol-div-41-gan-82-gp-82-v-182",
+                    "serialNo": 20,
+                    "nameMr": "सबकुंड",
+                    "nameEn": "सबकुंड"
+                  },
+                  {
+                    "id": "katol-div-41-gan-82-gp-82-v-183",
+                    "serialNo": 21,
+                    "nameMr": "बिलावरगोंदी",
+                    "nameEn": "बिलावरगोंदी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "कळमेश्वर",
+    "talukaEn": "Kalmeshwar",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "kalmeshwar-div-35",
+        "number": 35,
+        "nameMr": "तेलकामठी",
+        "nameEn": "Telkamthi",
+        "code": "३५-तेलकामठी",
+        "gana": [
+          {
+            "id": "kalmeshwar-div-35-gan-69",
+            "number": 69,
+            "nameMr": "तेलकामठी",
+            "nameEn": "Telkamthi",
+            "code": "६९-तेलकामठी",
+            "gramPanchayats": [
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-1",
+                "serialNo": 1,
+                "nameMr": "तेलकामठी",
+                "nameEn": "तेलकामठी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "तेलकामठी",
+                    "nameEn": "तेलकामठी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "कोरेघाट रीठी",
+                    "nameEn": "कोरेघाट रीठी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-2",
+                "serialNo": 2,
+                "nameMr": "सोनोली",
+                "nameEn": "सोनोली",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-2-v-3",
+                    "serialNo": 3,
+                    "nameMr": "सोनोली",
+                    "nameEn": "सोनोली"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-2-v-4",
+                    "serialNo": 4,
+                    "nameMr": "दुधबर्डी",
+                    "nameEn": "दुधबर्डी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-2-v-5",
+                    "serialNo": 5,
+                    "nameMr": "पांजरा",
+                    "nameEn": "पांजरा"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-3",
+                "serialNo": 3,
+                "nameMr": "खुमारी",
+                "nameEn": "खुमारी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-3-v-6",
+                    "serialNo": 6,
+                    "nameMr": "खुमारी",
+                    "nameEn": "खुमारी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-3-v-7",
+                    "serialNo": 7,
+                    "nameMr": "जिरोला रि.",
+                    "nameEn": "जिरोला रि."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-4",
+                "serialNo": 4,
+                "nameMr": "मांडवी",
+                "nameEn": "मांडवी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-4-v-8",
+                    "serialNo": 8,
+                    "nameMr": "मांडवी",
+                    "nameEn": "मांडवी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-5",
+                "serialNo": 5,
+                "nameMr": "पिल्कापार",
+                "nameEn": "पिल्कापार",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-5-v-9",
+                    "serialNo": 9,
+                    "nameMr": "पिल्कापार",
+                    "nameEn": "पिल्कापार"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-6",
+                "serialNo": 6,
+                "nameMr": "लोहगड",
+                "nameEn": "लोहगड",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-6-v-10",
+                    "serialNo": 10,
+                    "nameMr": "लोहगड",
+                    "nameEn": "लोहगड"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-6-v-11",
+                    "serialNo": 11,
+                    "nameMr": "झिल्पी",
+                    "nameEn": "झिल्पी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-7",
+                "serialNo": 7,
+                "nameMr": "तिष्टी बू",
+                "nameEn": "तिष्टी बू",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-7-v-12",
+                    "serialNo": 12,
+                    "nameMr": "तिष्टी बू",
+                    "nameEn": "तिष्टी बू"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-8",
+                "serialNo": 8,
+                "nameMr": "तिडंगी",
+                "nameEn": "तिडंगी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-8-v-13",
+                    "serialNo": 13,
+                    "nameMr": "तिडंगी",
+                    "nameEn": "तिडंगी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-8-v-14",
+                    "serialNo": 14,
+                    "nameMr": "दाढेरा",
+                    "nameEn": "दाढेरा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-8-v-15",
+                    "serialNo": 15,
+                    "nameMr": "देवळी रि.",
+                    "nameEn": "देवळी रि."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-9",
+                "serialNo": 9,
+                "nameMr": "तेलगाव",
+                "nameEn": "तेलगाव",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-9-v-16",
+                    "serialNo": 16,
+                    "nameMr": "तेलगाव",
+                    "nameEn": "तेलगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-69-gp-10",
+                "serialNo": 10,
+                "nameMr": "नांदीखेडा",
+                "nameEn": "नांदीखेडा",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-10-v-17",
+                    "serialNo": 17,
+                    "nameMr": "नांदीखेडा",
+                    "nameEn": "नांदीखेडा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-69-gp-10-v-18",
+                    "serialNo": 18,
+                    "nameMr": "तिष्टी खु.",
+                    "nameEn": "तिष्टी खु."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kalmeshwar-div-35-gan-70",
+            "number": 70,
+            "nameMr": "कोहळी",
+            "nameEn": "Kohali",
+            "code": "७०-कोहळी",
+            "gramPanchayats": [
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-11",
+                "serialNo": 1,
+                "nameMr": "कोहळी",
+                "nameEn": "कोहळी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-11-v-19",
+                    "serialNo": 1,
+                    "nameMr": "कोहळी",
+                    "nameEn": "कोहळी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-11-v-20",
+                    "serialNo": 2,
+                    "nameMr": "मोहळी",
+                    "nameEn": "मोहळी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-12",
+                "serialNo": 2,
+                "nameMr": "खापरी कोठे",
+                "nameEn": "खापरी कोठे",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-12-v-21",
+                    "serialNo": 3,
+                    "nameMr": "खापरी कोठे",
+                    "nameEn": "खापरी कोठे"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-12-v-22",
+                    "serialNo": 4,
+                    "nameMr": "उबगी",
+                    "nameEn": "उबगी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-12-v-23",
+                    "serialNo": 5,
+                    "nameMr": "बोरडोह",
+                    "nameEn": "बोरडोह"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-12-v-24",
+                    "serialNo": 6,
+                    "nameMr": "पेठ उबाळी",
+                    "nameEn": "पेठ उबाळी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-13",
+                "serialNo": 3,
+                "nameMr": "पारडी दे.",
+                "nameEn": "पारडी दे.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-13-v-25",
+                    "serialNo": 7,
+                    "nameMr": "पारडी दे.",
+                    "nameEn": "पारडी दे."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-14",
+                "serialNo": 4,
+                "nameMr": "चाकडोह",
+                "nameEn": "चाकडोह",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-14-v-26",
+                    "serialNo": 8,
+                    "nameMr": "चाकडोह",
+                    "nameEn": "चाकडोह"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-14-v-27",
+                    "serialNo": 9,
+                    "nameMr": "खैरी दे.",
+                    "nameEn": "खैरी दे."
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-14-v-28",
+                    "serialNo": 10,
+                    "nameMr": "रामगिरी",
+                    "nameEn": "रामगिरी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-15",
+                "serialNo": 5,
+                "nameMr": "सुसूंद्री",
+                "nameEn": "सुसूंद्री",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-15-v-29",
+                    "serialNo": 11,
+                    "nameMr": "सुसूंद्री",
+                    "nameEn": "सुसूंद्री"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-15-v-30",
+                    "serialNo": 12,
+                    "nameMr": "सवंद्री",
+                    "nameEn": "सवंद्री"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-15-v-31",
+                    "serialNo": 13,
+                    "nameMr": "एल्कापार",
+                    "nameEn": "एल्कापार"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-16",
+                "serialNo": 6,
+                "nameMr": "म्हसेपठार",
+                "nameEn": "म्हसेपठार",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-16-v-32",
+                    "serialNo": 14,
+                    "nameMr": "म्हसेपठार",
+                    "nameEn": "म्हसेपठार"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-17",
+                "serialNo": 7,
+                "nameMr": "बुधला",
+                "nameEn": "बुधला",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-17-v-33",
+                    "serialNo": 15,
+                    "nameMr": "बुधला",
+                    "nameEn": "बुधला"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-17-v-34",
+                    "serialNo": 16,
+                    "nameMr": "खुर्सापार",
+                    "nameEn": "खुर्सापार"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-35-gan-70-gp-18",
+                "serialNo": 8,
+                "nameMr": "मोहगाव",
+                "nameEn": "मोहगाव",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-18-v-35",
+                    "serialNo": 17,
+                    "nameMr": "मोहगाव",
+                    "nameEn": "मोहगाव"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-18-v-36",
+                    "serialNo": 18,
+                    "nameMr": "सावंगी व्य.",
+                    "nameEn": "सावंगी व्य."
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-18-v-37",
+                    "serialNo": 19,
+                    "nameMr": "वाठोडा",
+                    "nameEn": "वाठोडा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-35-gan-70-gp-18-v-38",
+                    "serialNo": 20,
+                    "nameMr": "सोनोली रीठी",
+                    "nameEn": "सोनोली रीठी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kalmeshwar-div-36",
+        "number": 36,
+        "nameMr": "धापेवाडा",
+        "nameEn": "Dhapewada",
+        "code": "३६-धापेवाडा",
+        "gana": [
+          {
+            "id": "kalmeshwar-div-36-gan-71",
+            "number": 71,
+            "nameMr": "धापेवाडा",
+            "nameEn": "Dhapewada",
+            "code": "७१-धापेवाडा",
+            "gramPanchayats": [
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-19",
+                "serialNo": 1,
+                "nameMr": "धापेवाडा बु.",
+                "nameEn": "धापेवाडा बु.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-19-v-39",
+                    "serialNo": 1,
+                    "nameMr": "धापेवाडा बु.",
+                    "nameEn": "धापेवाडा बु."
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-19-v-40",
+                    "serialNo": 2,
+                    "nameMr": "धापेवाडा खु.",
+                    "nameEn": "धापेवाडा खु."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-20",
+                "serialNo": 2,
+                "nameMr": "आदासा (सोनपूर)",
+                "nameEn": "आदासा (सोनपूर)",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-20-v-41",
+                    "serialNo": 3,
+                    "nameMr": "आदासा",
+                    "nameEn": "आदासा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-20-v-42",
+                    "serialNo": 4,
+                    "nameMr": "सोनपूर",
+                    "nameEn": "सोनपूर"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-21",
+                "serialNo": 3,
+                "nameMr": "बोरगाव बू.",
+                "nameEn": "बोरगाव बू.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-21-v-43",
+                    "serialNo": 5,
+                    "nameMr": "बोरगाव बू.",
+                    "nameEn": "बोरगाव बू."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-22",
+                "serialNo": 4,
+                "nameMr": "निळगाव",
+                "nameEn": "निळगाव",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-22-v-44",
+                    "serialNo": 6,
+                    "nameMr": "निळगाव",
+                    "nameEn": "निळगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-23",
+                "serialNo": 5,
+                "nameMr": "भडांगी",
+                "nameEn": "भडांगी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-23-v-45",
+                    "serialNo": 7,
+                    "nameMr": "भडांगी",
+                    "nameEn": "भडांगी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-23-v-46",
+                    "serialNo": 8,
+                    "nameMr": "सोनापार",
+                    "nameEn": "सोनापार"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-23-v-47",
+                    "serialNo": 9,
+                    "nameMr": "हरदोली",
+                    "nameEn": "हरदोली"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-23-v-48",
+                    "serialNo": 10,
+                    "nameMr": "खानगाव",
+                    "nameEn": "खानगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-24",
+                "serialNo": 6,
+                "nameMr": "बोरगाव खु.",
+                "nameEn": "बोरगाव खु.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-24-v-49",
+                    "serialNo": 11,
+                    "nameMr": "बोरगाव खु.",
+                    "nameEn": "बोरगाव खु."
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-24-v-50",
+                    "serialNo": 12,
+                    "nameMr": "धूरखेडा",
+                    "nameEn": "धूरखेडा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-24-v-51",
+                    "serialNo": 13,
+                    "nameMr": "डोरली मनी",
+                    "nameEn": "डोरली मनी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-25",
+                "serialNo": 7,
+                "nameMr": "सावळी बु.",
+                "nameEn": "सावळी बु.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-25-v-52",
+                    "serialNo": 14,
+                    "nameMr": "सावळी बु.",
+                    "nameEn": "सावळी बु."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-71-gp-26",
+                "serialNo": 8,
+                "nameMr": "झुनकी",
+                "nameEn": "झुनकी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-26-v-53",
+                    "serialNo": 15,
+                    "nameMr": "झुनकी",
+                    "nameEn": "झुनकी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-26-v-54",
+                    "serialNo": 16,
+                    "nameMr": "सिंदी",
+                    "nameEn": "सिंदी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-71-gp-26-v-55",
+                    "serialNo": 17,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kalmeshwar-div-36-gan-72",
+            "number": 72,
+            "nameMr": "उबाळी",
+            "nameEn": "Ubali",
+            "code": "७२-उबाळी",
+            "gramPanchayats": [
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-27",
+                "serialNo": 1,
+                "nameMr": "उबाळी",
+                "nameEn": "उबाळी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-27-v-56",
+                    "serialNo": 1,
+                    "nameMr": "उबाळी",
+                    "nameEn": "उबाळी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-28",
+                "serialNo": 2,
+                "nameMr": "सावळी खु.",
+                "nameEn": "सावळी खु.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-28-v-57",
+                    "serialNo": 2,
+                    "nameMr": "सावळी खु.",
+                    "nameEn": "सावळी खु."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-29",
+                "serialNo": 3,
+                "nameMr": "वाढोणा बुज.",
+                "nameEn": "वाढोणा बुज.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-29-v-58",
+                    "serialNo": 3,
+                    "nameMr": "वाढोणा खु.",
+                    "nameEn": "वाढोणा खु."
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-29-v-59",
+                    "serialNo": 4,
+                    "nameMr": "वाढोणा बुज.",
+                    "nameEn": "वाढोणा बुज."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-30",
+                "serialNo": 4,
+                "nameMr": "वरोडा",
+                "nameEn": "वरोडा",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-30-v-60",
+                    "serialNo": 5,
+                    "nameMr": "वरोडा",
+                    "nameEn": "वरोडा"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-31",
+                "serialNo": 5,
+                "nameMr": "मढासावंगी",
+                "nameEn": "मढासावंगी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-31-v-61",
+                    "serialNo": 6,
+                    "nameMr": "मढासावंगी",
+                    "nameEn": "मढासावंगी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-32",
+                "serialNo": 6,
+                "nameMr": "पिपळा किंन",
+                "nameEn": "पिपळा किंन",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-32-v-62",
+                    "serialNo": 7,
+                    "nameMr": "पिपळा किंन",
+                    "nameEn": "पिपळा किंन"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-33",
+                "serialNo": 7,
+                "nameMr": "परसोडी",
+                "nameEn": "परसोडी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-33-v-63",
+                    "serialNo": 8,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-34",
+                "serialNo": 8,
+                "nameMr": "कन्याडोल",
+                "nameEn": "कन्याडोल",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-34-v-64",
+                    "serialNo": 9,
+                    "nameMr": "कन्याडोल",
+                    "nameEn": "कन्याडोल"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-34-v-65",
+                    "serialNo": 10,
+                    "nameMr": "कोकर्डा",
+                    "nameEn": "कोकर्डा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-34-v-66",
+                    "serialNo": 11,
+                    "nameMr": "सिंदी रि.",
+                    "nameEn": "सिंदी रि."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-35",
+                "serialNo": 9,
+                "nameMr": "पानउबाळी",
+                "nameEn": "पानउबाळी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-35-v-67",
+                    "serialNo": 12,
+                    "nameMr": "पानउबाळी",
+                    "nameEn": "पानउबाळी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-36-gan-72-gp-36",
+                "serialNo": 10,
+                "nameMr": "घोराड",
+                "nameEn": "घोराड",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-36-gan-72-gp-36-v-68",
+                    "serialNo": 13,
+                    "nameMr": "घोराड",
+                    "nameEn": "घोराड"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kalmeshwar-div-37",
+        "number": 37,
+        "nameMr": "गोंडखैरी",
+        "nameEn": "Gondkhairi",
+        "code": "३७-गोंडखैरी",
+        "gana": [
+          {
+            "id": "kalmeshwar-div-37-gan-73",
+            "number": 73,
+            "nameMr": "गोंडखैरी",
+            "nameEn": "Gondkhairi",
+            "code": "७३-गोंडखैरी",
+            "gramPanchayats": [
+              {
+                "id": "kalmeshwar-div-37-gan-73-gp-37",
+                "serialNo": 1,
+                "nameMr": "गोंडखैरी",
+                "nameEn": "गोंडखैरी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-37-v-69",
+                    "serialNo": 1,
+                    "nameMr": "गोंडखैरी",
+                    "nameEn": "गोंडखैरी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-73-gp-38",
+                "serialNo": 2,
+                "nameMr": "निमजी",
+                "nameEn": "निमजी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-38-v-70",
+                    "serialNo": 2,
+                    "nameMr": "निमजी",
+                    "nameEn": "निमजी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-38-v-71",
+                    "serialNo": 3,
+                    "nameMr": "रोहणा रि.",
+                    "nameEn": "रोहणा रि."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-38-v-72",
+                    "serialNo": 4,
+                    "nameMr": "गाडागा रि.",
+                    "nameEn": "गाडागा रि."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-38-v-73",
+                    "serialNo": 5,
+                    "nameMr": "शहापूर रि.",
+                    "nameEn": "शहापूर रि."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-38-v-74",
+                    "serialNo": 6,
+                    "nameMr": "चिंचभवन",
+                    "nameEn": "चिंचभवन"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-73-gp-39",
+                "serialNo": 3,
+                "nameMr": "आष्टीकला",
+                "nameEn": "आष्टीकला",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-39-v-75",
+                    "serialNo": 7,
+                    "nameMr": "आष्टीकला",
+                    "nameEn": "आष्टीकला"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-39-v-76",
+                    "serialNo": 8,
+                    "nameMr": "खापरी",
+                    "nameEn": "खापरी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-39-v-77",
+                    "serialNo": 9,
+                    "nameMr": "केतापार",
+                    "nameEn": "केतापार"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-73-gp-40",
+                "serialNo": 4,
+                "nameMr": "लोणारा",
+                "nameEn": "लोणारा",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-40-v-78",
+                    "serialNo": 10,
+                    "nameMr": "लोणारा",
+                    "nameEn": "लोणारा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-40-v-79",
+                    "serialNo": 11,
+                    "nameMr": "निंबोली",
+                    "nameEn": "निंबोली"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-40-v-80",
+                    "serialNo": 12,
+                    "nameMr": "पिल्कापार",
+                    "nameEn": "पिल्कापार"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-73-gp-41",
+                "serialNo": 5,
+                "nameMr": "लिंगा",
+                "nameEn": "लिंगा",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-41-v-81",
+                    "serialNo": 13,
+                    "nameMr": "लिंगा",
+                    "nameEn": "लिंगा"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-41-v-82",
+                    "serialNo": 14,
+                    "nameMr": "लाडाई मा.",
+                    "nameEn": "लाडाई मा."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-73-gp-41-v-83",
+                    "serialNo": 15,
+                    "nameMr": "लाडाई ज.",
+                    "nameEn": "लाडाई ज."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kalmeshwar-div-37-gan-74",
+            "number": 74,
+            "nameMr": "सेलू",
+            "nameEn": "Selu",
+            "code": "७४-सेलू",
+            "gramPanchayats": [
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-42",
+                "serialNo": 1,
+                "nameMr": "सेलू",
+                "nameEn": "सेलू",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-42-v-84",
+                    "serialNo": 1,
+                    "nameMr": "सेलू",
+                    "nameEn": "सेलू"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-42-v-85",
+                    "serialNo": 2,
+                    "nameMr": "गुमथळा",
+                    "nameEn": "गुमथळा"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-43",
+                "serialNo": 2,
+                "nameMr": "खैरी ल.",
+                "nameEn": "खैरी ल.",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-43-v-86",
+                    "serialNo": 3,
+                    "nameMr": "खैरी ल.",
+                    "nameEn": "खैरी ल."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-43-v-87",
+                    "serialNo": 4,
+                    "nameMr": "गोवरी",
+                    "nameEn": "गोवरी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-43-v-88",
+                    "serialNo": 5,
+                    "nameMr": "डोरली भ.",
+                    "nameEn": "डोरली भ."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-44",
+                "serialNo": 3,
+                "nameMr": "तोंडाखैरी",
+                "nameEn": "तोंडाखैरी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-44-v-89",
+                    "serialNo": 6,
+                    "nameMr": "तोंडाखैरी",
+                    "nameEn": "तोंडाखैरी"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-44-v-90",
+                    "serialNo": 7,
+                    "nameMr": "बेल्लोरी",
+                    "nameEn": "बेल्लोरी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-45",
+                "serialNo": 4,
+                "nameMr": "दहेगाव",
+                "nameEn": "दहेगाव",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-45-v-91",
+                    "serialNo": 8,
+                    "nameMr": "दहेगाव",
+                    "nameEn": "दहेगाव"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-45-v-92",
+                    "serialNo": 9,
+                    "nameMr": "डोरली ग.",
+                    "nameEn": "डोरली ग."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-45-v-93",
+                    "serialNo": 10,
+                    "nameMr": "पिपळा रि.",
+                    "nameEn": "पिपळा रि."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-45-v-94",
+                    "serialNo": 11,
+                    "nameMr": "शहजापूर रि.",
+                    "nameEn": "शहजापूर रि."
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-46",
+                "serialNo": 5,
+                "nameMr": "साहुली",
+                "nameEn": "साहुली",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-46-v-95",
+                    "serialNo": 12,
+                    "nameMr": "साहुली",
+                    "nameEn": "साहुली"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-46-v-96",
+                    "serialNo": 13,
+                    "nameMr": "कारली",
+                    "nameEn": "कारली"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-46-v-97",
+                    "serialNo": 14,
+                    "nameMr": "नांदा रि.",
+                    "nameEn": "नांदा रि."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-46-v-98",
+                    "serialNo": 15,
+                    "nameMr": "आलेसूर",
+                    "nameEn": "आलेसूर"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-47",
+                "serialNo": 6,
+                "nameMr": "कळंबी",
+                "nameEn": "कळंबी",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-47-v-99",
+                    "serialNo": 16,
+                    "nameMr": "कळंबी",
+                    "nameEn": "कळंबी"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-48",
+                "serialNo": 7,
+                "nameMr": "उपरवाही",
+                "nameEn": "उपरवाही",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-48-v-100",
+                    "serialNo": 17,
+                    "nameMr": "उपरवाही",
+                    "nameEn": "उपरवाही"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-49",
+                "serialNo": 8,
+                "nameMr": "सावंगी तोमर",
+                "nameEn": "सावंगी तोमर",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-49-v-101",
+                    "serialNo": 18,
+                    "nameMr": "सावंगी तो.",
+                    "nameEn": "सावंगी तो."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-49-v-102",
+                    "serialNo": 19,
+                    "nameMr": "घोगली",
+                    "nameEn": "घोगली"
+                  }
+                ]
+              },
+              {
+                "id": "kalmeshwar-div-37-gan-74-gp-50",
+                "serialNo": 9,
+                "nameMr": "सोनेगाव",
+                "nameEn": "सोनेगाव",
+                "villages": [
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-50-v-103",
+                    "serialNo": 20,
+                    "nameMr": "सोनेगाव",
+                    "nameEn": "सोनेगाव"
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-50-v-104",
+                    "serialNo": 21,
+                    "nameMr": "पोही गो.",
+                    "nameEn": "पोही गो."
+                  },
+                  {
+                    "id": "kalmeshwar-div-37-gan-74-gp-50-v-105",
+                    "serialNo": 22,
+                    "nameMr": "खैरी हर्जी",
+                    "nameEn": "खैरी हर्जी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "नागपूर ग्रामीण",
+    "talukaEn": "Nagpur Rural",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "nagpur-rural-div-30",
+        "number": 30,
+        "nameMr": "भोकारा",
+        "nameEn": "Bhokara",
+        "code": "३०-भोकारा",
+        "gana": [
+          {
+            "id": "nagpur-rural-div-30-gan-59",
+            "number": 59,
+            "nameMr": "भोकारा",
+            "nameEn": "Bhokara",
+            "code": "५९-भोकारा",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-30-gan-59-gp-1",
+                "serialNo": 1,
+                "nameMr": "गुमथळा",
+                "nameEn": "गुमथळा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-59-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "गुमथळा",
+                    "nameEn": "गुमथळा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-59-gp-2",
+                "serialNo": 2,
+                "nameMr": "घोगली",
+                "nameEn": "घोगली",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-59-gp-2-v-2",
+                    "serialNo": 2,
+                    "nameMr": "घोगली",
+                    "nameEn": "घोगली"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-59-gp-3",
+                "serialNo": 3,
+                "nameMr": "लोणारा",
+                "nameEn": "लोणारा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-59-gp-3-v-3",
+                    "serialNo": 3,
+                    "nameMr": "लोणारा",
+                    "nameEn": "लोणारा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-30-gan-59-gp-3-v-4",
+                    "serialNo": 4,
+                    "nameMr": "चक्कीखापा",
+                    "nameEn": "चक्कीखापा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-59-gp-4",
+                "serialNo": 4,
+                "nameMr": "भरतवाडा",
+                "nameEn": "भरतवाडा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-59-gp-4-v-5",
+                    "serialNo": 5,
+                    "nameMr": "भरतवाडा",
+                    "nameEn": "भरतवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-59-gp-5",
+                "serialNo": 5,
+                "nameMr": "भोकारा",
+                "nameEn": "भोकारा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-59-gp-5-v-6",
+                    "serialNo": 6,
+                    "nameMr": "भोकारा",
+                    "nameEn": "भोकारा"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nagpur-rural-div-30-gan-60",
+            "number": 60,
+            "nameMr": "फेटरी",
+            "nameEn": "Fetri",
+            "code": "६०-फेटरी",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-6",
+                "serialNo": 1,
+                "nameMr": "ब्राम्हणवाडा",
+                "nameEn": "ब्राम्हणवाडा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-6-v-7",
+                    "serialNo": 1,
+                    "nameMr": "ब्राम्हणवाडा",
+                    "nameEn": "ब्राम्हणवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-7",
+                "serialNo": 2,
+                "nameMr": "बैलवाडा",
+                "nameEn": "बैलवाडा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-7-v-8",
+                    "serialNo": 2,
+                    "nameMr": "बैलवाडा",
+                    "nameEn": "बैलवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-8",
+                "serialNo": 3,
+                "nameMr": "वलनी",
+                "nameEn": "वलनी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-8-v-9",
+                    "serialNo": 3,
+                    "nameMr": "वलनी",
+                    "nameEn": "वलनी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-9",
+                "serialNo": 4,
+                "nameMr": "खंडाळा",
+                "nameEn": "खंडाळा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-9-v-10",
+                    "serialNo": 4,
+                    "nameMr": "खंडाळा",
+                    "nameEn": "खंडाळा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-10",
+                "serialNo": 5,
+                "nameMr": "पारडी",
+                "nameEn": "पारडी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-10-v-11",
+                    "serialNo": 5,
+                    "nameMr": "पारडी",
+                    "nameEn": "पारडी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-11",
+                "serialNo": 6,
+                "nameMr": "बोरगावखुर्द",
+                "nameEn": "बोरगावखुर्द",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-11-v-12",
+                    "serialNo": 6,
+                    "nameMr": "बोरगावखुर्द",
+                    "nameEn": "बोरगावखुर्द"
+                  },
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-11-v-13",
+                    "serialNo": 7,
+                    "nameMr": "आष्टी",
+                    "nameEn": "आष्टी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-12",
+                "serialNo": 7,
+                "nameMr": "येरला",
+                "nameEn": "येरला",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-12-v-14",
+                    "serialNo": 8,
+                    "nameMr": "येरला",
+                    "nameEn": "येरला"
+                  },
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-12-v-15",
+                    "serialNo": 9,
+                    "nameMr": "गोन्ही",
+                    "nameEn": "गोन्ही"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-13",
+                "serialNo": 8,
+                "nameMr": "माहुरझरी",
+                "nameEn": "माहुरझरी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-13-v-16",
+                    "serialNo": 10,
+                    "nameMr": "माहुरझरी",
+                    "nameEn": "माहुरझरी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-14",
+                "serialNo": 9,
+                "nameMr": "फेटरी",
+                "nameEn": "फेटरी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-14-v-17",
+                    "serialNo": 11,
+                    "nameMr": "फेटरी",
+                    "nameEn": "फेटरी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-30-gan-60-gp-15",
+                "serialNo": 10,
+                "nameMr": "चिचोली",
+                "nameEn": "चिचोली",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-15-v-18",
+                    "serialNo": 12,
+                    "nameMr": "चिचोली",
+                    "nameEn": "चिचोली"
+                  },
+                  {
+                    "id": "nagpur-rural-div-30-gan-60-gp-15-v-19",
+                    "serialNo": 13,
+                    "nameMr": "बोढाळा",
+                    "nameEn": "बोढाळा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nagpur-rural-div-31",
+        "number": 31,
+        "nameMr": "कापसी खुर्द",
+        "nameEn": "Kapsi Khurd",
+        "code": "३१-कापसी खुर्द",
+        "gana": [
+          {
+            "id": "nagpur-rural-div-31-gan-61",
+            "number": 61,
+            "nameMr": "कापसी खुर्द",
+            "nameEn": "Kapsi Khurd",
+            "code": "६१-कापसी खुर्द",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-16",
+                "serialNo": 1,
+                "nameMr": "कापसी खुर्द",
+                "nameEn": "कापसी खुर्द",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-16-v-20",
+                    "serialNo": 1,
+                    "nameMr": "कापसी खुर्द",
+                    "nameEn": "कापसी खुर्द"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-17",
+                "serialNo": 2,
+                "nameMr": "विहीरगाव",
+                "nameEn": "विहीरगाव",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-17-v-21",
+                    "serialNo": 2,
+                    "nameMr": "विहिरगाव",
+                    "nameEn": "विहिरगाव"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-17-v-22",
+                    "serialNo": 3,
+                    "nameMr": "अडयाळी",
+                    "nameEn": "अडयाळी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-18",
+                "serialNo": 3,
+                "nameMr": "कळमना",
+                "nameEn": "कळमना",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-18-v-23",
+                    "serialNo": 4,
+                    "nameMr": "कळमना",
+                    "nameEn": "कळमना"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-18-v-24",
+                    "serialNo": 5,
+                    "nameMr": "टाकळी",
+                    "nameEn": "टाकळी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-19",
+                "serialNo": 4,
+                "nameMr": "उमरगाव",
+                "nameEn": "उमरगाव",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-19-v-25",
+                    "serialNo": 6,
+                    "nameMr": "उमरगाव",
+                    "nameEn": "उमरगाव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-20",
+                "serialNo": 5,
+                "nameMr": "हुडकेश्वर खुर्द",
+                "nameEn": "हुडकेश्वर खुर्द",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-20-v-26",
+                    "serialNo": 7,
+                    "nameMr": "हुडकेश्वर खुर्द",
+                    "nameEn": "हुडकेश्वर खुर्द"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-20-v-27",
+                    "serialNo": 8,
+                    "nameMr": "धामना",
+                    "nameEn": "धामना"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-20-v-28",
+                    "serialNo": 9,
+                    "nameMr": "किरणापूर",
+                    "nameEn": "किरणापूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-20-v-29",
+                    "serialNo": 10,
+                    "nameMr": "कन्हाळगाव",
+                    "nameEn": "कन्हाळगाव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-21",
+                "serialNo": 6,
+                "nameMr": "चिकणा",
+                "nameEn": "चिकणा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-21-v-30",
+                    "serialNo": 11,
+                    "nameMr": "चिकणा",
+                    "nameEn": "चिकणा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-21-v-31",
+                    "serialNo": 12,
+                    "nameMr": "निंबा",
+                    "nameEn": "निंबा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-21-v-32",
+                    "serialNo": 13,
+                    "nameMr": "नवेगाव",
+                    "nameEn": "नवेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-22",
+                "serialNo": 7,
+                "nameMr": "वेळाहरी",
+                "nameEn": "वेळाहरी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-22-v-33",
+                    "serialNo": 14,
+                    "nameMr": "वेळाहरी",
+                    "nameEn": "वेळाहरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-22-v-34",
+                    "serialNo": 15,
+                    "nameMr": "शंकरपूर",
+                    "nameEn": "शंकरपूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-22-v-35",
+                    "serialNo": 16,
+                    "nameMr": "गोटाळपांजरी",
+                    "nameEn": "गोटाळपांजरी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-23",
+                "serialNo": 8,
+                "nameMr": "खरसोली",
+                "nameEn": "खरसोली",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-23-v-36",
+                    "serialNo": 17,
+                    "nameMr": "खरसोली",
+                    "nameEn": "खरसोली"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-23-v-37",
+                    "serialNo": 18,
+                    "nameMr": "पेवठा",
+                    "nameEn": "पेवठा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-23-v-38",
+                    "serialNo": 19,
+                    "nameMr": "पिल्कापार",
+                    "nameEn": "पिल्कापार"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-24",
+                "serialNo": 9,
+                "nameMr": "सालई गोधणी",
+                "nameEn": "सालई गोधणी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-24-v-39",
+                    "serialNo": 20,
+                    "nameMr": "सालई गोधणी",
+                    "nameEn": "सालई गोधणी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-24-v-40",
+                    "serialNo": 21,
+                    "nameMr": "काळडोंगरी",
+                    "nameEn": "काळडोंगरी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-61-gp-25",
+                "serialNo": 10,
+                "nameMr": "रुई",
+                "nameEn": "रुई",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-25-v-41",
+                    "serialNo": 22,
+                    "nameMr": "रुई",
+                    "nameEn": "रुई"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-25-v-42",
+                    "serialNo": 23,
+                    "nameMr": "गवसीमानापूर",
+                    "nameEn": "गवसीमानापूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-25-v-43",
+                    "serialNo": 24,
+                    "nameMr": "झरी",
+                    "nameEn": "झरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-61-gp-25-v-44",
+                    "serialNo": 25,
+                    "nameMr": "बनवाडी",
+                    "nameEn": "बनवाडी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nagpur-rural-div-31-gan-62",
+            "number": 62,
+            "nameMr": "खापरी रेल्वे",
+            "nameEn": "Khapri Railway",
+            "code": "६२-खापरी रेल्वे",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-31-gan-62-gp-26",
+                "serialNo": 1,
+                "nameMr": "खापरी रेल्वे",
+                "nameEn": "खापरी रेल्वे",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-26-v-45",
+                    "serialNo": 1,
+                    "nameMr": "कलकुही",
+                    "nameEn": "कलकुही"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-26-v-46",
+                    "serialNo": 2,
+                    "nameMr": "तेल्हारा",
+                    "nameEn": "तेल्हारा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-26-v-47",
+                    "serialNo": 3,
+                    "nameMr": "खापरीरेल्वे",
+                    "nameEn": "खापरीरेल्वे"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-26-v-48",
+                    "serialNo": 4,
+                    "nameMr": "दहेगाव",
+                    "nameEn": "दहेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-62-gp-27",
+                "serialNo": 2,
+                "nameMr": "पांजरी बु.",
+                "nameEn": "पांजरी बु.",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-27-v-49",
+                    "serialNo": 5,
+                    "nameMr": "पांजरी बु.",
+                    "nameEn": "पांजरी बु."
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-27-v-50",
+                    "serialNo": 6,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-27-v-51",
+                    "serialNo": 7,
+                    "nameMr": "वरोडा",
+                    "nameEn": "वरोडा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-62-gp-28",
+                "serialNo": 3,
+                "nameMr": "जामठा",
+                "nameEn": "जामठा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-28-v-52",
+                    "serialNo": 8,
+                    "nameMr": "जामठा",
+                    "nameEn": "जामठा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-28-v-53",
+                    "serialNo": 9,
+                    "nameMr": "धुटी",
+                    "nameEn": "धुटी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-28-v-54",
+                    "serialNo": 10,
+                    "nameMr": "खसरमारी",
+                    "nameEn": "खसरमारी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-62-gp-29",
+                "serialNo": 4,
+                "nameMr": "डोंगरगाव",
+                "nameEn": "डोंगरगाव",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-29-v-55",
+                    "serialNo": 11,
+                    "nameMr": "डोंगरगाव",
+                    "nameEn": "डोंगरगाव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-62-gp-30",
+                "serialNo": 5,
+                "nameMr": "पांजरीलोधी",
+                "nameEn": "पांजरीलोधी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-30-v-56",
+                    "serialNo": 12,
+                    "nameMr": "सुकळी",
+                    "nameEn": "सुकळी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-30-v-57",
+                    "serialNo": 13,
+                    "nameMr": "पांजरीलोधी",
+                    "nameEn": "पांजरीलोधी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-30-v-58",
+                    "serialNo": 14,
+                    "nameMr": "खातमारी",
+                    "nameEn": "खातमारी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-31-gan-62-gp-31",
+                "serialNo": 6,
+                "nameMr": "मांगरुळ",
+                "nameEn": "मांगरुळ",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-31-v-59",
+                    "serialNo": 15,
+                    "nameMr": "नवरमारी",
+                    "nameEn": "नवरमारी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-31-v-60",
+                    "serialNo": 16,
+                    "nameMr": "मांगरुळ",
+                    "nameEn": "मांगरुळ"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-31-v-61",
+                    "serialNo": 17,
+                    "nameMr": "तुमडी",
+                    "nameEn": "तुमडी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-31-v-62",
+                    "serialNo": 18,
+                    "nameMr": "सिंदीविहीरी",
+                    "nameEn": "सिंदीविहीरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-31-gan-62-gp-31-v-63",
+                    "serialNo": 19,
+                    "nameMr": "जुनापाणी",
+                    "nameEn": "जुनापाणी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nagpur-rural-div-32",
+        "number": 32,
+        "nameMr": "दवलामेटी",
+        "nameEn": "Dawlameti",
+        "code": "३२-दवलामेटी",
+        "gana": [
+          {
+            "id": "nagpur-rural-div-32-gan-63",
+            "number": 63,
+            "nameMr": "लाव्हा",
+            "nameEn": "Lavha",
+            "code": "६३-लाव्हा",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-32-gan-63-gp-32",
+                "serialNo": 1,
+                "nameMr": "लाव्हा",
+                "nameEn": "लाव्हा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-32-gan-63-gp-32-v-64",
+                    "serialNo": 1,
+                    "nameMr": "लाव्हा",
+                    "nameEn": "लाव्हा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-32-gan-63-gp-33",
+                "serialNo": 2,
+                "nameMr": "खडगाव",
+                "nameEn": "खडगाव",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-32-gan-63-gp-33-v-65",
+                    "serialNo": 2,
+                    "nameMr": "खडगाव",
+                    "nameEn": "खडगाव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-32-gan-63-gp-34",
+                "serialNo": 3,
+                "nameMr": "द्रुगधामणा",
+                "nameEn": "द्रुगधामणा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-32-gan-63-gp-34-v-66",
+                    "serialNo": 3,
+                    "nameMr": "द्रुगधामणा",
+                    "nameEn": "द्रुगधामणा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-32-gan-63-gp-35",
+                "serialNo": 4,
+                "nameMr": "सुराबर्डी",
+                "nameEn": "सुराबर्डी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-32-gan-63-gp-35-v-67",
+                    "serialNo": 4,
+                    "nameMr": "सुराबर्डी",
+                    "nameEn": "सुराबर्डी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nagpur-rural-div-32-gan-64",
+            "number": 64,
+            "nameMr": "दवलामेटी",
+            "nameEn": "Dawlameti",
+            "code": "६४-दवलामेटी",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-32-gan-64-gp-36",
+                "serialNo": 1,
+                "nameMr": "दवलामेटी",
+                "nameEn": "दवलामेटी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-32-gan-64-gp-36-v-68",
+                    "serialNo": 1,
+                    "nameMr": "दवलामेटी",
+                    "nameEn": "दवलामेटी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nagpur-rural-div-33",
+        "number": 33,
+        "nameMr": "सोनेगाव निपाणी",
+        "nameEn": "Sonegaon Nipani",
+        "code": "३३-सोनेगाव निपाणी",
+        "gana": [
+          {
+            "id": "nagpur-rural-div-33-gan-65",
+            "number": 65,
+            "nameMr": "सोनेगाव निपाणी",
+            "nameEn": "Sonegaon Nipani",
+            "code": "६५-सोनेगाव निपाणी",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-33-gan-65-gp-37",
+                "serialNo": 1,
+                "nameMr": "सोनेगाव निपाणी",
+                "nameEn": "सोनेगाव निपाणी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-65-gp-37-v-69",
+                    "serialNo": 1,
+                    "nameMr": "सोनेगाव निपाणी",
+                    "nameEn": "सोनेगाव निपाणी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-33-gan-65-gp-38",
+                "serialNo": 2,
+                "nameMr": "व्याहाड",
+                "nameEn": "व्याहाड",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-65-gp-38-v-70",
+                    "serialNo": 2,
+                    "nameMr": "व्याहाड",
+                    "nameEn": "व्याहाड"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-33-gan-65-gp-39",
+                "serialNo": 3,
+                "nameMr": "पेठकाळडोंगरी",
+                "nameEn": "पेठकाळडोंगरी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-65-gp-39-v-71",
+                    "serialNo": 3,
+                    "nameMr": "पेठकाळडोंगरी",
+                    "nameEn": "पेठकाळडोंगरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-65-gp-39-v-72",
+                    "serialNo": 4,
+                    "nameMr": "चंद्रपुर",
+                    "nameEn": "चंद्रपुर"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nagpur-rural-div-33-gan-66",
+            "number": 66,
+            "nameMr": "बाजारगाव",
+            "nameEn": "Bazargaon",
+            "code": "६६-बाजारगाव",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-33-gan-66-gp-40",
+                "serialNo": 1,
+                "nameMr": "धामनालिंगा",
+                "nameEn": "धामनालिंगा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-40-v-73",
+                    "serialNo": 1,
+                    "nameMr": "धामणा",
+                    "nameEn": "धामणा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-40-v-74",
+                    "serialNo": 2,
+                    "nameMr": "लिंगा",
+                    "nameEn": "लिंगा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-40-v-75",
+                    "serialNo": 3,
+                    "nameMr": "मोहगाव खुर्द",
+                    "nameEn": "मोहगाव खुर्द"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-40-v-76",
+                    "serialNo": 4,
+                    "nameMr": "मोहगाव बु.",
+                    "nameEn": "मोहगाव बु."
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-33-gan-66-gp-41",
+                "serialNo": 2,
+                "nameMr": "शिरपूर",
+                "nameEn": "शिरपूर",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-41-v-77",
+                    "serialNo": 5,
+                    "nameMr": "शिरपूर",
+                    "nameEn": "शिरपूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-41-v-78",
+                    "serialNo": 6,
+                    "nameMr": "भुयारी",
+                    "nameEn": "भुयारी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-41-v-79",
+                    "serialNo": 7,
+                    "nameMr": "खैरी",
+                    "nameEn": "खैरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-41-v-80",
+                    "serialNo": 8,
+                    "nameMr": "आमगाव",
+                    "nameEn": "आमगाव"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-41-v-81",
+                    "serialNo": 9,
+                    "nameMr": "कवडीमेठ",
+                    "nameEn": "कवडीमेठ"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-41-v-82",
+                    "serialNo": 10,
+                    "nameMr": "बंधारा",
+                    "nameEn": "बंधारा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-33-gan-66-gp-42",
+                "serialNo": 3,
+                "nameMr": "सातनवरी",
+                "nameEn": "सातनवरी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-42-v-83",
+                    "serialNo": 11,
+                    "nameMr": "सातनवरी",
+                    "nameEn": "सातनवरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-42-v-84",
+                    "serialNo": 12,
+                    "nameMr": "ढगा",
+                    "nameEn": "ढगा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-42-v-85",
+                    "serialNo": 13,
+                    "nameMr": "पाचनवरी",
+                    "nameEn": "पाचनवरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-42-v-86",
+                    "serialNo": 14,
+                    "nameMr": "पाद्रीखापा",
+                    "nameEn": "पाद्रीखापा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-42-v-87",
+                    "serialNo": 15,
+                    "nameMr": "माळेगाव खुर्द",
+                    "nameEn": "माळेगाव खुर्द"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-42-v-88",
+                    "serialNo": 16,
+                    "nameMr": "माळेगाव बु.",
+                    "nameEn": "माळेगाव बु."
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-33-gan-66-gp-43",
+                "serialNo": 4,
+                "nameMr": "बाजारगाव",
+                "nameEn": "बाजारगाव",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-43-v-89",
+                    "serialNo": 17,
+                    "nameMr": "बाजारगाव",
+                    "nameEn": "बाजारगाव"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-43-v-90",
+                    "serialNo": 18,
+                    "nameMr": "पांजरा",
+                    "nameEn": "पांजरा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-33-gan-66-gp-44",
+                "serialNo": 5,
+                "nameMr": "शिवा",
+                "nameEn": "शिवा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-44-v-91",
+                    "serialNo": 19,
+                    "nameMr": "शिवा",
+                    "nameEn": "शिवा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-44-v-92",
+                    "serialNo": 20,
+                    "nameMr": "खापरी",
+                    "nameEn": "खापरी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-33-gan-66-gp-45",
+                "serialNo": 6,
+                "nameMr": "सावंगा",
+                "nameEn": "सावंगा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-33-gan-66-gp-45-v-93",
+                    "serialNo": 21,
+                    "nameMr": "सावंगा",
+                    "nameEn": "सावंगा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nagpur-rural-div-34",
+        "number": 34,
+        "nameMr": "बोरखेडी फाटक",
+        "nameEn": "Borkhedi Phatak",
+        "code": "३४-बोरखेडी फाटक",
+        "gana": [
+          {
+            "id": "nagpur-rural-div-34-gan-67",
+            "number": 67,
+            "nameMr": "बोरखेडी फाटक",
+            "nameEn": "Borkhedi Phatak",
+            "code": "६७-बोरखेडी फाटक",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-34-gan-67-gp-46",
+                "serialNo": 1,
+                "nameMr": "वारंगा",
+                "nameEn": "वारंगा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-46-v-94",
+                    "serialNo": 1,
+                    "nameMr": "वारंगा",
+                    "nameEn": "वारंगा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-46-v-95",
+                    "serialNo": 2,
+                    "nameMr": "परसोडी (गो.)",
+                    "nameEn": "परसोडी (गो.)"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-67-gp-47",
+                "serialNo": 2,
+                "nameMr": "बोथली",
+                "nameEn": "बोथली",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-47-v-96",
+                    "serialNo": 3,
+                    "nameMr": "बोथली",
+                    "nameEn": "बोथली"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-47-v-97",
+                    "serialNo": 4,
+                    "nameMr": "वाकेश्वर",
+                    "nameEn": "वाकेश्वर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-47-v-98",
+                    "serialNo": 5,
+                    "nameMr": "बोरखेडीफाटक",
+                    "nameEn": "बोरखेडीफाटक"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-47-v-99",
+                    "serialNo": 6,
+                    "nameMr": "मोहगांव",
+                    "nameEn": "मोहगांव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-67-gp-48",
+                "serialNo": 3,
+                "nameMr": "देवळीगुजर",
+                "nameEn": "देवळीगुजर",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-48-v-100",
+                    "serialNo": 7,
+                    "nameMr": "देवळीगुजर",
+                    "nameEn": "देवळीगुजर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-48-v-101",
+                    "serialNo": 8,
+                    "nameMr": "व्याहाडघाट",
+                    "nameEn": "व्याहाडघाट"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-67-gp-49",
+                "serialNo": 4,
+                "nameMr": "कोलार",
+                "nameEn": "कोलार",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-49-v-102",
+                    "serialNo": 9,
+                    "nameMr": "कोलार",
+                    "nameEn": "कोलार"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-49-v-103",
+                    "serialNo": 10,
+                    "nameMr": "घोटी",
+                    "nameEn": "घोटी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-67-gp-50",
+                "serialNo": 5,
+                "nameMr": "किन्हाळमाकडी",
+                "nameEn": "किन्हाळमाकडी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-50-v-104",
+                    "serialNo": 11,
+                    "nameMr": "किन्हाळमाकडी",
+                    "nameEn": "किन्हाळमाकडी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-50-v-105",
+                    "serialNo": 12,
+                    "nameMr": "खापरी (सुभेदार)",
+                    "nameEn": "खापरी (सुभेदार)"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-50-v-106",
+                    "serialNo": 13,
+                    "nameMr": "जयपूर",
+                    "nameEn": "जयपूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-50-v-107",
+                    "serialNo": 14,
+                    "nameMr": "कन्हाळगांव",
+                    "nameEn": "कन्हाळगांव"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-50-v-108",
+                    "serialNo": 15,
+                    "nameMr": "रहीमाबाद/रिधोरा",
+                    "nameEn": "रहीमाबाद/रिधोरा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-67-gp-51",
+                "serialNo": 6,
+                "nameMr": "सोनुर्ली",
+                "nameEn": "सोनुर्ली",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-51-v-109",
+                    "serialNo": 16,
+                    "nameMr": "सोनुली",
+                    "nameEn": "सोनुली"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-51-v-110",
+                    "serialNo": 17,
+                    "nameMr": "वाठोडा",
+                    "nameEn": "वाठोडा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-51-v-111",
+                    "serialNo": 18,
+                    "nameMr": "म्हसाळा",
+                    "nameEn": "म्हसाळा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-51-v-112",
+                    "serialNo": 19,
+                    "nameMr": "गोपाळपूर",
+                    "nameEn": "गोपाळपूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-51-v-113",
+                    "serialNo": 20,
+                    "nameMr": "दुधाळा",
+                    "nameEn": "दुधाळा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-67-gp-52",
+                "serialNo": 7,
+                "nameMr": "रुईखैरी",
+                "nameEn": "रुईखैरी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-52-v-114",
+                    "serialNo": 21,
+                    "nameMr": "रुईखैरी",
+                    "nameEn": "रुईखैरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-52-v-115",
+                    "serialNo": 22,
+                    "nameMr": "मूरारपूर",
+                    "nameEn": "मूरारपूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-67-gp-52-v-116",
+                    "serialNo": 23,
+                    "nameMr": "डोंगरगांव",
+                    "nameEn": "डोंगरगांव"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "nagpur-rural-div-34-gan-68",
+            "number": 68,
+            "nameMr": "बोरखेडी (रेल्वे)",
+            "nameEn": "Borkhedi (Railway)",
+            "code": "६८-बोरखेडी (रेल्वे)",
+            "gramPanchayats": [
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-53",
+                "serialNo": 1,
+                "nameMr": "सोनेगांव बोरी",
+                "nameEn": "सोनेगांव बोरी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-53-v-117",
+                    "serialNo": 1,
+                    "nameMr": "सोनेगांव बोरी",
+                    "nameEn": "सोनेगांव बोरी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-54",
+                "serialNo": 2,
+                "nameMr": "बोरखेडी (रेल्वे)",
+                "nameEn": "बोरखेडी (रेल्वे)",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-54-v-118",
+                    "serialNo": 2,
+                    "nameMr": "बोरखेडी (रेल्वे)",
+                    "nameEn": "बोरखेडी (रेल्वे)"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-54-v-119",
+                    "serialNo": 3,
+                    "nameMr": "जंगेश्वर",
+                    "nameEn": "जंगेश्वर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-54-v-120",
+                    "serialNo": 4,
+                    "nameMr": "पिपरडोल",
+                    "nameEn": "पिपरडोल"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-55",
+                "serialNo": 3,
+                "nameMr": "दुधा",
+                "nameEn": "दुधा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-55-v-121",
+                    "serialNo": 5,
+                    "nameMr": "दुधा",
+                    "nameEn": "दुधा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-55-v-122",
+                    "serialNo": 6,
+                    "nameMr": "तारसी",
+                    "nameEn": "तारसी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-55-v-123",
+                    "serialNo": 7,
+                    "nameMr": "धवळपेठ",
+                    "nameEn": "धवळपेठ"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-55-v-124",
+                    "serialNo": 8,
+                    "nameMr": "नवेगांव",
+                    "nameEn": "नवेगांव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-56",
+                "serialNo": 4,
+                "nameMr": "मांगली",
+                "nameEn": "मांगली",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-56-v-125",
+                    "serialNo": 9,
+                    "nameMr": "मांगली",
+                    "nameEn": "मांगली"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-56-v-126",
+                    "serialNo": 10,
+                    "nameMr": "कवठा",
+                    "nameEn": "कवठा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-56-v-127",
+                    "serialNo": 11,
+                    "nameMr": "चिचोली",
+                    "nameEn": "चिचोली"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-57",
+                "serialNo": 5,
+                "nameMr": "ब्राम्हणी",
+                "nameEn": "ब्राम्हणी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-57-v-128",
+                    "serialNo": 12,
+                    "nameMr": "ब्राम्हणी",
+                    "nameEn": "ब्राम्हणी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-58",
+                "serialNo": 6,
+                "nameMr": "आलागोंदी",
+                "nameEn": "आलागोंदी",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-58-v-129",
+                    "serialNo": 13,
+                    "nameMr": "आलागोंदी",
+                    "nameEn": "आलागोंदी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-58-v-130",
+                    "serialNo": 14,
+                    "nameMr": "टेंभरी",
+                    "nameEn": "टेंभरी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-58-v-131",
+                    "serialNo": 15,
+                    "nameMr": "चिमनाझरी",
+                    "nameEn": "चिमनाझरी"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-59",
+                "serialNo": 7,
+                "nameMr": "रामा",
+                "nameEn": "रामा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-59-v-132",
+                    "serialNo": 16,
+                    "nameMr": "रामा",
+                    "nameEn": "रामा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-59-v-133",
+                    "serialNo": 17,
+                    "nameMr": "रहिमापूर",
+                    "nameEn": "रहिमापूर"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-59-v-134",
+                    "serialNo": 18,
+                    "nameMr": "वडगांव",
+                    "nameEn": "वडगांव"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-60",
+                "serialNo": 8,
+                "nameMr": "सोनेगांव (लोधी)",
+                "nameEn": "सोनेगांव (लोधी)",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-60-v-135",
+                    "serialNo": 19,
+                    "nameMr": "सोनेगांव (लोधी)",
+                    "nameEn": "सोनेगांव (लोधी)"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-60-v-136",
+                    "serialNo": 20,
+                    "nameMr": "मोहगांव",
+                    "nameEn": "मोहगांव"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-60-v-137",
+                    "serialNo": 21,
+                    "nameMr": "चिचकोटा",
+                    "nameEn": "चिचकोटा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-61",
+                "serialNo": 9,
+                "nameMr": "दहेली",
+                "nameEn": "दहेली",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-61-v-138",
+                    "serialNo": 22,
+                    "nameMr": "दहेली",
+                    "nameEn": "दहेली"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-61-v-139",
+                    "serialNo": 23,
+                    "nameMr": "पोही",
+                    "nameEn": "पोही"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-61-v-140",
+                    "serialNo": 24,
+                    "nameMr": "तामसवाडी",
+                    "nameEn": "तामसवाडी"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-61-v-141",
+                    "serialNo": 25,
+                    "nameMr": "खरडा",
+                    "nameEn": "खरडा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-61-v-142",
+                    "serialNo": 26,
+                    "nameMr": "वडमांजरा",
+                    "nameEn": "वडमांजरा"
+                  }
+                ]
+              },
+              {
+                "id": "nagpur-rural-div-34-gan-68-gp-62",
+                "serialNo": 10,
+                "nameMr": "आष्टा",
+                "nameEn": "आष्टा",
+                "villages": [
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-62-v-143",
+                    "serialNo": 27,
+                    "nameMr": "आष्टा",
+                    "nameEn": "आष्टा"
+                  },
+                  {
+                    "id": "nagpur-rural-div-34-gan-68-gp-62-v-144",
+                    "serialNo": 28,
+                    "nameMr": "जसापूर",
+                    "nameEn": "जसापूर"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "कामठी",
+    "talukaEn": "Kamptee",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "kamptee-div-26",
+        "number": 26,
+        "nameMr": "कोराडी",
+        "nameEn": "Koradi",
+        "code": "२६-कोराडी",
+        "gana": [
+          {
+            "id": "kamptee-div-26-gan-51",
+            "number": 51,
+            "nameMr": "कोराडी",
+            "nameEn": "Koradi",
+            "code": "५१-कोराडी",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-26-gan-51-gp-1",
+                "serialNo": 1,
+                "nameMr": "कोराडी",
+                "nameEn": "कोराडी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "कोराडी",
+                    "nameEn": "कोराडी"
+                  },
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "पांजरा",
+                    "nameEn": "पांजरा"
+                  },
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-1-v-3",
+                    "serialNo": 3,
+                    "nameMr": "खापरखेडा",
+                    "nameEn": "खापरखेडा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-26-gan-51-gp-2",
+                "serialNo": 2,
+                "nameMr": "बाबुलखेडा",
+                "nameEn": "बाबुलखेडा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-2-v-4",
+                    "serialNo": 4,
+                    "nameMr": "बाबुलखेडा",
+                    "nameEn": "बाबुलखेडा"
+                  },
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-2-v-5",
+                    "serialNo": 5,
+                    "nameMr": "तांदुळवाणी",
+                    "nameEn": "तांदुळवाणी"
+                  },
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-2-v-6",
+                    "serialNo": 6,
+                    "nameMr": "चिचोली",
+                    "nameEn": "चिचोली"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-26-gan-51-gp-3",
+                "serialNo": 3,
+                "nameMr": "लोणखैरी",
+                "nameEn": "लोणखैरी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-3-v-7",
+                    "serialNo": 7,
+                    "nameMr": "लोणखैरी",
+                    "nameEn": "लोणखैरी"
+                  },
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-3-v-8",
+                    "serialNo": 8,
+                    "nameMr": "नांदा",
+                    "nameEn": "नांदा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-26-gan-51-gp-4",
+                "serialNo": 4,
+                "nameMr": "खापा",
+                "nameEn": "खापा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-4-v-9",
+                    "serialNo": 9,
+                    "nameMr": "खापा",
+                    "nameEn": "खापा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-26-gan-51-gp-5",
+                "serialNo": 5,
+                "nameMr": "गुमथी",
+                "nameEn": "गुमथी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-51-gp-5-v-10",
+                    "serialNo": 10,
+                    "nameMr": "गुमथी",
+                    "nameEn": "गुमथी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kamptee-div-26-gan-52",
+            "number": 52,
+            "nameMr": "कवठा",
+            "nameEn": "Kawatha",
+            "code": "५२-कवठा",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-26-gan-52-gp-6",
+                "serialNo": 1,
+                "nameMr": "कवठा",
+                "nameEn": "कवठा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-52-gp-6-v-11",
+                    "serialNo": 1,
+                    "nameMr": "कवठा",
+                    "nameEn": "कवठा"
+                  },
+                  {
+                    "id": "kamptee-div-26-gan-52-gp-6-v-12",
+                    "serialNo": 2,
+                    "nameMr": "म्हसाळा",
+                    "nameEn": "म्हसाळा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-26-gan-52-gp-7",
+                "serialNo": 2,
+                "nameMr": "बिना",
+                "nameEn": "बिना",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-52-gp-7-v-13",
+                    "serialNo": 3,
+                    "nameMr": "बिना",
+                    "nameEn": "बिना"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-26-gan-52-gp-8",
+                "serialNo": 3,
+                "nameMr": "वारेगाव",
+                "nameEn": "वारेगाव",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-52-gp-8-v-14",
+                    "serialNo": 4,
+                    "nameMr": "वारेगाव",
+                    "nameEn": "वारेगाव"
+                  },
+                  {
+                    "id": "kamptee-div-26-gan-52-gp-8-v-15",
+                    "serialNo": 5,
+                    "nameMr": "बिडबिना",
+                    "nameEn": "बिडबिना"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-26-gan-52-gp-9",
+                "serialNo": 4,
+                "nameMr": "सुरादेवी",
+                "nameEn": "सुरादेवी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-26-gan-52-gp-9-v-16",
+                    "serialNo": 6,
+                    "nameMr": "सुरादेवी",
+                    "nameEn": "सुरादेवी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kamptee-div-27",
+        "number": 27,
+        "nameMr": "भिलगाव",
+        "nameEn": "Bhilgaon",
+        "code": "२७-भिलगाव",
+        "gana": [
+          {
+            "id": "kamptee-div-27-gan-53",
+            "number": 53,
+            "nameMr": "भिलगाव",
+            "nameEn": "Bhilgaon",
+            "code": "५३-भिलगाव",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-27-gan-53-gp-10",
+                "serialNo": 1,
+                "nameMr": "भिलगाव",
+                "nameEn": "भिलगाव",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-53-gp-10-v-17",
+                    "serialNo": 1,
+                    "nameMr": "भिलगाव",
+                    "nameEn": "भिलगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-53-gp-11",
+                "serialNo": 2,
+                "nameMr": "खैरी",
+                "nameEn": "खैरी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-53-gp-11-v-18",
+                    "serialNo": 2,
+                    "nameMr": "खैरी",
+                    "nameEn": "खैरी"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-53-gp-12",
+                "serialNo": 3,
+                "nameMr": "रनाळा",
+                "nameEn": "रनाळा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-53-gp-12-v-19",
+                    "serialNo": 3,
+                    "nameMr": "रनाळा",
+                    "nameEn": "रनाळा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-53-gp-13",
+                "serialNo": 4,
+                "nameMr": "खसाळा",
+                "nameEn": "खसाळा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-53-gp-13-v-20",
+                    "serialNo": 4,
+                    "nameMr": "खसाळा",
+                    "nameEn": "खसाळा"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kamptee-div-27-gan-54",
+            "number": 54,
+            "nameMr": "आजनी",
+            "nameEn": "Ajani",
+            "code": "५४-आजनी",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-27-gan-54-gp-14",
+                "serialNo": 1,
+                "nameMr": "आजनी",
+                "nameEn": "आजनी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-14-v-21",
+                    "serialNo": 1,
+                    "nameMr": "आजनी",
+                    "nameEn": "आजनी"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-54-gp-15",
+                "serialNo": 2,
+                "nameMr": "गादा",
+                "nameEn": "गादा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-15-v-22",
+                    "serialNo": 2,
+                    "nameMr": "गादा",
+                    "nameEn": "गादा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-54-gp-16",
+                "serialNo": 3,
+                "nameMr": "नेरी",
+                "nameEn": "नेरी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-16-v-23",
+                    "serialNo": 3,
+                    "nameMr": "नेरी",
+                    "nameEn": "नेरी"
+                  },
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-16-v-24",
+                    "serialNo": 4,
+                    "nameMr": "उनगाव",
+                    "nameEn": "उनगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-54-gp-17",
+                "serialNo": 4,
+                "nameMr": "आवंढी",
+                "nameEn": "आवंढी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-17-v-25",
+                    "serialNo": 5,
+                    "nameMr": "आवंढी",
+                    "nameEn": "आवंढी"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-54-gp-18",
+                "serialNo": 5,
+                "nameMr": "लिहीगाव",
+                "nameEn": "लिहीगाव",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-18-v-26",
+                    "serialNo": 6,
+                    "nameMr": "लिहीगाव",
+                    "nameEn": "लिहीगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-27-gan-54-gp-19",
+                "serialNo": 6,
+                "nameMr": "घोरपड",
+                "nameEn": "घोरपड",
+                "villages": [
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-19-v-27",
+                    "serialNo": 7,
+                    "nameMr": "घोरपड",
+                    "nameEn": "घोरपड"
+                  },
+                  {
+                    "id": "kamptee-div-27-gan-54-gp-19-v-28",
+                    "serialNo": 8,
+                    "nameMr": "शिरपुर",
+                    "nameEn": "शिरपुर"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kamptee-div-28",
+        "number": 28,
+        "nameMr": "गुमथळा",
+        "nameEn": "Gumthala",
+        "code": "२८-गुमथळा",
+        "gana": [
+          {
+            "id": "kamptee-div-28-gan-55",
+            "number": 55,
+            "nameMr": "गुमथळा",
+            "nameEn": "Gumthala",
+            "code": "५५-गुमथळा",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-28-gan-55-gp-20",
+                "serialNo": 1,
+                "nameMr": "गुमथळा",
+                "nameEn": "गुमथळा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-20-v-29",
+                    "serialNo": 1,
+                    "nameMr": "गुमथळा",
+                    "nameEn": "गुमथळा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-55-gp-21",
+                "serialNo": 2,
+                "nameMr": "परसाड",
+                "nameEn": "परसाड",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-21-v-30",
+                    "serialNo": 2,
+                    "nameMr": "परसाड",
+                    "nameEn": "परसाड"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-55-gp-22",
+                "serialNo": 3,
+                "nameMr": "भोवरी",
+                "nameEn": "भोवरी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-22-v-31",
+                    "serialNo": 3,
+                    "nameMr": "भोवरी",
+                    "nameEn": "भोवरी"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-55-gp-23",
+                "serialNo": 4,
+                "nameMr": "कढोली",
+                "nameEn": "कढोली",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-23-v-32",
+                    "serialNo": 4,
+                    "nameMr": "कढोली",
+                    "nameEn": "कढोली"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-55-gp-24",
+                "serialNo": 5,
+                "nameMr": "सोनेगाव (राजा)",
+                "nameEn": "सोनेगाव (राजा)",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-24-v-33",
+                    "serialNo": 5,
+                    "nameMr": "सोनेगाव (राजा)",
+                    "nameEn": "सोनेगाव (राजा)"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-55-gp-25",
+                "serialNo": 6,
+                "nameMr": "उमरी",
+                "nameEn": "उमरी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-25-v-34",
+                    "serialNo": 6,
+                    "nameMr": "उमरी",
+                    "nameEn": "उमरी"
+                  },
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-25-v-35",
+                    "serialNo": 7,
+                    "nameMr": "सेलु",
+                    "nameEn": "सेलु"
+                  },
+                  {
+                    "id": "kamptee-div-28-gan-55-gp-25-v-36",
+                    "serialNo": 8,
+                    "nameMr": "एकर्डी",
+                    "nameEn": "एकर्डी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kamptee-div-28-gan-56",
+            "number": 56,
+            "nameMr": "महालगाव",
+            "nameEn": "Mahalgaon",
+            "code": "५६-महालगाव",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-28-gan-56-gp-26",
+                "serialNo": 1,
+                "nameMr": "महालगाव",
+                "nameEn": "महालगाव",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-26-v-37",
+                    "serialNo": 1,
+                    "nameMr": "महालगाव",
+                    "nameEn": "महालगाव"
+                  },
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-26-v-38",
+                    "serialNo": 2,
+                    "nameMr": "आसोली",
+                    "nameEn": "आसोली"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-56-gp-27",
+                "serialNo": 2,
+                "nameMr": "कापसी बु",
+                "nameEn": "कापसी बु",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-27-v-39",
+                    "serialNo": 3,
+                    "nameMr": "कापसी बु",
+                    "nameEn": "कापसी बु"
+                  },
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-27-v-40",
+                    "serialNo": 4,
+                    "nameMr": "पोवारी रि.",
+                    "nameEn": "पोवारी रि."
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-56-gp-28",
+                "serialNo": 3,
+                "nameMr": "पावनगाव",
+                "nameEn": "पावनगाव",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-28-v-41",
+                    "serialNo": 5,
+                    "nameMr": "पावनगाव",
+                    "nameEn": "पावनगाव"
+                  },
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-28-v-42",
+                    "serialNo": 6,
+                    "nameMr": "धारगाव",
+                    "nameEn": "धारगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-56-gp-29",
+                "serialNo": 4,
+                "nameMr": "दिघोरी बु",
+                "nameEn": "दिघोरी बु",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-29-v-43",
+                    "serialNo": 7,
+                    "nameMr": "दिघोरी बु",
+                    "nameEn": "दिघोरी बु"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-28-gan-56-gp-30",
+                "serialNo": 5,
+                "nameMr": "गारला",
+                "nameEn": "गारला",
+                "villages": [
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-30-v-44",
+                    "serialNo": 8,
+                    "nameMr": "गारला",
+                    "nameEn": "गारला"
+                  },
+                  {
+                    "id": "kamptee-div-28-gan-56-gp-30-v-45",
+                    "serialNo": 9,
+                    "nameMr": "सावळी",
+                    "nameEn": "सावळी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kamptee-div-29",
+        "number": 29,
+        "nameMr": "वडोदा",
+        "nameEn": "Vadoda",
+        "code": "२९-वडोदा",
+        "gana": [
+          {
+            "id": "kamptee-div-29-gan-57",
+            "number": 57,
+            "nameMr": "वडोदा",
+            "nameEn": "Vadoda",
+            "code": "५७-वडोदा",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-29-gan-57-gp-31",
+                "serialNo": 1,
+                "nameMr": "वडोदा",
+                "nameEn": "वडोदा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-31-v-46",
+                    "serialNo": 1,
+                    "nameMr": "वडोदा",
+                    "nameEn": "वडोदा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-57-gp-32",
+                "serialNo": 2,
+                "nameMr": "केसोरी",
+                "nameEn": "केसोरी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-32-v-47",
+                    "serialNo": 2,
+                    "nameMr": "केसोरी",
+                    "nameEn": "केसोरी"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-32-v-48",
+                    "serialNo": 3,
+                    "nameMr": "अंबाडी",
+                    "nameEn": "अंबाडी"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-57-gp-33",
+                "serialNo": 3,
+                "nameMr": "भामेवाडा",
+                "nameEn": "भामेवाडा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-33-v-49",
+                    "serialNo": 4,
+                    "nameMr": "भामेवाडा",
+                    "nameEn": "भामेवाडा"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-33-v-50",
+                    "serialNo": 5,
+                    "nameMr": "आसलवाडा",
+                    "nameEn": "आसलवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-57-gp-34",
+                "serialNo": 4,
+                "nameMr": "जाखेगाव",
+                "nameEn": "जाखेगाव",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-34-v-51",
+                    "serialNo": 6,
+                    "nameMr": "जाखेगाव",
+                    "nameEn": "जाखेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-57-gp-35",
+                "serialNo": 5,
+                "nameMr": "चिकना",
+                "nameEn": "चिकना",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-35-v-52",
+                    "serialNo": 7,
+                    "nameMr": "चिकना",
+                    "nameEn": "चिकना"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-35-v-53",
+                    "serialNo": 8,
+                    "nameMr": "बोरगाव",
+                    "nameEn": "बोरगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-57-gp-36",
+                "serialNo": 6,
+                "nameMr": "नान्हा मांगली",
+                "nameEn": "नान्हा मांगली",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-36-v-54",
+                    "serialNo": 9,
+                    "nameMr": "नान्हा",
+                    "nameEn": "नान्हा"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-36-v-55",
+                    "serialNo": 10,
+                    "nameMr": "मांगली",
+                    "nameEn": "मांगली"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-57-gp-36-v-56",
+                    "serialNo": 11,
+                    "nameMr": "रानमांगली",
+                    "nameEn": "रानमांगली"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kamptee-div-29-gan-58",
+            "number": 58,
+            "nameMr": "भुगाव",
+            "nameEn": "Bhugaon",
+            "code": "५८-भुगाव",
+            "gramPanchayats": [
+              {
+                "id": "kamptee-div-29-gan-58-gp-37",
+                "serialNo": 1,
+                "nameMr": "भुगाव",
+                "nameEn": "भुगाव",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-37-v-57",
+                    "serialNo": 1,
+                    "nameMr": "भुगाव",
+                    "nameEn": "भुगाव"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-37-v-58",
+                    "serialNo": 2,
+                    "nameMr": "निन्हाई रिठी",
+                    "nameEn": "निन्हाई रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-38",
+                "serialNo": 2,
+                "nameMr": "वरंभा",
+                "nameEn": "वरंभा",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-38-v-59",
+                    "serialNo": 3,
+                    "nameMr": "वरंभा",
+                    "nameEn": "वरंभा"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-38-v-60",
+                    "serialNo": 4,
+                    "nameMr": "झरप",
+                    "nameEn": "झरप"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-38-v-61",
+                    "serialNo": 5,
+                    "nameMr": "नेरला",
+                    "nameEn": "नेरला"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-39",
+                "serialNo": 3,
+                "nameMr": "चिखली",
+                "nameEn": "चिखली",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-39-v-62",
+                    "serialNo": 6,
+                    "nameMr": "चिखली",
+                    "nameEn": "चिखली"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-39-v-63",
+                    "serialNo": 7,
+                    "nameMr": "निंबा",
+                    "nameEn": "निंबा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-40",
+                "serialNo": 4,
+                "nameMr": "शिवनी",
+                "nameEn": "शिवनी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-40-v-64",
+                    "serialNo": 8,
+                    "nameMr": "शिवनी",
+                    "nameEn": "शिवनी"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-41",
+                "serialNo": 5,
+                "nameMr": "आडका",
+                "nameEn": "आडका",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-41-v-65",
+                    "serialNo": 9,
+                    "nameMr": "आडका",
+                    "nameEn": "आडका"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-42",
+                "serialNo": 6,
+                "nameMr": "केम",
+                "nameEn": "केम",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-42-v-66",
+                    "serialNo": 10,
+                    "nameMr": "केम",
+                    "nameEn": "केम"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-43",
+                "serialNo": 7,
+                "nameMr": "टेमसना",
+                "nameEn": "टेमसना",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-43-v-67",
+                    "serialNo": 11,
+                    "nameMr": "टेमसना",
+                    "nameEn": "टेमसना"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-43-v-68",
+                    "serialNo": 12,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-43-v-69",
+                    "serialNo": 13,
+                    "nameMr": "कुसुंबी",
+                    "nameEn": "कुसुंबी"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-44",
+                "serialNo": 8,
+                "nameMr": "खेडी",
+                "nameEn": "खेडी",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-44-v-70",
+                    "serialNo": 14,
+                    "nameMr": "खेडी",
+                    "nameEn": "खेडी"
+                  },
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-44-v-71",
+                    "serialNo": 15,
+                    "nameMr": "पांढरकवडा",
+                    "nameEn": "पांढरकवडा"
+                  }
+                ]
+              },
+              {
+                "id": "kamptee-div-29-gan-58-gp-45",
+                "serialNo": 9,
+                "nameMr": "तरोडी बु",
+                "nameEn": "तरोडी बु",
+                "villages": [
+                  {
+                    "id": "kamptee-div-29-gan-58-gp-45-v-72",
+                    "serialNo": 16,
+                    "nameMr": "तरोडी बु",
+                    "nameEn": "तरोडी बु"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "कुही",
+    "talukaEn": "Kuhi",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "kuhi-div-22",
+        "number": 22,
+        "nameMr": "राजोला",
+        "nameEn": "Rajola",
+        "code": "२२-राजोला",
+        "gana": [
+          {
+            "id": "kuhi-div-22-gan-43",
+            "number": 43,
+            "nameMr": "साळवा",
+            "nameEn": "Salwa",
+            "code": "४३-साळवा",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-22-gan-43-gp-1",
+                "serialNo": 1,
+                "nameMr": "चापेगडी",
+                "nameEn": "चापेगडी",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "मोहगाव",
+                    "nameEn": "मोहगाव"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "चिचघाट",
+                    "nameEn": "चिचघाट"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-1-v-3",
+                    "serialNo": 3,
+                    "nameMr": "सावंगी",
+                    "nameEn": "सावंगी"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-1-v-4",
+                    "serialNo": 4,
+                    "nameMr": "पालेगाव रिठी",
+                    "nameEn": "पालेगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-1-v-5",
+                    "serialNo": 5,
+                    "nameMr": "चापेघाट रिठी",
+                    "nameEn": "चापेघाट रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-1-v-6",
+                    "serialNo": 6,
+                    "nameMr": "चापेगडी",
+                    "nameEn": "चापेगडी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-43-gp-2",
+                "serialNo": 2,
+                "nameMr": "साळवा",
+                "nameEn": "साळवा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-2-v-7",
+                    "serialNo": 7,
+                    "nameMr": "खरबी",
+                    "nameEn": "खरबी"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-2-v-8",
+                    "serialNo": 8,
+                    "nameMr": "साळवा",
+                    "nameEn": "साळवा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-2-v-9",
+                    "serialNo": 9,
+                    "nameMr": "सावरगाव",
+                    "nameEn": "सावरगाव"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-2-v-10",
+                    "serialNo": 10,
+                    "nameMr": "नेवरी",
+                    "nameEn": "नेवरी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-43-gp-3",
+                "serialNo": 3,
+                "nameMr": "खोबना",
+                "nameEn": "खोबना",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-3-v-11",
+                    "serialNo": 11,
+                    "nameMr": "खोबना",
+                    "nameEn": "खोबना"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-3-v-12",
+                    "serialNo": 12,
+                    "nameMr": "बोळखीपेठ",
+                    "nameEn": "बोळखीपेठ"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-43-gp-4",
+                "serialNo": 4,
+                "nameMr": "देवळी खुर्द",
+                "nameEn": "देवळी खुर्द",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-4-v-13",
+                    "serialNo": 13,
+                    "nameMr": "देवळी खुर्द",
+                    "nameEn": "देवळी खुर्द"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-4-v-14",
+                    "serialNo": 14,
+                    "nameMr": "टाकळी",
+                    "nameEn": "टाकळी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-43-gp-5",
+                "serialNo": 5,
+                "nameMr": "देवळी कला",
+                "nameEn": "देवळी कला",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-5-v-15",
+                    "serialNo": 15,
+                    "nameMr": "देवळी कला",
+                    "nameEn": "देवळी कला"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-5-v-16",
+                    "serialNo": 16,
+                    "nameMr": "खुर्सापार",
+                    "nameEn": "खुर्सापार"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-5-v-17",
+                    "serialNo": 17,
+                    "nameMr": "भिवकुंड",
+                    "nameEn": "भिवकुंड"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-43-gp-6",
+                "serialNo": 6,
+                "nameMr": "भटरा",
+                "nameEn": "भटरा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-18",
+                    "serialNo": 18,
+                    "nameMr": "भटरा",
+                    "nameEn": "भटरा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-19",
+                    "serialNo": 19,
+                    "nameMr": "पांडेगाव",
+                    "nameEn": "पांडेगाव"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-20",
+                    "serialNo": 20,
+                    "nameMr": "बिडबोथली",
+                    "nameEn": "बिडबोथली"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-21",
+                    "serialNo": 21,
+                    "nameMr": "लोहारा",
+                    "nameEn": "लोहारा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-22",
+                    "serialNo": 22,
+                    "nameMr": "पिलकेपार रिठी",
+                    "nameEn": "पिलकेपार रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-23",
+                    "serialNo": 23,
+                    "nameMr": "दलपतपूर रिठी",
+                    "nameEn": "दलपतपूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-24",
+                    "serialNo": 24,
+                    "nameMr": "दवळीपार रिठी",
+                    "nameEn": "दवळीपार रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-6-v-25",
+                    "serialNo": 25,
+                    "nameMr": "भंडारबोडी रिठी",
+                    "nameEn": "भंडारबोडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-43-gp-7",
+                "serialNo": 7,
+                "nameMr": "अडम",
+                "nameEn": "अडम",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-7-v-26",
+                    "serialNo": 26,
+                    "nameMr": "अडम",
+                    "nameEn": "अडम"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-7-v-27",
+                    "serialNo": 27,
+                    "nameMr": "चिखलाबोडी",
+                    "nameEn": "चिखलाबोडी"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-43-gp-7-v-28",
+                    "serialNo": 28,
+                    "nameMr": "हुडपा",
+                    "nameEn": "हुडपा"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kuhi-div-22-gan-44",
+            "number": 44,
+            "nameMr": "राजोला",
+            "nameEn": "Rajola",
+            "code": "४४-राजोला",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-22-gan-44-gp-8",
+                "serialNo": 1,
+                "nameMr": "राजोला",
+                "nameEn": "राजोला",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-8-v-29",
+                    "serialNo": 1,
+                    "nameMr": "राजोला",
+                    "nameEn": "राजोला"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-8-v-30",
+                    "serialNo": 2,
+                    "nameMr": "आगरगाव",
+                    "nameEn": "आगरगाव"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-8-v-31",
+                    "serialNo": 3,
+                    "nameMr": "सावरखेंडा",
+                    "nameEn": "सावरखेंडा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-8-v-32",
+                    "serialNo": 4,
+                    "nameMr": "कन्हेरी डोंगरमोह",
+                    "nameEn": "कन्हेरी डोंगरमोह"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-8-v-33",
+                    "serialNo": 5,
+                    "nameMr": "कन्हेरी डोंगरमोह खुर्द",
+                    "nameEn": "कन्हेरी डोंगरमोह खुर्द"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-44-gp-9",
+                "serialNo": 2,
+                "nameMr": "बोरी नाईक पुन.",
+                "nameEn": "बोरी नाईक पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-9-v-34",
+                    "serialNo": 6,
+                    "nameMr": "बोरी नाईक पुन.",
+                    "nameEn": "बोरी नाईक पुन."
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-9-v-35",
+                    "serialNo": 7,
+                    "nameMr": "आवरमारा",
+                    "nameEn": "आवरमारा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-9-v-36",
+                    "serialNo": 8,
+                    "nameMr": "नवेगाव चिचघाट",
+                    "nameEn": "नवेगाव चिचघाट"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-9-v-37",
+                    "serialNo": 9,
+                    "nameMr": "आमटी",
+                    "nameEn": "आमटी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-44-gp-10",
+                "serialNo": 3,
+                "nameMr": "कुजबा",
+                "nameEn": "कुजबा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-10-v-38",
+                    "serialNo": 10,
+                    "nameMr": "कुजबा",
+                    "nameEn": "कुजबा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-10-v-39",
+                    "serialNo": 11,
+                    "nameMr": "खेंडा",
+                    "nameEn": "खेंडा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-10-v-40",
+                    "serialNo": 12,
+                    "nameMr": "पौनी",
+                    "nameEn": "पौनी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-44-gp-11",
+                "serialNo": 4,
+                "nameMr": "माजरी",
+                "nameEn": "माजरी",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-11-v-41",
+                    "serialNo": 13,
+                    "nameMr": "माजरी",
+                    "nameEn": "माजरी"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-11-v-42",
+                    "serialNo": 14,
+                    "nameMr": "चिचाळा",
+                    "nameEn": "चिचाळा"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-44-gp-12",
+                "serialNo": 5,
+                "nameMr": "म्हसली पुन.",
+                "nameEn": "म्हसली पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-12-v-43",
+                    "serialNo": 15,
+                    "nameMr": "म्हसली पुन.",
+                    "nameEn": "म्हसली पुन."
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-12-v-44",
+                    "serialNo": 16,
+                    "nameMr": "गोंडपिपरी पुन.",
+                    "nameEn": "गोंडपिपरी पुन."
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-12-v-45",
+                    "serialNo": 17,
+                    "nameMr": "पवनी पुन.",
+                    "nameEn": "पवनी पुन."
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-12-v-46",
+                    "serialNo": 18,
+                    "nameMr": "धामनी पुन.",
+                    "nameEn": "धामनी पुन."
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-12-v-47",
+                    "serialNo": 19,
+                    "nameMr": "ब्राम्हणी पुन.",
+                    "nameEn": "ब्राम्हणी पुन."
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-12-v-48",
+                    "serialNo": 20,
+                    "nameMr": "चिचघाट पुन.",
+                    "nameEn": "चिचघाट पुन."
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-12-v-49",
+                    "serialNo": 21,
+                    "nameMr": "बांदरचुहा रिठी",
+                    "nameEn": "बांदरचुहा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-44-gp-13",
+                "serialNo": 6,
+                "nameMr": "हरदोली नाईक",
+                "nameEn": "हरदोली नाईक",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-13-v-50",
+                    "serialNo": 22,
+                    "nameMr": "टेकेपार",
+                    "nameEn": "टेकेपार"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-13-v-51",
+                    "serialNo": 23,
+                    "nameMr": "रुयाड",
+                    "nameEn": "रुयाड"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-13-v-52",
+                    "serialNo": 24,
+                    "nameMr": "पोहरा",
+                    "nameEn": "पोहरा"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-13-v-53",
+                    "serialNo": 25,
+                    "nameMr": "येडमेपार रिठी",
+                    "nameEn": "येडमेपार रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-13-v-54",
+                    "serialNo": 26,
+                    "nameMr": "प्रतापपुर रिठी",
+                    "nameEn": "प्रतापपुर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-13-v-55",
+                    "serialNo": 27,
+                    "nameMr": "बोरडा रिठी",
+                    "nameEn": "बोरडा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-44-gp-14",
+                "serialNo": 7,
+                "nameMr": "चन्ना",
+                "nameEn": "चन्ना",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-14-v-56",
+                    "serialNo": 28,
+                    "nameMr": "चन्ना",
+                    "nameEn": "चन्ना"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-22-gan-44-gp-15",
+                "serialNo": 8,
+                "nameMr": "हरदोली पुन.",
+                "nameEn": "हरदोली पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-22-gan-44-gp-15-v-57",
+                    "serialNo": 29,
+                    "nameMr": "हरदोली पुन.",
+                    "nameEn": "हरदोली पुन."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kuhi-div-23",
+        "number": 23,
+        "nameMr": "वेलतूर",
+        "nameEn": "Veltur",
+        "code": "२३-वेलतूर",
+        "gana": [
+          {
+            "id": "kuhi-div-23-gan-45",
+            "number": 45,
+            "nameMr": "वेलतूर",
+            "nameEn": "Veltur",
+            "code": "४५-वेलतूर",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-23-gan-45-gp-16",
+                "serialNo": 1,
+                "nameMr": "आंभोरा खुर्द",
+                "nameEn": "आंभोरा खुर्द",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-16-v-58",
+                    "serialNo": 1,
+                    "nameMr": "आंभोरा खुर्द",
+                    "nameEn": "आंभोरा खुर्द"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-16-v-59",
+                    "serialNo": 2,
+                    "nameMr": "गडपायली",
+                    "nameEn": "गडपायली"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-16-v-60",
+                    "serialNo": 3,
+                    "nameMr": "मेंढे कला",
+                    "nameEn": "मेंढे कला"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-16-v-61",
+                    "serialNo": 4,
+                    "nameMr": "मालोदा",
+                    "nameEn": "मालोदा"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-16-v-62",
+                    "serialNo": 5,
+                    "nameMr": "आंभोरा कला",
+                    "nameEn": "आंभोरा कला"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-16-v-63",
+                    "serialNo": 6,
+                    "nameMr": "अडेगाव",
+                    "nameEn": "अडेगाव"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-16-v-64",
+                    "serialNo": 7,
+                    "nameMr": "मेंढा खुर्द रिठी",
+                    "nameEn": "मेंढा खुर्द रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-45-gp-17",
+                "serialNo": 2,
+                "nameMr": "खोकरला",
+                "nameEn": "खोकरला",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-17-v-65",
+                    "serialNo": 8,
+                    "nameMr": "खोकरला",
+                    "nameEn": "खोकरला"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-17-v-66",
+                    "serialNo": 9,
+                    "nameMr": "धानला",
+                    "nameEn": "धानला"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-45-gp-18",
+                "serialNo": 3,
+                "nameMr": "गोन्हा",
+                "nameEn": "गोन्हा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-18-v-67",
+                    "serialNo": 10,
+                    "nameMr": "गोन्हा",
+                    "nameEn": "गोन्हा"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-18-v-68",
+                    "serialNo": 11,
+                    "nameMr": "चिखली",
+                    "nameEn": "चिखली"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-18-v-69",
+                    "serialNo": 12,
+                    "nameMr": "पिपरी मुंजे",
+                    "nameEn": "पिपरी मुंजे"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-45-gp-19",
+                "serialNo": 4,
+                "nameMr": "तुडका",
+                "nameEn": "तुडका",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-19-v-70",
+                    "serialNo": 13,
+                    "nameMr": "तुडका",
+                    "nameEn": "तुडका"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-19-v-71",
+                    "serialNo": 14,
+                    "nameMr": "बाळापूर रिठी",
+                    "nameEn": "बाळापूर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-45-gp-20",
+                "serialNo": 5,
+                "nameMr": "वेलतूर",
+                "nameEn": "वेलतूर",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-20-v-72",
+                    "serialNo": 15,
+                    "nameMr": "वेलतूर",
+                    "nameEn": "वेलतूर"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-20-v-73",
+                    "serialNo": 16,
+                    "nameMr": "बोथली",
+                    "nameEn": "बोथली"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-45-gp-21",
+                "serialNo": 6,
+                "nameMr": "नवेगाव पुन.",
+                "nameEn": "नवेगाव पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-21-v-74",
+                    "serialNo": 17,
+                    "nameMr": "नवेगाव पुन.",
+                    "nameEn": "नवेगाव पुन."
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-21-v-75",
+                    "serialNo": 18,
+                    "nameMr": "उमरी पुन.",
+                    "nameEn": "उमरी पुन."
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-45-gp-21-v-76",
+                    "serialNo": 19,
+                    "nameMr": "सोनारवाही",
+                    "nameEn": "सोनारवाही"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kuhi-div-23-gan-46",
+            "number": 46,
+            "nameMr": "पचखेडी गा.",
+            "nameEn": "Pachkhedi Ga.",
+            "code": "४६-पचखेडी गा.",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-23-gan-46-gp-22",
+                "serialNo": 1,
+                "nameMr": "किन्ही",
+                "nameEn": "किन्ही",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-22-v-77",
+                    "serialNo": 1,
+                    "nameMr": "किन्ही",
+                    "nameEn": "किन्ही"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-22-v-78",
+                    "serialNo": 2,
+                    "nameMr": "शिवनी",
+                    "nameEn": "शिवनी"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-22-v-79",
+                    "serialNo": 3,
+                    "nameMr": "केसोरी",
+                    "nameEn": "केसोरी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-23",
+                "serialNo": 2,
+                "nameMr": "जिवनापूर पुन.",
+                "nameEn": "जिवनापूर पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-23-v-80",
+                    "serialNo": 4,
+                    "nameMr": "जिवनापूर पुन.",
+                    "nameEn": "जिवनापूर पुन."
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-24",
+                "serialNo": 3,
+                "nameMr": "तारोली",
+                "nameEn": "तारोली",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-24-v-81",
+                    "serialNo": 5,
+                    "nameMr": "तारोली",
+                    "nameEn": "तारोली"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-24-v-82",
+                    "serialNo": 6,
+                    "nameMr": "सावंगी",
+                    "nameEn": "सावंगी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-25",
+                "serialNo": 4,
+                "nameMr": "पचखेडी गा.",
+                "nameEn": "पचखेडी गा.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-25-v-83",
+                    "serialNo": 7,
+                    "nameMr": "पचखेडी गा.",
+                    "nameEn": "पचखेडी गा."
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-25-v-84",
+                    "serialNo": 8,
+                    "nameMr": "खैरलांजी",
+                    "nameEn": "खैरलांजी"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-25-v-85",
+                    "serialNo": 9,
+                    "nameMr": "मदनापूर",
+                    "nameEn": "मदनापूर"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-26",
+                "serialNo": 5,
+                "nameMr": "परसोडी राजा",
+                "nameEn": "परसोडी राजा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-26-v-86",
+                    "serialNo": 10,
+                    "nameMr": "परसोडी राजा",
+                    "nameEn": "परसोडी राजा"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-26-v-87",
+                    "serialNo": 11,
+                    "nameMr": "रेंगातूर",
+                    "nameEn": "रेंगातूर"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-26-v-88",
+                    "serialNo": 12,
+                    "nameMr": "बोरी सदाचार",
+                    "nameEn": "बोरी सदाचार"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-26-v-89",
+                    "serialNo": 13,
+                    "nameMr": "पिंपळगाव रिठी",
+                    "nameEn": "पिंपळगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-27",
+                "serialNo": 6,
+                "nameMr": "फेगड पुन.",
+                "nameEn": "फेगड पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-27-v-90",
+                    "serialNo": 14,
+                    "nameMr": "फेगड पुन.",
+                    "nameEn": "फेगड पुन."
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-27-v-91",
+                    "serialNo": 15,
+                    "nameMr": "भिवापूर पुन.",
+                    "nameEn": "भिवापूर पुन."
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-28",
+                "serialNo": 7,
+                "nameMr": "शिकारपूर",
+                "nameEn": "शिकारपूर",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-28-v-92",
+                    "serialNo": 16,
+                    "nameMr": "शिकारपूर",
+                    "nameEn": "शिकारपूर"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-28-v-93",
+                    "serialNo": 17,
+                    "nameMr": "रत्नापूर",
+                    "nameEn": "रत्नापूर"
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-28-v-94",
+                    "serialNo": 18,
+                    "nameMr": "सोनपूरी",
+                    "nameEn": "सोनपूरी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-29",
+                "serialNo": 8,
+                "nameMr": "सोनेगाव पुन.",
+                "nameEn": "सोनेगाव पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-29-v-95",
+                    "serialNo": 19,
+                    "nameMr": "सोनेगाव पुन.",
+                    "nameEn": "सोनेगाव पुन."
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-29-v-96",
+                    "serialNo": 20,
+                    "nameMr": "कुकुडउमरी पुन.",
+                    "nameEn": "कुकुडउमरी पुन."
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-23-gan-46-gp-30",
+                "serialNo": 9,
+                "nameMr": "सिर्सी पुन.",
+                "nameEn": "सिर्सी पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-30-v-97",
+                    "serialNo": 21,
+                    "nameMr": "सिर्सी पुन.",
+                    "nameEn": "सिर्सी पुन."
+                  },
+                  {
+                    "id": "kuhi-div-23-gan-46-gp-30-v-98",
+                    "serialNo": 22,
+                    "nameMr": "तामसवाडी रिठी",
+                    "nameEn": "तामसवाडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kuhi-div-24",
+        "number": 24,
+        "nameMr": "सिल्ली",
+        "nameEn": "Silli",
+        "code": "२४-सिल्ली",
+        "gana": [
+          {
+            "id": "kuhi-div-24-gan-47",
+            "number": 47,
+            "nameMr": "सिल्ली",
+            "nameEn": "Silli",
+            "code": "४७-सिल्ली",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-24-gan-47-gp-31",
+                "serialNo": 1,
+                "nameMr": "आकोली",
+                "nameEn": "आकोली",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-31-v-99",
+                    "serialNo": 1,
+                    "nameMr": "आकोली",
+                    "nameEn": "आकोली"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-31-v-100",
+                    "serialNo": 2,
+                    "nameMr": "टेंभरी",
+                    "nameEn": "टेंभरी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-31-v-101",
+                    "serialNo": 3,
+                    "nameMr": "मेंढेगाव",
+                    "nameEn": "मेंढेगाव"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-31-v-102",
+                    "serialNo": 4,
+                    "nameMr": "हेटी रिठी",
+                    "nameEn": "हेटी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-31-v-103",
+                    "serialNo": 5,
+                    "nameMr": "सरगुंधरा रिठी",
+                    "nameEn": "सरगुंधरा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-47-gp-32",
+                "serialNo": 2,
+                "nameMr": "सिल्ली",
+                "nameEn": "सिल्ली",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-32-v-104",
+                    "serialNo": 6,
+                    "nameMr": "सिल्ली",
+                    "nameEn": "सिल्ली"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-32-v-105",
+                    "serialNo": 7,
+                    "nameMr": "भोजापूर",
+                    "nameEn": "भोजापूर"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-47-gp-33",
+                "serialNo": 3,
+                "nameMr": "इसापूर नवेगाव",
+                "nameEn": "इसापूर नवेगाव",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-33-v-106",
+                    "serialNo": 8,
+                    "nameMr": "इसापूर नवे.",
+                    "nameEn": "इसापूर नवे."
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-33-v-107",
+                    "serialNo": 9,
+                    "nameMr": "मोहदरा",
+                    "nameEn": "मोहदरा"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-33-v-108",
+                    "serialNo": 10,
+                    "nameMr": "आजनी",
+                    "nameEn": "आजनी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-33-v-109",
+                    "serialNo": 11,
+                    "nameMr": "परसोडी रिठी",
+                    "nameEn": "परसोडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-47-gp-34",
+                "serialNo": 4,
+                "nameMr": "बानोर",
+                "nameEn": "बानोर",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-34-v-110",
+                    "serialNo": 12,
+                    "nameMr": "बानोर",
+                    "nameEn": "बानोर"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-34-v-111",
+                    "serialNo": 13,
+                    "nameMr": "मुरभी",
+                    "nameEn": "मुरभी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-34-v-112",
+                    "serialNo": 14,
+                    "nameMr": "चाडा",
+                    "nameEn": "चाडा"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-34-v-113",
+                    "serialNo": 15,
+                    "nameMr": "मालची",
+                    "nameEn": "मालची"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-34-v-114",
+                    "serialNo": 16,
+                    "nameMr": "रिधोरा",
+                    "nameEn": "रिधोरा"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-47-gp-35",
+                "serialNo": 5,
+                "nameMr": "आंबाडी",
+                "nameEn": "आंबाडी",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-35-v-115",
+                    "serialNo": 17,
+                    "nameMr": "आंबाडी",
+                    "nameEn": "आंबाडी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-35-v-116",
+                    "serialNo": 18,
+                    "nameMr": "सावळी",
+                    "nameEn": "सावळी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-35-v-117",
+                    "serialNo": 19,
+                    "nameMr": "भोवरदेव",
+                    "nameEn": "भोवरदेव"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-35-v-118",
+                    "serialNo": 20,
+                    "nameMr": "उमरपेठ",
+                    "nameEn": "उमरपेठ"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-35-v-119",
+                    "serialNo": 21,
+                    "nameMr": "नवेगाव रिठी",
+                    "nameEn": "नवेगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-47-gp-36",
+                "serialNo": 6,
+                "nameMr": "मुसळगाव",
+                "nameEn": "मुसळगाव",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-36-v-120",
+                    "serialNo": 22,
+                    "nameMr": "मुसळगाव",
+                    "nameEn": "मुसळगाव"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-36-v-121",
+                    "serialNo": 23,
+                    "nameMr": "चिपडी",
+                    "nameEn": "चिपडी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-36-v-122",
+                    "serialNo": 24,
+                    "nameMr": "कटारा",
+                    "nameEn": "कटारा"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-36-v-123",
+                    "serialNo": 25,
+                    "nameMr": "सोनेगाव रिठी",
+                    "nameEn": "सोनेगाव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-47-gp-37",
+                "serialNo": 7,
+                "nameMr": "सातारा",
+                "nameEn": "सातारा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-37-v-124",
+                    "serialNo": 26,
+                    "nameMr": "सातारा",
+                    "nameEn": "सातारा"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-47-gp-37-v-125",
+                    "serialNo": 27,
+                    "nameMr": "बाम्हणी",
+                    "nameEn": "बाम्हणी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kuhi-div-24-gan-48",
+            "number": 48,
+            "nameMr": "तितूर",
+            "nameEn": "Titur",
+            "code": "४८-तितूर",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-24-gan-48-gp-38",
+                "serialNo": 1,
+                "nameMr": "वडेगाव काळे",
+                "nameEn": "वडेगाव काळे",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-38-v-126",
+                    "serialNo": 1,
+                    "nameMr": "वडेगाव काळे",
+                    "nameEn": "वडेगाव काळे"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-38-v-127",
+                    "serialNo": 2,
+                    "nameMr": "आजनी",
+                    "nameEn": "आजनी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-38-v-128",
+                    "serialNo": 3,
+                    "nameMr": "खलासना",
+                    "nameEn": "खलासना"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-38-v-129",
+                    "serialNo": 4,
+                    "nameMr": "पिपरी",
+                    "nameEn": "पिपरी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-48-gp-39",
+                "serialNo": 2,
+                "nameMr": "कुचाडी",
+                "nameEn": "कुचाडी",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-39-v-130",
+                    "serialNo": 5,
+                    "nameMr": "कुचाडी",
+                    "nameEn": "कुचाडी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-39-v-131",
+                    "serialNo": 6,
+                    "nameMr": "मोहाडी",
+                    "nameEn": "मोहाडी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-39-v-132",
+                    "serialNo": 7,
+                    "nameMr": "लांजाळा",
+                    "nameEn": "लांजाळा"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-48-gp-40",
+                "serialNo": 3,
+                "nameMr": "तितूर",
+                "nameEn": "तितूर",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-40-v-133",
+                    "serialNo": 8,
+                    "nameMr": "तितूर",
+                    "nameEn": "तितूर"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-40-v-134",
+                    "serialNo": 9,
+                    "nameMr": "धानोली",
+                    "nameEn": "धानोली"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-40-v-135",
+                    "serialNo": 10,
+                    "nameMr": "दिपाळा",
+                    "nameEn": "दिपाळा"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-48-gp-41",
+                "serialNo": 4,
+                "nameMr": "चितापूर",
+                "nameEn": "चितापूर",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-41-v-136",
+                    "serialNo": 11,
+                    "nameMr": "चितापूर",
+                    "nameEn": "चितापूर"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-41-v-137",
+                    "serialNo": 12,
+                    "nameMr": "भामेवाडा",
+                    "nameEn": "भामेवाडा"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-41-v-138",
+                    "serialNo": 13,
+                    "nameMr": "तारणी",
+                    "nameEn": "तारणी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-48-gp-42",
+                "serialNo": 5,
+                "nameMr": "माळणी",
+                "nameEn": "माळणी",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-42-v-139",
+                    "serialNo": 14,
+                    "nameMr": "माळणी",
+                    "nameEn": "माळणी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-42-v-140",
+                    "serialNo": 15,
+                    "nameMr": "मांगली",
+                    "nameEn": "मांगली"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-42-v-141",
+                    "serialNo": 16,
+                    "nameMr": "चनोडा",
+                    "nameEn": "चनोडा"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-42-v-142",
+                    "serialNo": 17,
+                    "nameMr": "पोवारी रिठी",
+                    "nameEn": "पोवारी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-48-gp-43",
+                "serialNo": 6,
+                "nameMr": "डोडमा",
+                "nameEn": "डोडमा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-43-v-143",
+                    "serialNo": 18,
+                    "nameMr": "डोडमा",
+                    "nameEn": "डोडमा"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-43-v-144",
+                    "serialNo": 19,
+                    "nameMr": "डोंगरगाव",
+                    "nameEn": "डोंगरगाव"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-43-v-145",
+                    "serialNo": 20,
+                    "nameMr": "नवरगाव",
+                    "nameEn": "नवरगाव"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-43-v-146",
+                    "serialNo": 21,
+                    "nameMr": "शिवनी",
+                    "nameEn": "शिवनी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-43-v-147",
+                    "serialNo": 22,
+                    "nameMr": "हेटामेटी",
+                    "nameEn": "हेटामेटी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-24-gan-48-gp-44",
+                "serialNo": 7,
+                "nameMr": "ससेगाव",
+                "nameEn": "ससेगाव",
+                "villages": [
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-44-v-148",
+                    "serialNo": 23,
+                    "nameMr": "ससेगाव",
+                    "nameEn": "ससेगाव"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-44-v-149",
+                    "serialNo": 24,
+                    "nameMr": "खेतापूर",
+                    "nameEn": "खेतापूर"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-44-v-150",
+                    "serialNo": 25,
+                    "nameMr": "टाकळी",
+                    "nameEn": "टाकळी"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-44-v-151",
+                    "serialNo": 26,
+                    "nameMr": "सोनेगाव",
+                    "nameEn": "सोनेगाव"
+                  },
+                  {
+                    "id": "kuhi-div-24-gan-48-gp-44-v-152",
+                    "serialNo": 27,
+                    "nameMr": "मेंढा रिठी",
+                    "nameEn": "मेंढा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kuhi-div-25",
+        "number": 25,
+        "nameMr": "मांढळ",
+        "nameEn": "Mandhal",
+        "code": "२५-मांढळ",
+        "gana": [
+          {
+            "id": "kuhi-div-25-gan-49",
+            "number": 49,
+            "nameMr": "मांढळ",
+            "nameEn": "Mandhal",
+            "code": "४९-मांढळ",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-25-gan-49-gp-45",
+                "serialNo": 1,
+                "nameMr": "वडेगाव मां.",
+                "nameEn": "वडेगाव मां.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-49-gp-45-v-153",
+                    "serialNo": 1,
+                    "nameMr": "वडेगाव मां.",
+                    "nameEn": "वडेगाव मां."
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-49-gp-45-v-154",
+                    "serialNo": 2,
+                    "nameMr": "नवेगाव देवी",
+                    "nameEn": "नवेगाव देवी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-49-gp-46",
+                "serialNo": 2,
+                "nameMr": "मांढळ",
+                "nameEn": "मांढळ",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-49-gp-46-v-155",
+                    "serialNo": 3,
+                    "nameMr": "मांढळ",
+                    "nameEn": "मांढळ"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-49-gp-47",
+                "serialNo": 3,
+                "nameMr": "रुयाड",
+                "nameEn": "रुयाड",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-49-gp-47-v-156",
+                    "serialNo": 4,
+                    "nameMr": "रुयाड",
+                    "nameEn": "रुयाड"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-49-gp-47-v-157",
+                    "serialNo": 5,
+                    "nameMr": "सिरोली रिठी",
+                    "nameEn": "सिरोली रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-49-gp-48",
+                "serialNo": 4,
+                "nameMr": "वग",
+                "nameEn": "वग",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-49-gp-48-v-158",
+                    "serialNo": 6,
+                    "nameMr": "वग",
+                    "nameEn": "वग"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kuhi-div-25-gan-50",
+            "number": 50,
+            "nameMr": "तारणा",
+            "nameEn": "Tarna",
+            "code": "५०-तारणा",
+            "gramPanchayats": [
+              {
+                "id": "kuhi-div-25-gan-50-gp-49",
+                "serialNo": 1,
+                "nameMr": "कऱ्हांडला",
+                "nameEn": "कऱ्हांडला",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-49-v-159",
+                    "serialNo": 1,
+                    "nameMr": "कऱ्हांडला",
+                    "nameEn": "कऱ्हांडला"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-50",
+                "serialNo": 2,
+                "nameMr": "डोंगरमौदा",
+                "nameEn": "डोंगरमौदा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-50-v-160",
+                    "serialNo": 2,
+                    "nameMr": "डोंगरमौदा",
+                    "nameEn": "डोंगरमौदा"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-51",
+                "serialNo": 3,
+                "nameMr": "हरदोली राजा",
+                "nameEn": "हरदोली राजा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-51-v-161",
+                    "serialNo": 3,
+                    "nameMr": "हरदोली राजा",
+                    "nameEn": "हरदोली राजा"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-52",
+                "serialNo": 4,
+                "nameMr": "विरखंडी",
+                "nameEn": "विरखंडी",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-52-v-162",
+                    "serialNo": 4,
+                    "nameMr": "विरखंडी",
+                    "nameEn": "विरखंडी"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-53",
+                "serialNo": 5,
+                "nameMr": "पारडी",
+                "nameEn": "पारडी",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-53-v-163",
+                    "serialNo": 5,
+                    "nameMr": "पारडी",
+                    "nameEn": "पारडी"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-53-v-164",
+                    "serialNo": 6,
+                    "nameMr": "पचखेडी ता.",
+                    "nameEn": "पचखेडी ता."
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-53-v-165",
+                    "serialNo": 7,
+                    "nameMr": "परसोडी रिठी",
+                    "nameEn": "परसोडी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-53-v-166",
+                    "serialNo": 8,
+                    "nameMr": "सालई रिठी",
+                    "nameEn": "सालई रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-53-v-167",
+                    "serialNo": 9,
+                    "nameMr": "उदेश्वर रिठी",
+                    "nameEn": "उदेश्वर रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-54",
+                "serialNo": 6,
+                "nameMr": "तारणा",
+                "nameEn": "तारणा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-54-v-168",
+                    "serialNo": 10,
+                    "nameMr": "तारणा",
+                    "nameEn": "तारणा"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-54-v-169",
+                    "serialNo": 11,
+                    "nameMr": "रानबोडी",
+                    "nameEn": "रानबोडी"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-54-v-170",
+                    "serialNo": 12,
+                    "nameMr": "पोळसा रिठी",
+                    "nameEn": "पोळसा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-54-v-171",
+                    "serialNo": 13,
+                    "nameMr": "बाघधरा रिठी",
+                    "nameEn": "बाघधरा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-54-v-172",
+                    "serialNo": 14,
+                    "nameMr": "किटाळी रिठी",
+                    "nameEn": "किटाळी रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-55",
+                "serialNo": 7,
+                "nameMr": "चिकणा तुकुम",
+                "nameEn": "चिकणा तुकुम",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-55-v-173",
+                    "serialNo": 15,
+                    "nameMr": "चिकणा तुकुम",
+                    "nameEn": "चिकणा तुकुम"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-55-v-174",
+                    "serialNo": 16,
+                    "nameMr": "बुटीटोला",
+                    "nameEn": "बुटीटोला"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-56",
+                "serialNo": 8,
+                "nameMr": "ठाणा",
+                "nameEn": "ठाणा",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-56-v-175",
+                    "serialNo": 17,
+                    "nameMr": "ठाणा",
+                    "nameEn": "ठाणा"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-56-v-176",
+                    "serialNo": 18,
+                    "nameMr": "धामणा",
+                    "nameEn": "धामणा"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-57",
+                "serialNo": 9,
+                "nameMr": "वेळगाव",
+                "nameEn": "वेळगाव",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-57-v-177",
+                    "serialNo": 19,
+                    "nameMr": "वेळगाव",
+                    "nameEn": "वेळगाव"
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-57-v-178",
+                    "serialNo": 20,
+                    "nameMr": "दहेगाव",
+                    "nameEn": "दहेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-58",
+                "serialNo": 10,
+                "nameMr": "गोठणगाव पुन.",
+                "nameEn": "गोठणगाव पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-58-v-179",
+                    "serialNo": 21,
+                    "nameMr": "गोठणगाव पुन.",
+                    "nameEn": "गोठणगाव पुन."
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-58-v-180",
+                    "serialNo": 22,
+                    "nameMr": "पांढरगोटा पुन.",
+                    "nameEn": "पांढरगोटा पुन."
+                  },
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-58-v-181",
+                    "serialNo": 23,
+                    "nameMr": "चांडाळा रिठी",
+                    "nameEn": "चांडाळा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "kuhi-div-25-gan-50-gp-59",
+                "serialNo": 11,
+                "nameMr": "राजोली पुन.",
+                "nameEn": "राजोली पुन.",
+                "villages": [
+                  {
+                    "id": "kuhi-div-25-gan-50-gp-59-v-182",
+                    "serialNo": 24,
+                    "nameMr": "राजोली पुन.",
+                    "nameEn": "राजोली पुन."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "मौदा",
+    "talukaEn": "Mouda",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "mouda-div-17",
+        "number": 17,
+        "nameMr": "अरोली",
+        "nameEn": "Aroli",
+        "code": "१७-अरोली",
+        "gana": [
+          {
+            "id": "mouda-div-17-gan-33",
+            "number": 33,
+            "nameMr": "अरोली",
+            "nameEn": "Aroli",
+            "code": "३३-अरोली",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-17-gan-33-gp-1",
+                "serialNo": 1,
+                "nameMr": "पारडीकला",
+                "nameEn": "पारडीकला",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-33-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "पारडीकला",
+                    "nameEn": "पारडीकला"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "कारगावं रीठी",
+                    "nameEn": "कारगावं रीठी"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-1-v-3",
+                    "serialNo": 3,
+                    "nameMr": "खापरखेडा तेली",
+                    "nameEn": "खापरखेडा तेली"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-1-v-4",
+                    "serialNo": 4,
+                    "nameMr": "पारडीखुर्द",
+                    "nameEn": "पारडीखुर्द"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-33-gp-2",
+                "serialNo": 2,
+                "nameMr": "अरोली",
+                "nameEn": "अरोली",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-33-gp-2-v-5",
+                    "serialNo": 5,
+                    "nameMr": "अरोली",
+                    "nameEn": "अरोली"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-33-gp-3",
+                "serialNo": 3,
+                "nameMr": "बेरडेपार",
+                "nameEn": "बेरडेपार",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-33-gp-3-v-6",
+                    "serialNo": 6,
+                    "nameMr": "बेरडेपार",
+                    "nameEn": "बेरडेपार"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-3-v-7",
+                    "serialNo": 7,
+                    "nameMr": "खंडाळा गुजर",
+                    "nameEn": "खंडाळा गुजर"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-33-gp-4",
+                "serialNo": 4,
+                "nameMr": "भांडेवाडी",
+                "nameEn": "भांडेवाडी",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-33-gp-4-v-8",
+                    "serialNo": 8,
+                    "nameMr": "भांडेवाडी",
+                    "nameEn": "भांडेवाडी"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-4-v-9",
+                    "serialNo": 9,
+                    "nameMr": "सावंगी",
+                    "nameEn": "सावंगी"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-4-v-10",
+                    "serialNo": 10,
+                    "nameMr": "मेटाशिवाडौली",
+                    "nameEn": "मेटाशिवाडौली"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-4-v-11",
+                    "serialNo": 11,
+                    "nameMr": "खापरखेडा जंगली",
+                    "nameEn": "खापरखेडा जंगली"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-33-gp-5",
+                "serialNo": 5,
+                "nameMr": "अडेगाव",
+                "nameEn": "अडेगाव",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-33-gp-5-v-12",
+                    "serialNo": 12,
+                    "nameMr": "अडेगाव",
+                    "nameEn": "अडेगाव"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-5-v-13",
+                    "serialNo": 13,
+                    "nameMr": "कथलाबोडी",
+                    "nameEn": "कथलाबोडी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-33-gp-6",
+                "serialNo": 6,
+                "nameMr": "बोरीघिवारी",
+                "nameEn": "बोरीघिवारी",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-33-gp-6-v-14",
+                    "serialNo": 14,
+                    "nameMr": "बोरीघिवारी",
+                    "nameEn": "बोरीघिवारी"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-33-gp-6-v-15",
+                    "serialNo": 15,
+                    "nameMr": "वाघबोडी",
+                    "nameEn": "वाघबोडी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-33-gp-7",
+                "serialNo": 7,
+                "nameMr": "नांदगांव",
+                "nameEn": "नांदगांव",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-33-gp-7-v-16",
+                    "serialNo": 16,
+                    "nameMr": "नांदगांव",
+                    "nameEn": "नांदगांव"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mouda-div-17-gan-34",
+            "number": 34,
+            "nameMr": "कोदामेंढी",
+            "nameEn": "Kodamendhi",
+            "code": "३४-कोदामेंढी",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-17-gan-34-gp-8",
+                "serialNo": 1,
+                "nameMr": "कोदामेंढी",
+                "nameEn": "कोदामेंढी",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-8-v-17",
+                    "serialNo": 1,
+                    "nameMr": "कोदामेंढी",
+                    "nameEn": "कोदामेंढी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-34-gp-9",
+                "serialNo": 2,
+                "nameMr": "तोंडली",
+                "nameEn": "तोंडली",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-9-v-18",
+                    "serialNo": 2,
+                    "nameMr": "तोंडली",
+                    "nameEn": "तोंडली"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-34-gp-9-v-19",
+                    "serialNo": 3,
+                    "nameMr": "खिडकी",
+                    "nameEn": "खिडकी"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-34-gp-9-v-20",
+                    "serialNo": 4,
+                    "nameMr": "सुकळी",
+                    "nameEn": "सुकळी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-34-gp-10",
+                "serialNo": 3,
+                "nameMr": "इंदोरा",
+                "nameEn": "इंदोरा",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-10-v-21",
+                    "serialNo": 5,
+                    "nameMr": "इंदोरा",
+                    "nameEn": "इंदोरा"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-34-gp-10-v-22",
+                    "serialNo": 6,
+                    "nameMr": "इंदोरा रिठी",
+                    "nameEn": "इंदोरा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-34-gp-10-v-23",
+                    "serialNo": 7,
+                    "nameMr": "तोंडली रिठी",
+                    "nameEn": "तोंडली रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-34-gp-11",
+                "serialNo": 4,
+                "nameMr": "धानोली",
+                "nameEn": "धानोली",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-11-v-24",
+                    "serialNo": 8,
+                    "nameMr": "धानोली",
+                    "nameEn": "धानोली"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-34-gp-12",
+                "serialNo": 5,
+                "nameMr": "वाकेश्वर",
+                "nameEn": "वाकेश्वर",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-12-v-25",
+                    "serialNo": 9,
+                    "nameMr": "वाकेश्वर",
+                    "nameEn": "वाकेश्वर"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-34-gp-13",
+                "serialNo": 6,
+                "nameMr": "तांडा",
+                "nameEn": "तांडा",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-13-v-26",
+                    "serialNo": 10,
+                    "nameMr": "तांडा",
+                    "nameEn": "तांडा"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-34-gp-13-v-27",
+                    "serialNo": 11,
+                    "nameMr": "श्रीखंडा",
+                    "nameEn": "श्रीखंडा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-34-gp-14",
+                "serialNo": 7,
+                "nameMr": "सिरसोली",
+                "nameEn": "सिरसोली",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-14-v-28",
+                    "serialNo": 12,
+                    "nameMr": "सिरसोली",
+                    "nameEn": "सिरसोली"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-34-gp-14-v-29",
+                    "serialNo": 13,
+                    "nameMr": "वायगाव",
+                    "nameEn": "वायगाव"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-17-gan-34-gp-15",
+                "serialNo": 8,
+                "nameMr": "पिंपळगाव",
+                "nameEn": "पिंपळगाव",
+                "villages": [
+                  {
+                    "id": "mouda-div-17-gan-34-gp-15-v-30",
+                    "serialNo": 14,
+                    "nameMr": "पिंपळगाव",
+                    "nameEn": "पिंपळगाव"
+                  },
+                  {
+                    "id": "mouda-div-17-gan-34-gp-15-v-31",
+                    "serialNo": 15,
+                    "nameMr": "मुरमाडी",
+                    "nameEn": "मुरमाडी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mouda-div-18",
+        "number": 18,
+        "nameMr": "खात",
+        "nameEn": "Khat",
+        "code": "१८-खात",
+        "gana": [
+          {
+            "id": "mouda-div-18-gan-35",
+            "number": 35,
+            "nameMr": "खात",
+            "nameEn": "Khat",
+            "code": "३५-खात",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-18-gan-35-gp-16",
+                "serialNo": 1,
+                "nameMr": "महालगांव",
+                "nameEn": "महालगांव",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-35-gp-16-v-32",
+                    "serialNo": 1,
+                    "nameMr": "महालगांव",
+                    "nameEn": "महालगांव"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-35-gp-17",
+                "serialNo": 2,
+                "nameMr": "खात",
+                "nameEn": "खात",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-35-gp-17-v-33",
+                    "serialNo": 2,
+                    "nameMr": "खात",
+                    "nameEn": "खात"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-35-gp-18",
+                "serialNo": 3,
+                "nameMr": "आदासा",
+                "nameEn": "आदासा",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-35-gp-18-v-34",
+                    "serialNo": 3,
+                    "nameMr": "आदासा",
+                    "nameEn": "आदासा"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-18-v-35",
+                    "serialNo": 4,
+                    "nameMr": "पांजरा",
+                    "nameEn": "पांजरा"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-18-v-36",
+                    "serialNo": 5,
+                    "nameMr": "हिवरा",
+                    "nameEn": "हिवरा"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-18-v-37",
+                    "serialNo": 6,
+                    "nameMr": "शिवनी",
+                    "nameEn": "शिवनी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-35-gp-19",
+                "serialNo": 4,
+                "nameMr": "घोटमुंढरी",
+                "nameEn": "घोटमुंढरी",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-35-gp-19-v-38",
+                    "serialNo": 7,
+                    "nameMr": "घोटमुंढरी",
+                    "nameEn": "घोटमुंढरी"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-19-v-39",
+                    "serialNo": 8,
+                    "nameMr": "ढोलमारा",
+                    "nameEn": "ढोलमारा"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-19-v-40",
+                    "serialNo": 9,
+                    "nameMr": "आष्टी",
+                    "nameEn": "आष्टी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-35-gp-20",
+                "serialNo": 5,
+                "nameMr": "धर्मापूरी",
+                "nameEn": "धर्मापूरी",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-35-gp-20-v-41",
+                    "serialNo": 10,
+                    "nameMr": "धर्मापूरी",
+                    "nameEn": "धर्मापूरी"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-20-v-42",
+                    "serialNo": 11,
+                    "nameMr": "नवरगांव",
+                    "nameEn": "नवरगांव"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-20-v-43",
+                    "serialNo": 12,
+                    "nameMr": "वाघोली रिठी",
+                    "nameEn": "वाघोली रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-20-v-44",
+                    "serialNo": 13,
+                    "nameMr": "इजनी",
+                    "nameEn": "इजनी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-35-gp-21",
+                "serialNo": 6,
+                "nameMr": "मोरगांव",
+                "nameEn": "मोरगांव",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-35-gp-21-v-45",
+                    "serialNo": 14,
+                    "nameMr": "मोरगांव",
+                    "nameEn": "मोरगांव"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-35-gp-21-v-46",
+                    "serialNo": 15,
+                    "nameMr": "देवमुंढरी",
+                    "nameEn": "देवमुंढरी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mouda-div-18-gan-36",
+            "number": 36,
+            "nameMr": "रेवराल",
+            "nameEn": "Rewral",
+            "code": "३६-रेवराल",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-18-gan-36-gp-22",
+                "serialNo": 1,
+                "nameMr": "रेवराल",
+                "nameEn": "रेवराल",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-36-gp-22-v-47",
+                    "serialNo": 1,
+                    "nameMr": "रेवराल",
+                    "nameEn": "रेवराल"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-36-gp-23",
+                "serialNo": 2,
+                "nameMr": "खरडा",
+                "nameEn": "खरडा",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-36-gp-23-v-48",
+                    "serialNo": 2,
+                    "nameMr": "खरडा",
+                    "nameEn": "खरडा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-36-gp-24",
+                "serialNo": 3,
+                "nameMr": "राजोली",
+                "nameEn": "राजोली",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-36-gp-24-v-49",
+                    "serialNo": 3,
+                    "nameMr": "राजोली",
+                    "nameEn": "राजोली"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-36-gp-25",
+                "serialNo": 4,
+                "nameMr": "पिपरी",
+                "nameEn": "पिपरी",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-36-gp-25-v-50",
+                    "serialNo": 4,
+                    "nameMr": "पिपरी",
+                    "nameEn": "पिपरी"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-36-gp-25-v-51",
+                    "serialNo": 5,
+                    "nameMr": "चारभा",
+                    "nameEn": "चारभा"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-36-gp-25-v-52",
+                    "serialNo": 6,
+                    "nameMr": "खंडाळा (पिपरी)",
+                    "nameEn": "खंडाळा (पिपरी)"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-36-gp-26",
+                "serialNo": 5,
+                "nameMr": "विरशी",
+                "nameEn": "विरशी",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-36-gp-26-v-53",
+                    "serialNo": 7,
+                    "nameMr": "विरशी",
+                    "nameEn": "विरशी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-36-gp-27",
+                "serialNo": 6,
+                "nameMr": "मांगलीतेली",
+                "nameEn": "मांगलीतेली",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-36-gp-27-v-54",
+                    "serialNo": 8,
+                    "nameMr": "मांगलीतेली",
+                    "nameEn": "मांगलीतेली"
+                  },
+                  {
+                    "id": "mouda-div-18-gan-36-gp-27-v-55",
+                    "serialNo": 9,
+                    "nameMr": "भोकारा",
+                    "nameEn": "भोकारा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-18-gan-36-gp-28",
+                "serialNo": 7,
+                "nameMr": "धनी",
+                "nameEn": "धनी",
+                "villages": [
+                  {
+                    "id": "mouda-div-18-gan-36-gp-28-v-56",
+                    "serialNo": 10,
+                    "nameMr": "धनी",
+                    "nameEn": "धनी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mouda-div-19",
+        "number": 19,
+        "nameMr": "चाचेर",
+        "nameEn": "Chacher",
+        "code": "१९-चाचेर",
+        "gana": [
+          {
+            "id": "mouda-div-19-gan-37",
+            "number": 37,
+            "nameMr": "निमखेडा",
+            "nameEn": "Nimkheda",
+            "code": "३७-निमखेडा",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-19-gan-37-gp-29",
+                "serialNo": 1,
+                "nameMr": "निमखेडा",
+                "nameEn": "निमखेडा",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-37-gp-29-v-57",
+                    "serialNo": 1,
+                    "nameMr": "निमखेडा",
+                    "nameEn": "निमखेडा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-37-gp-30",
+                "serialNo": 2,
+                "nameMr": "भेंडाळा",
+                "nameEn": "भेंडाळा",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-37-gp-30-v-58",
+                    "serialNo": 2,
+                    "nameMr": "भेंडाळा",
+                    "nameEn": "भेंडाळा"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-37-gp-30-v-59",
+                    "serialNo": 3,
+                    "nameMr": "मांगली गोसाई",
+                    "nameEn": "मांगली गोसाई"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-37-gp-31",
+                "serialNo": 3,
+                "nameMr": "आष्टी",
+                "nameEn": "आष्टी",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-37-gp-31-v-60",
+                    "serialNo": 4,
+                    "nameMr": "आष्टी",
+                    "nameEn": "आष्टी"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-37-gp-31-v-61",
+                    "serialNo": 5,
+                    "nameMr": "नवेगाव",
+                    "nameEn": "नवेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-37-gp-32",
+                "serialNo": 4,
+                "nameMr": "बानोर",
+                "nameEn": "बानोर",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-37-gp-32-v-62",
+                    "serialNo": 6,
+                    "nameMr": "बानोर",
+                    "nameEn": "बानोर"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-37-gp-32-v-63",
+                    "serialNo": 7,
+                    "nameMr": "हिंगणा",
+                    "nameEn": "हिंगणा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-37-gp-33",
+                "serialNo": 5,
+                "nameMr": "तुमान",
+                "nameEn": "तुमान",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-37-gp-33-v-64",
+                    "serialNo": 8,
+                    "nameMr": "तुमान",
+                    "nameEn": "तुमान"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-37-gp-33-v-65",
+                    "serialNo": 9,
+                    "nameMr": "तरोडी",
+                    "nameEn": "तरोडी"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-37-gp-33-v-66",
+                    "serialNo": 10,
+                    "nameMr": "खापरखेडा किराड",
+                    "nameEn": "खापरखेडा किराड"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-37-gp-34",
+                "serialNo": 6,
+                "nameMr": "दुधाळा",
+                "nameEn": "दुधाळा",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-37-gp-34-v-67",
+                    "serialNo": 11,
+                    "nameMr": "दुधाळा",
+                    "nameEn": "दुधाळा"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-37-gp-34-v-68",
+                    "serialNo": 12,
+                    "nameMr": "बारशी",
+                    "nameEn": "बारशी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mouda-div-19-gan-38",
+            "number": 38,
+            "nameMr": "चाचेर",
+            "nameEn": "Chacher",
+            "code": "३८-चाचेर",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-19-gan-38-gp-35",
+                "serialNo": 1,
+                "nameMr": "चाचेर",
+                "nameEn": "चाचेर",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-35-v-69",
+                    "serialNo": 1,
+                    "nameMr": "चाचेर",
+                    "nameEn": "चाचेर"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-38-gp-36",
+                "serialNo": 2,
+                "nameMr": "नंदापूरी",
+                "nameEn": "नंदापूरी",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-36-v-70",
+                    "serialNo": 2,
+                    "nameMr": "नंदापूरी",
+                    "nameEn": "नंदापूरी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-38-gp-37",
+                "serialNo": 3,
+                "nameMr": "निसतखेडा",
+                "nameEn": "निसतखेडा",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-37-v-71",
+                    "serialNo": 3,
+                    "nameMr": "निसतखेडा",
+                    "nameEn": "निसतखेडा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-38-gp-38",
+                "serialNo": 4,
+                "nameMr": "नेरला",
+                "nameEn": "नेरला",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-38-v-72",
+                    "serialNo": 4,
+                    "nameMr": "नेरला",
+                    "nameEn": "नेरला"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-38-gp-39",
+                "serialNo": 5,
+                "nameMr": "गांगनेर",
+                "nameEn": "गांगनेर",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-39-v-73",
+                    "serialNo": 5,
+                    "nameMr": "गांगनेर",
+                    "nameEn": "गांगनेर"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-38-gp-39-v-74",
+                    "serialNo": 6,
+                    "nameMr": "हिवरा",
+                    "nameEn": "हिवरा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-38-gp-40",
+                "serialNo": 6,
+                "nameMr": "खंडाळा",
+                "nameEn": "खंडाळा",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-40-v-75",
+                    "serialNo": 7,
+                    "nameMr": "खंडाळा",
+                    "nameEn": "खंडाळा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-38-gp-41",
+                "serialNo": 7,
+                "nameMr": "सालवा",
+                "nameEn": "सालवा",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-41-v-76",
+                    "serialNo": 8,
+                    "nameMr": "सालवा",
+                    "nameEn": "सालवा"
+                  },
+                  {
+                    "id": "mouda-div-19-gan-38-gp-41-v-77",
+                    "serialNo": 9,
+                    "nameMr": "खोपडी",
+                    "nameEn": "खोपडी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-19-gan-38-gp-42",
+                "serialNo": 8,
+                "nameMr": "एसंबा",
+                "nameEn": "एसंबा",
+                "villages": [
+                  {
+                    "id": "mouda-div-19-gan-38-gp-42-v-78",
+                    "serialNo": 10,
+                    "nameMr": "एसंबा",
+                    "nameEn": "एसंबा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mouda-div-20",
+        "number": 20,
+        "nameMr": "तारसा",
+        "nameEn": "Tarsa",
+        "code": "२०-तारसा",
+        "gana": [
+          {
+            "id": "mouda-div-20-gan-39",
+            "number": 39,
+            "nameMr": "तारसा",
+            "nameEn": "Tarsa",
+            "code": "३९-तारसा",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-20-gan-39-gp-43",
+                "serialNo": 1,
+                "nameMr": "तारसा",
+                "nameEn": "तारसा",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-39-gp-43-v-79",
+                    "serialNo": 1,
+                    "nameMr": "तारसा",
+                    "nameEn": "तारसा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-39-gp-44",
+                "serialNo": 2,
+                "nameMr": "बाबदेव",
+                "nameEn": "बाबदेव",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-39-gp-44-v-80",
+                    "serialNo": 2,
+                    "nameMr": "बाबदेव",
+                    "nameEn": "बाबदेव"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-44-v-81",
+                    "serialNo": 3,
+                    "nameMr": "मांगली चांदे",
+                    "nameEn": "मांगली चांदे"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-44-v-82",
+                    "serialNo": 4,
+                    "nameMr": "सावरगांव",
+                    "nameEn": "सावरगांव"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-39-gp-45",
+                "serialNo": 3,
+                "nameMr": "नानादेवी",
+                "nameEn": "नानादेवी",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-39-gp-45-v-83",
+                    "serialNo": 5,
+                    "nameMr": "नानादेवी",
+                    "nameEn": "नानादेवी"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-45-v-84",
+                    "serialNo": 6,
+                    "nameMr": "राहाडी",
+                    "nameEn": "राहाडी"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-45-v-85",
+                    "serialNo": 7,
+                    "nameMr": "डहाळी",
+                    "nameEn": "डहाळी"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-45-v-86",
+                    "serialNo": 8,
+                    "nameMr": "किरणापूर",
+                    "nameEn": "किरणापूर"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-39-gp-46",
+                "serialNo": 4,
+                "nameMr": "नरसाळा",
+                "nameEn": "नरसाळा",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-39-gp-46-v-87",
+                    "serialNo": 9,
+                    "nameMr": "नरसाळा",
+                    "nameEn": "नरसाळा"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-46-v-88",
+                    "serialNo": 10,
+                    "nameMr": "सिंगोरी",
+                    "nameEn": "सिंगोरी"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-46-v-89",
+                    "serialNo": 11,
+                    "nameMr": "कोपरा",
+                    "nameEn": "कोपरा"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-46-v-90",
+                    "serialNo": 12,
+                    "nameMr": "कुंभापूर",
+                    "nameEn": "कुंभापूर"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-39-gp-47",
+                "serialNo": 5,
+                "nameMr": "आजनगांव",
+                "nameEn": "आजनगांव",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-39-gp-47-v-91",
+                    "serialNo": 13,
+                    "nameMr": "आजनगांव",
+                    "nameEn": "आजनगांव"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-39-gp-47-v-92",
+                    "serialNo": 14,
+                    "nameMr": "ईसापूर",
+                    "nameEn": "ईसापूर"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mouda-div-20-gan-40",
+            "number": 40,
+            "nameMr": "धामणगाव",
+            "nameEn": "Dhamangaon",
+            "code": "४०-धामणगाव",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-20-gan-40-gp-48",
+                "serialNo": 1,
+                "nameMr": "माथणी",
+                "nameEn": "माथणी",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-40-gp-48-v-93",
+                    "serialNo": 1,
+                    "nameMr": "माथणी",
+                    "nameEn": "माथणी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-40-gp-49",
+                "serialNo": 2,
+                "nameMr": "लापका",
+                "nameEn": "लापका",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-40-gp-49-v-94",
+                    "serialNo": 2,
+                    "nameMr": "लापका",
+                    "nameEn": "लापका"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-40-gp-49-v-95",
+                    "serialNo": 3,
+                    "nameMr": "नवेगांव",
+                    "nameEn": "नवेगांव"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-40-gp-49-v-96",
+                    "serialNo": 4,
+                    "nameMr": "कोराड",
+                    "nameEn": "कोराड"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-40-gp-50",
+                "serialNo": 3,
+                "nameMr": "झुल्लर",
+                "nameEn": "झुल्लर",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-40-gp-50-v-97",
+                    "serialNo": 5,
+                    "nameMr": "झुल्लर",
+                    "nameEn": "झुल्लर"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-40-gp-50-v-98",
+                    "serialNo": 6,
+                    "nameMr": "सुकळी",
+                    "nameEn": "सुकळी"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-40-gp-50-v-99",
+                    "serialNo": 7,
+                    "nameMr": "चेहडी",
+                    "nameEn": "चेहडी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-40-gp-51",
+                "serialNo": 4,
+                "nameMr": "पावडदौना",
+                "nameEn": "पावडदौना",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-40-gp-51-v-100",
+                    "serialNo": 8,
+                    "nameMr": "पावडदौना",
+                    "nameEn": "पावडदौना"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-40-gp-51-v-101",
+                    "serialNo": 9,
+                    "nameMr": "वांजरा",
+                    "nameEn": "वांजरा"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-40-gp-51-v-102",
+                    "serialNo": 10,
+                    "nameMr": "मोहखेडी",
+                    "nameEn": "मोहखेडी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-20-gan-40-gp-52",
+                "serialNo": 5,
+                "nameMr": "धामणगाव",
+                "nameEn": "धामणगाव",
+                "villages": [
+                  {
+                    "id": "mouda-div-20-gan-40-gp-52-v-103",
+                    "serialNo": 11,
+                    "nameMr": "धामणगाव",
+                    "nameEn": "धामणगाव"
+                  },
+                  {
+                    "id": "mouda-div-20-gan-40-gp-52-v-104",
+                    "serialNo": 12,
+                    "nameMr": "कुंभारी",
+                    "nameEn": "कुंभारी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mouda-div-21",
+        "number": 21,
+        "nameMr": "धानला",
+        "nameEn": "Dhanla",
+        "code": "२१-धानला",
+        "gana": [
+          {
+            "id": "mouda-div-21-gan-41",
+            "number": 41,
+            "nameMr": "धानला",
+            "nameEn": "Dhanla",
+            "code": "४१-धानला",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-21-gan-41-gp-53",
+                "serialNo": 1,
+                "nameMr": "धानला",
+                "nameEn": "धानला",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-41-gp-53-v-105",
+                    "serialNo": 1,
+                    "nameMr": "धानला",
+                    "nameEn": "धानला"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-41-gp-54",
+                "serialNo": 2,
+                "nameMr": "निहारवानी",
+                "nameEn": "निहारवानी",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-41-gp-54-v-106",
+                    "serialNo": 2,
+                    "nameMr": "निहारवानी",
+                    "nameEn": "निहारवानी"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-41-gp-54-v-107",
+                    "serialNo": 3,
+                    "nameMr": "चिखलाबोडी",
+                    "nameEn": "चिखलाबोडी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-41-gp-55",
+                "serialNo": 3,
+                "nameMr": "दहेगांव",
+                "nameEn": "दहेगांव",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-41-gp-55-v-108",
+                    "serialNo": 4,
+                    "nameMr": "दहेगांव",
+                    "nameEn": "दहेगांव"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-41-gp-55-v-109",
+                    "serialNo": 5,
+                    "nameMr": "भोवरी",
+                    "nameEn": "भोवरी"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-41-gp-55-v-110",
+                    "serialNo": 6,
+                    "nameMr": "भामेवाडा रिठी",
+                    "nameEn": "भामेवाडा रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-41-gp-56",
+                "serialNo": 4,
+                "nameMr": "मारोडी",
+                "nameEn": "मारोडी",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-41-gp-56-v-111",
+                    "serialNo": 7,
+                    "nameMr": "मारोडी",
+                    "nameEn": "मारोडी"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-41-gp-56-v-112",
+                    "serialNo": 8,
+                    "nameMr": "सिंगोरी",
+                    "nameEn": "सिंगोरी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-41-gp-57",
+                "serialNo": 5,
+                "nameMr": "चिचोली",
+                "nameEn": "चिचोली",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-41-gp-57-v-113",
+                    "serialNo": 9,
+                    "nameMr": "चिचोली",
+                    "nameEn": "चिचोली"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "mouda-div-21-gan-42",
+            "number": 42,
+            "nameMr": "चिरव्हा",
+            "nameEn": "Chirwha",
+            "code": "४२-चिरव्हा",
+            "gramPanchayats": [
+              {
+                "id": "mouda-div-21-gan-42-gp-58",
+                "serialNo": 1,
+                "nameMr": "चिरव्हा",
+                "nameEn": "चिरव्हा",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-42-gp-58-v-114",
+                    "serialNo": 1,
+                    "nameMr": "चिरव्हा",
+                    "nameEn": "चिरव्हा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-42-gp-59",
+                "serialNo": 2,
+                "nameMr": "गोवरी",
+                "nameEn": "गोवरी",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-42-gp-59-v-115",
+                    "serialNo": 2,
+                    "nameMr": "गोवरी",
+                    "nameEn": "गोवरी"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-42-gp-60",
+                "serialNo": 3,
+                "nameMr": "मोहाडी",
+                "nameEn": "मोहाडी",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-42-gp-60-v-116",
+                    "serialNo": 3,
+                    "nameMr": "मोहाडी",
+                    "nameEn": "मोहाडी"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-42-gp-60-v-117",
+                    "serialNo": 4,
+                    "nameMr": "नांदगाव",
+                    "nameEn": "नांदगाव"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-42-gp-60-v-118",
+                    "serialNo": 5,
+                    "nameMr": "वढणा",
+                    "nameEn": "वढणा"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-42-gp-61",
+                "serialNo": 4,
+                "nameMr": "पानमारा",
+                "nameEn": "पानमारा",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-42-gp-61-v-119",
+                    "serialNo": 6,
+                    "nameMr": "पानमारा",
+                    "nameEn": "पानमारा"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-42-gp-61-v-120",
+                    "serialNo": 7,
+                    "nameMr": "कोटगांव",
+                    "nameEn": "कोटगांव"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-42-gp-61-v-121",
+                    "serialNo": 8,
+                    "nameMr": "बोरगांव रिठी",
+                    "nameEn": "बोरगांव रिठी",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-42-gp-62",
+                "serialNo": 5,
+                "nameMr": "बोरगांव",
+                "nameEn": "बोरगांव",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-42-gp-62-v-122",
+                    "serialNo": 9,
+                    "nameMr": "बोरगांव",
+                    "nameEn": "बोरगांव"
+                  },
+                  {
+                    "id": "mouda-div-21-gan-42-gp-62-v-123",
+                    "serialNo": 10,
+                    "nameMr": "महादुला",
+                    "nameEn": "महादुला"
+                  }
+                ]
+              },
+              {
+                "id": "mouda-div-21-gan-42-gp-63",
+                "serialNo": 6,
+                "nameMr": "खराडा पुर्नवसन",
+                "nameEn": "खराडा पुर्नवसन",
+                "villages": [
+                  {
+                    "id": "mouda-div-21-gan-42-gp-63-v-124",
+                    "serialNo": 11,
+                    "nameMr": "खराडा पुर्नवसन",
+                    "nameEn": "खराडा पुर्नवसन"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "रामटेक",
+    "talukaEn": "Ramtek",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "ramtek-div-12",
+        "number": 12,
+        "nameMr": "वडांम्बा",
+        "nameEn": "Vadamba",
+        "code": "१२-वडांम्बा",
+        "gana": [
+          {
+            "id": "ramtek-div-12-gan-23",
+            "number": 23,
+            "nameMr": "वडांम्बा",
+            "nameEn": "Vadamba",
+            "code": "२३-वडांम्बा",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-12-gan-23-gp-1",
+                "serialNo": 1,
+                "nameMr": "वडांम्बा (मालगुजारी)",
+                "nameEn": "वडांम्बा (मालगुजारी)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "वडांम्बा (माल)",
+                    "nameEn": "वडांम्बा (माल)"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "वडांम्बा (रैयत)",
+                    "nameEn": "वडांम्बा (रैयत)"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-1-v-3",
+                    "serialNo": 3,
+                    "nameMr": "टुयापार",
+                    "nameEn": "टुयापार"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-1-v-4",
+                    "serialNo": 4,
+                    "nameMr": "जुनेवानी",
+                    "nameEn": "जुनेवानी"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-1-v-5",
+                    "serialNo": 5,
+                    "nameMr": "नवेगांव",
+                    "nameEn": "नवेगांव"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-1-v-6",
+                    "serialNo": 6,
+                    "nameMr": "उमरी",
+                    "nameEn": "उमरी"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-1-v-7",
+                    "serialNo": 7,
+                    "nameMr": "खिरसाडी (रिठी)",
+                    "nameEn": "खिरसाडी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-23-gp-2",
+                "serialNo": 2,
+                "nameMr": "करवाही",
+                "nameEn": "करवाही",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-2-v-8",
+                    "serialNo": 8,
+                    "nameMr": "करवाही",
+                    "nameEn": "करवाही"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-2-v-9",
+                    "serialNo": 9,
+                    "nameMr": "मानेगांव टेक",
+                    "nameEn": "मानेगांव टेक"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-2-v-10",
+                    "serialNo": 10,
+                    "nameMr": "छवारी",
+                    "nameEn": "छवारी"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-2-v-11",
+                    "serialNo": 11,
+                    "nameMr": "दुलारा",
+                    "nameEn": "दुलारा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-23-gp-3",
+                "serialNo": 3,
+                "nameMr": "पिंडकापार (लोधा)",
+                "nameEn": "पिंडकापार (लोधा)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-3-v-12",
+                    "serialNo": 12,
+                    "nameMr": "पिंडकापार",
+                    "nameEn": "पिंडकापार"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-3-v-13",
+                    "serialNo": 13,
+                    "nameMr": "लोधा",
+                    "nameEn": "लोधा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-3-v-14",
+                    "serialNo": 14,
+                    "nameMr": "मुरझड",
+                    "nameEn": "मुरझड"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-3-v-15",
+                    "serialNo": 15,
+                    "nameMr": "सितापार",
+                    "nameEn": "सितापार"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-3-v-16",
+                    "serialNo": 16,
+                    "nameMr": "करजघाट (रिठी)",
+                    "nameEn": "करजघाट (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-23-gp-4",
+                "serialNo": 4,
+                "nameMr": "बेलदा",
+                "nameEn": "बेलदा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-4-v-17",
+                    "serialNo": 17,
+                    "nameMr": "बेलदा",
+                    "nameEn": "बेलदा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-4-v-18",
+                    "serialNo": 18,
+                    "nameMr": "गोरेघाट",
+                    "nameEn": "गोरेघाट"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-4-v-19",
+                    "serialNo": 19,
+                    "nameMr": "नवेगांव (खुर्द)",
+                    "nameEn": "नवेगांव (खुर्द)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-23-gp-5",
+                "serialNo": 5,
+                "nameMr": "खनोरा",
+                "nameEn": "खनोरा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-5-v-20",
+                    "serialNo": 20,
+                    "nameMr": "खनोरा",
+                    "nameEn": "खनोरा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-5-v-21",
+                    "serialNo": 21,
+                    "nameMr": "लाखापूर",
+                    "nameEn": "लाखापूर"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-23-gp-5-v-22",
+                    "serialNo": 22,
+                    "nameMr": "अकोला",
+                    "nameEn": "अकोला"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ramtek-div-12-gan-24",
+            "number": 24,
+            "nameMr": "पथरई",
+            "nameEn": "Pathrai",
+            "code": "२४-पथरई",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-12-gan-24-gp-6",
+                "serialNo": 1,
+                "nameMr": "पथरई",
+                "nameEn": "पथरई",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-6-v-23",
+                    "serialNo": 1,
+                    "nameMr": "पथरई",
+                    "nameEn": "पथरई"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-6-v-24",
+                    "serialNo": 2,
+                    "nameMr": "अंबाझरी",
+                    "nameEn": "अंबाझरी"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-6-v-25",
+                    "serialNo": 3,
+                    "nameMr": "शहापूर",
+                    "nameEn": "शहापूर"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-6-v-26",
+                    "serialNo": 4,
+                    "nameMr": "हिवरा",
+                    "nameEn": "हिवरा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-24-gp-7",
+                "serialNo": 2,
+                "nameMr": "दाहोदा",
+                "nameEn": "दाहोदा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-7-v-27",
+                    "serialNo": 5,
+                    "nameMr": "दाहोदा",
+                    "nameEn": "दाहोदा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-7-v-28",
+                    "serialNo": 6,
+                    "nameMr": "घोटी",
+                    "nameEn": "घोटी"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-7-v-29",
+                    "serialNo": 7,
+                    "nameMr": "जमुनिया",
+                    "nameEn": "जमुनिया"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-7-v-30",
+                    "serialNo": 8,
+                    "nameMr": "टुयापार",
+                    "nameEn": "टुयापार"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-7-v-31",
+                    "serialNo": 9,
+                    "nameMr": "मोहगाव (रिठी)",
+                    "nameEn": "मोहगाव (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-24-gp-8",
+                "serialNo": 3,
+                "nameMr": "पिपरीया",
+                "nameEn": "पिपरीया",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-8-v-32",
+                    "serialNo": 10,
+                    "nameMr": "पिपरीया",
+                    "nameEn": "पिपरीया"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-8-v-33",
+                    "serialNo": 11,
+                    "nameMr": "सालई",
+                    "nameEn": "सालई"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-8-v-34",
+                    "serialNo": 12,
+                    "nameMr": "खापा",
+                    "nameEn": "खापा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-8-v-35",
+                    "serialNo": 13,
+                    "nameMr": "फुलझरी (वन)",
+                    "nameEn": "फुलझरी (वन)"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-8-v-36",
+                    "serialNo": 14,
+                    "nameMr": "सिल्लारी",
+                    "nameEn": "सिल्लारी"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-8-v-37",
+                    "serialNo": 15,
+                    "nameMr": "वाघोलि (रिठी)",
+                    "nameEn": "वाघोलि (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-24-gp-9",
+                "serialNo": 4,
+                "nameMr": "डोंगरताल",
+                "nameEn": "डोंगरताल",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-9-v-38",
+                    "serialNo": 16,
+                    "nameMr": "तोतलाडोह",
+                    "nameEn": "तोतलाडोह"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-9-v-39",
+                    "serialNo": 17,
+                    "nameMr": "डोंगरताल",
+                    "nameEn": "डोंगरताल"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-9-v-40",
+                    "serialNo": 18,
+                    "nameMr": "कडबीखेडा",
+                    "nameEn": "कडबीखेडा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-9-v-41",
+                    "serialNo": 19,
+                    "nameMr": "कामठी",
+                    "nameEn": "कामठी"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-9-v-42",
+                    "serialNo": 20,
+                    "nameMr": "सावरा",
+                    "nameEn": "सावरा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-9-v-43",
+                    "serialNo": 21,
+                    "nameMr": "उसरीपार",
+                    "nameEn": "उसरीपार"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-9-v-44",
+                    "serialNo": 22,
+                    "nameMr": "बखारी (रिठी)",
+                    "nameEn": "बखारी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-12-gan-24-gp-10",
+                "serialNo": 5,
+                "nameMr": "बांन्द्रा",
+                "nameEn": "बांन्द्रा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-10-v-45",
+                    "serialNo": 23,
+                    "nameMr": "बांन्द्रा",
+                    "nameEn": "बांन्द्रा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-10-v-46",
+                    "serialNo": 24,
+                    "nameMr": "गर्रा",
+                    "nameEn": "गर्रा"
+                  },
+                  {
+                    "id": "ramtek-div-12-gan-24-gp-10-v-47",
+                    "serialNo": 25,
+                    "nameMr": "खुर्सापार",
+                    "nameEn": "खुर्सापार"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ramtek-div-13",
+        "number": 13,
+        "nameMr": "बोथिया (पालोरा)",
+        "nameEn": "Bothiya (Palora)",
+        "code": "१३-बोथिया (पालोरा)",
+        "gana": [
+          {
+            "id": "ramtek-div-13-gan-25",
+            "number": 25,
+            "nameMr": "बोथिया (पालोरा)",
+            "nameEn": "Bothiya (Palora)",
+            "code": "२५-बोथिया (पालोरा)",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-13-gan-25-gp-11",
+                "serialNo": 1,
+                "nameMr": "बोथिया (पालोरा)",
+                "nameEn": "बोथिया (पालोरा)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-48",
+                    "serialNo": 1,
+                    "nameMr": "बोथिया (पालोरा)",
+                    "nameEn": "बोथिया (पालोरा)"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-49",
+                    "serialNo": 2,
+                    "nameMr": "चोरबाहूली (वन)",
+                    "nameEn": "चोरबाहूली (वन)"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-50",
+                    "serialNo": 3,
+                    "nameMr": "सितापूर",
+                    "nameEn": "सितापूर"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-51",
+                    "serialNo": 4,
+                    "nameMr": "मौदी",
+                    "nameEn": "मौदी"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-52",
+                    "serialNo": 5,
+                    "nameMr": "पवनी (वन)",
+                    "nameEn": "पवनी (वन)"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-53",
+                    "serialNo": 6,
+                    "nameMr": "पवनी",
+                    "nameEn": "पवनी"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-54",
+                    "serialNo": 7,
+                    "nameMr": "चारगांव",
+                    "nameEn": "चारगांव"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-55",
+                    "serialNo": 8,
+                    "nameMr": "सावंगी",
+                    "nameEn": "सावंगी"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-11-v-56",
+                    "serialNo": 9,
+                    "nameMr": "खरपडा",
+                    "nameEn": "खरपडा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-25-gp-12",
+                "serialNo": 2,
+                "nameMr": "कटटा",
+                "nameEn": "कटटा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-12-v-57",
+                    "serialNo": 10,
+                    "nameMr": "कटटा",
+                    "nameEn": "कटटा"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-12-v-58",
+                    "serialNo": 11,
+                    "nameMr": "सिंदेवानी",
+                    "nameEn": "सिंदेवानी"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-12-v-59",
+                    "serialNo": 12,
+                    "nameMr": "खिडकी",
+                    "nameEn": "खिडकी"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-12-v-60",
+                    "serialNo": 13,
+                    "nameMr": "पेंढरी",
+                    "nameEn": "पेंढरी"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-25-gp-13",
+                "serialNo": 3,
+                "nameMr": "देवलापार",
+                "nameEn": "देवलापार",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-13-v-61",
+                    "serialNo": 14,
+                    "nameMr": "देवलापार",
+                    "nameEn": "देवलापार"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-25-gp-13-v-62",
+                    "serialNo": 15,
+                    "nameMr": "झींजेरीया",
+                    "nameEn": "झींजेरीया"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ramtek-div-13-gan-26",
+            "number": 26,
+            "nameMr": "उमरी",
+            "nameEn": "Umri",
+            "code": "२६-उमरी",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-13-gan-26-gp-14",
+                "serialNo": 1,
+                "nameMr": "उमरी",
+                "nameEn": "उमरी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-14-v-63",
+                    "serialNo": 1,
+                    "nameMr": "उमरी",
+                    "nameEn": "उमरी"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-14-v-64",
+                    "serialNo": 2,
+                    "nameMr": "मांगली",
+                    "nameEn": "मांगली"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-14-v-65",
+                    "serialNo": 3,
+                    "nameMr": "महारपेठ(रि.)",
+                    "nameEn": "महारपेठ(रि.)"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-14-v-66",
+                    "serialNo": 4,
+                    "nameMr": "चिचदा",
+                    "nameEn": "चिचदा"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-14-v-67",
+                    "serialNo": 5,
+                    "nameMr": "गुडेगांव",
+                    "nameEn": "गुडेगांव"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-26-gp-15",
+                "serialNo": 2,
+                "nameMr": "वरघाट",
+                "nameEn": "वरघाट",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-15-v-68",
+                    "serialNo": 6,
+                    "nameMr": "वरघाट",
+                    "nameEn": "वरघाट"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-15-v-69",
+                    "serialNo": 7,
+                    "nameMr": "मानेगांव",
+                    "nameEn": "मानेगांव"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-15-v-70",
+                    "serialNo": 8,
+                    "nameMr": "सौदनी",
+                    "nameEn": "सौदनी"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-26-gp-16",
+                "serialNo": 3,
+                "nameMr": "हिवरा (बाजार)",
+                "nameEn": "हिवरा (बाजार)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-16-v-71",
+                    "serialNo": 9,
+                    "nameMr": "हिवरा (बाजार)",
+                    "nameEn": "हिवरा (बाजार)"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-16-v-72",
+                    "serialNo": 10,
+                    "nameMr": "फुलझरी",
+                    "nameEn": "फुलझरी"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-26-gp-17",
+                "serialNo": 4,
+                "nameMr": "सालई",
+                "nameEn": "सालई",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-17-v-73",
+                    "serialNo": 11,
+                    "nameMr": "सालई",
+                    "nameEn": "सालई"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-17-v-74",
+                    "serialNo": 12,
+                    "nameMr": "घोटी",
+                    "nameEn": "घोटी"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-17-v-75",
+                    "serialNo": 13,
+                    "nameMr": "रमजान",
+                    "nameEn": "रमजान"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-26-gp-18",
+                "serialNo": 5,
+                "nameMr": "पुसदा पुनर्वसन क्र.१",
+                "nameEn": "पुसदा पुनर्वसन क्र.१",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-18-v-76",
+                    "serialNo": 14,
+                    "nameMr": "पुसदा पुनर्वसन क्र.१",
+                    "nameEn": "पुसदा पुनर्वसन क्र.१"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-26-gp-19",
+                "serialNo": 6,
+                "nameMr": "पुसदा पुनर्वसन क्र.२",
+                "nameEn": "पुसदा पुनर्वसन क्र.२",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-19-v-77",
+                    "serialNo": 15,
+                    "nameMr": "पुसदा पुनर्वसन क्र.२",
+                    "nameEn": "पुसदा पुनर्वसन क्र.२"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-13-gan-26-gp-20",
+                "serialNo": 7,
+                "nameMr": "टांगला",
+                "nameEn": "टांगला",
+                "villages": [
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-20-v-78",
+                    "serialNo": 16,
+                    "nameMr": "टांगला",
+                    "nameEn": "टांगला"
+                  },
+                  {
+                    "id": "ramtek-div-13-gan-26-gp-20-v-79",
+                    "serialNo": 17,
+                    "nameMr": "चिकनापूर",
+                    "nameEn": "चिकनापूर"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ramtek-div-14",
+        "number": 14,
+        "nameMr": "सोनेघाट",
+        "nameEn": "Soneghat",
+        "code": "१४-सोनेघाट",
+        "gana": [
+          {
+            "id": "ramtek-div-14-gan-27",
+            "number": 27,
+            "nameMr": "भंडारबोडी",
+            "nameEn": "Bhandarbodi",
+            "code": "२७-भंडारबोडी",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-14-gan-27-gp-21",
+                "serialNo": 1,
+                "nameMr": "भंडारबोडी",
+                "nameEn": "भंडारबोडी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-21-v-80",
+                    "serialNo": 1,
+                    "nameMr": "भंडारबोडी",
+                    "nameEn": "भंडारबोडी"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-21-v-81",
+                    "serialNo": 2,
+                    "nameMr": "सालईमेटा",
+                    "nameEn": "सालईमेटा"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-21-v-82",
+                    "serialNo": 3,
+                    "nameMr": "हसापूर",
+                    "nameEn": "हसापूर"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-27-gp-22",
+                "serialNo": 2,
+                "nameMr": "शिवनी (भोंडकी)",
+                "nameEn": "शिवनी (भोंडकी)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-22-v-83",
+                    "serialNo": 4,
+                    "nameMr": "शिवनी (भोंडकी)",
+                    "nameEn": "शिवनी (भोंडकी)"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-22-v-84",
+                    "serialNo": 5,
+                    "nameMr": "किरणापूर",
+                    "nameEn": "किरणापूर"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-27-gp-23",
+                "serialNo": 3,
+                "nameMr": "आसोली",
+                "nameEn": "आसोली",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-23-v-85",
+                    "serialNo": 6,
+                    "nameMr": "आसोली",
+                    "nameEn": "आसोली"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-27-gp-24",
+                "serialNo": 4,
+                "nameMr": "महादुला",
+                "nameEn": "महादुला",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-24-v-86",
+                    "serialNo": 7,
+                    "nameMr": "महादुला",
+                    "nameEn": "महादुला"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-24-v-87",
+                    "serialNo": 8,
+                    "nameMr": "घोटी",
+                    "nameEn": "घोटी"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-24-v-88",
+                    "serialNo": 9,
+                    "nameMr": "लोहारा",
+                    "nameEn": "लोहारा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-27-gp-25",
+                "serialNo": 5,
+                "nameMr": "किरणापूर",
+                "nameEn": "किरणापूर",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-25-v-89",
+                    "serialNo": 10,
+                    "nameMr": "किरणापूर",
+                    "nameEn": "किरणापूर"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-25-v-90",
+                    "serialNo": 11,
+                    "nameMr": "वडेगांव",
+                    "nameEn": "वडेगांव"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-25-v-91",
+                    "serialNo": 12,
+                    "nameMr": "चोखाळा",
+                    "nameEn": "चोखाळा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-27-gp-26",
+                "serialNo": 6,
+                "nameMr": "बोरी",
+                "nameEn": "बोरी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-26-v-92",
+                    "serialNo": 13,
+                    "nameMr": "बोरी",
+                    "nameEn": "बोरी"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-26-v-93",
+                    "serialNo": 14,
+                    "nameMr": "मसला",
+                    "nameEn": "मसला"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-27-gp-26-v-94",
+                    "serialNo": 15,
+                    "nameMr": "खंडाळा खुर्द",
+                    "nameEn": "खंडाळा खुर्द"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ramtek-div-14-gan-28",
+            "number": 28,
+            "nameMr": "सोनेघाट",
+            "nameEn": "Soneghat",
+            "code": "२८-सोनेघाट",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-14-gan-28-gp-27",
+                "serialNo": 1,
+                "nameMr": "सोनेघाट",
+                "nameEn": "सोनेघाट",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-27-v-95",
+                    "serialNo": 1,
+                    "nameMr": "सोनेघाट",
+                    "nameEn": "सोनेघाट"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-27-v-96",
+                    "serialNo": 2,
+                    "nameMr": "चौगान",
+                    "nameEn": "चौगान"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-27-v-97",
+                    "serialNo": 3,
+                    "nameMr": "कवडक",
+                    "nameEn": "कवडक"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-27-v-98",
+                    "serialNo": 4,
+                    "nameMr": "नवेगांव",
+                    "nameEn": "नवेगांव"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-27-v-99",
+                    "serialNo": 5,
+                    "nameMr": "पिपरीया (रि.)",
+                    "nameEn": "पिपरीया (रि.)"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-27-v-100",
+                    "serialNo": 6,
+                    "nameMr": "रामपूरी",
+                    "nameEn": "रामपूरी"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-28-gp-28",
+                "serialNo": 2,
+                "nameMr": "भिलेवाडा",
+                "nameEn": "भिलेवाडा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-28-v-101",
+                    "serialNo": 7,
+                    "nameMr": "भिलेवाडा",
+                    "nameEn": "भिलेवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-28-gp-29",
+                "serialNo": 3,
+                "nameMr": "पिंडकापार",
+                "nameEn": "पिंडकापार",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-29-v-102",
+                    "serialNo": 8,
+                    "nameMr": "पिंडकापार",
+                    "nameEn": "पिंडकापार"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-29-v-103",
+                    "serialNo": 9,
+                    "nameMr": "सोनपूर",
+                    "nameEn": "सोनपूर"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-29-v-104",
+                    "serialNo": 10,
+                    "nameMr": "नहावी",
+                    "nameEn": "नहावी"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-29-v-105",
+                    "serialNo": 11,
+                    "nameMr": "महाराजपूर",
+                    "nameEn": "महाराजपूर"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-29-v-106",
+                    "serialNo": 12,
+                    "nameMr": "केळापूर (रि.)",
+                    "nameEn": "केळापूर (रि.)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-28-gp-30",
+                "serialNo": 4,
+                "nameMr": "मांद्री",
+                "nameEn": "मांद्री",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-30-v-107",
+                    "serialNo": 13,
+                    "nameMr": "मांद्री",
+                    "nameEn": "मांद्री"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-30-v-108",
+                    "serialNo": 14,
+                    "nameMr": "मानेगाव",
+                    "nameEn": "मानेगाव"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-30-v-109",
+                    "serialNo": 15,
+                    "nameMr": "मुरडा",
+                    "nameEn": "मुरडा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-28-gp-31",
+                "serialNo": 5,
+                "nameMr": "डोंगरी",
+                "nameEn": "डोंगरी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-31-v-110",
+                    "serialNo": 16,
+                    "nameMr": "डोंगरी",
+                    "nameEn": "डोंगरी"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-31-v-111",
+                    "serialNo": 17,
+                    "nameMr": "चोरखुमारी",
+                    "nameEn": "चोरखुमारी"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-31-v-112",
+                    "serialNo": 18,
+                    "nameMr": "मुकनापूर",
+                    "nameEn": "मुकनापूर"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-28-gp-32",
+                "serialNo": 6,
+                "nameMr": "पंचाळा (खु.)",
+                "nameEn": "पंचाळा (खु.)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-32-v-113",
+                    "serialNo": 19,
+                    "nameMr": "पंचाळा (खु.)",
+                    "nameEn": "पंचाळा (खु.)"
+                  },
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-32-v-114",
+                    "serialNo": 20,
+                    "nameMr": "पंचाळा (बु.)",
+                    "nameEn": "पंचाळा (बु.)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-28-gp-33",
+                "serialNo": 7,
+                "nameMr": "गुगुलडोह",
+                "nameEn": "गुगुलडोह",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-33-v-115",
+                    "serialNo": 21,
+                    "nameMr": "गुगुलडोह",
+                    "nameEn": "गुगुलडोह"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-14-gan-28-gp-34",
+                "serialNo": 8,
+                "nameMr": "मुसेवाडी",
+                "nameEn": "मुसेवाडी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-14-gan-28-gp-34-v-116",
+                    "serialNo": 22,
+                    "nameMr": "मुसेवाडी",
+                    "nameEn": "मुसेवाडी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ramtek-div-15",
+        "number": 15,
+        "nameMr": "मनसर",
+        "nameEn": "Mansar",
+        "code": "१५-मनसर",
+        "gana": [
+          {
+            "id": "ramtek-div-15-gan-29",
+            "number": 29,
+            "nameMr": "कांद्री",
+            "nameEn": "Kandri",
+            "code": "२९-कांद्री",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-15-gan-29-gp-35",
+                "serialNo": 1,
+                "nameMr": "कांद्री",
+                "nameEn": "कांद्री",
+                "villages": [
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-35-v-117",
+                    "serialNo": 1,
+                    "nameMr": "कांद्री",
+                    "nameEn": "कांद्री"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-35-v-118",
+                    "serialNo": 2,
+                    "nameMr": "बोंद्री",
+                    "nameEn": "बोंद्री"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-35-v-119",
+                    "serialNo": 3,
+                    "nameMr": "हिवरा (बेंडे)",
+                    "nameEn": "हिवरा (बेंडे)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-15-gan-29-gp-36",
+                "serialNo": 2,
+                "nameMr": "खुमारी",
+                "nameEn": "खुमारी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-36-v-120",
+                    "serialNo": 4,
+                    "nameMr": "खुमारी",
+                    "nameEn": "खुमारी"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-36-v-121",
+                    "serialNo": 5,
+                    "nameMr": "चोरबाहुली",
+                    "nameEn": "चोरबाहुली"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-36-v-122",
+                    "serialNo": 6,
+                    "nameMr": "भोंदेवाडा",
+                    "nameEn": "भोंदेवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-15-gan-29-gp-37",
+                "serialNo": 3,
+                "nameMr": "बोरडा",
+                "nameEn": "बोरडा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-37-v-123",
+                    "serialNo": 7,
+                    "nameMr": "बोरडा",
+                    "nameEn": "बोरडा"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-37-v-124",
+                    "serialNo": 8,
+                    "nameMr": "सराखा",
+                    "nameEn": "सराखा"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-37-v-125",
+                    "serialNo": 9,
+                    "nameMr": "छत्रापूर",
+                    "nameEn": "छत्रापूर"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-29-gp-37-v-126",
+                    "serialNo": 10,
+                    "nameMr": "देवळी",
+                    "nameEn": "देवळी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ramtek-div-15-gan-30",
+            "number": 30,
+            "nameMr": "मनसर",
+            "nameEn": "Mansar",
+            "code": "३०-मनसर",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-15-gan-30-gp-38",
+                "serialNo": 1,
+                "nameMr": "मनसर",
+                "nameEn": "मनसर",
+                "villages": [
+                  {
+                    "id": "ramtek-div-15-gan-30-gp-38-v-127",
+                    "serialNo": 1,
+                    "nameMr": "मनसर",
+                    "nameEn": "मनसर"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-15-gan-30-gp-39",
+                "serialNo": 2,
+                "nameMr": "पटगोवरी",
+                "nameEn": "पटगोवरी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-15-gan-30-gp-39-v-128",
+                    "serialNo": 2,
+                    "nameMr": "पटगोवरी",
+                    "nameEn": "पटगोवरी"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-30-gp-39-v-129",
+                    "serialNo": 3,
+                    "nameMr": "हेटिटोला",
+                    "nameEn": "हेटिटोला"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-15-gan-30-gp-40",
+                "serialNo": 3,
+                "nameMr": "खैरी (बिजेवाडा)",
+                "nameEn": "खैरी (बिजेवाडा)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-15-gan-30-gp-40-v-130",
+                    "serialNo": 4,
+                    "nameMr": "खैरी",
+                    "nameEn": "खैरी"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-30-gp-40-v-131",
+                    "serialNo": 5,
+                    "nameMr": "बिजेवाडा",
+                    "nameEn": "बिजेवाडा"
+                  },
+                  {
+                    "id": "ramtek-div-15-gan-30-gp-40-v-132",
+                    "serialNo": 6,
+                    "nameMr": "चारगाव",
+                    "nameEn": "चारगाव"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-15-gan-30-gp-41",
+                "serialNo": 4,
+                "nameMr": "हिवरा (हिवरी)",
+                "nameEn": "हिवरा (हिवरी)",
+                "villages": [
+                  {
+                    "id": "ramtek-div-15-gan-30-gp-41-v-133",
+                    "serialNo": 7,
+                    "nameMr": "हिवरा (हिवरी)",
+                    "nameEn": "हिवरा (हिवरी)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ramtek-div-16",
+        "number": 16,
+        "nameMr": "नगरधन",
+        "nameEn": "Nagardhan",
+        "code": "१६-नगरधन",
+        "gana": [
+          {
+            "id": "ramtek-div-16-gan-31",
+            "number": 31,
+            "nameMr": "सितलवाडी",
+            "nameEn": "Sitalwadi",
+            "code": "३१-सितलवाडी",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-16-gan-31-gp-42",
+                "serialNo": 1,
+                "nameMr": "सितलवाडी",
+                "nameEn": "सितलवाडी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-42-v-134",
+                    "serialNo": 1,
+                    "nameMr": "सितलवाडी",
+                    "nameEn": "सितलवाडी"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-42-v-135",
+                    "serialNo": 2,
+                    "nameMr": "परसोडा",
+                    "nameEn": "परसोडा"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-16-gan-31-gp-43",
+                "serialNo": 2,
+                "nameMr": "नवरगांव",
+                "nameEn": "नवरगांव",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-43-v-136",
+                    "serialNo": 3,
+                    "nameMr": "नवरगांव",
+                    "nameEn": "नवरगांव"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-43-v-137",
+                    "serialNo": 4,
+                    "nameMr": "संग्रामपूर",
+                    "nameEn": "संग्रामपूर"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-43-v-138",
+                    "serialNo": 5,
+                    "nameMr": "शिरपूर",
+                    "nameEn": "शिरपूर"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-43-v-139",
+                    "serialNo": 6,
+                    "nameMr": "आमगांव",
+                    "nameEn": "आमगांव"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-43-v-140",
+                    "serialNo": 7,
+                    "nameMr": "खिंडसी (रि.)",
+                    "nameEn": "खिंडसी (रि.)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-16-gan-31-gp-44",
+                "serialNo": 3,
+                "nameMr": "मानापूर",
+                "nameEn": "मानापूर",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-44-v-141",
+                    "serialNo": 8,
+                    "nameMr": "मानापूर",
+                    "nameEn": "मानापूर"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-44-v-142",
+                    "serialNo": 9,
+                    "nameMr": "कवलापूर",
+                    "nameEn": "कवलापूर"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-44-v-143",
+                    "serialNo": 10,
+                    "nameMr": "भोजापूर",
+                    "nameEn": "भोजापूर"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-44-v-144",
+                    "serialNo": 11,
+                    "nameMr": "दुधाळा (री)",
+                    "nameEn": "दुधाळा (री)"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-44-v-145",
+                    "serialNo": 12,
+                    "nameMr": "शिवणी (री)",
+                    "nameEn": "शिवणी (री)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-16-gan-31-gp-45",
+                "serialNo": 4,
+                "nameMr": "चिचाळा",
+                "nameEn": "चिचाळा",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-45-v-146",
+                    "serialNo": 13,
+                    "nameMr": "चिचाळा",
+                    "nameEn": "चिचाळा"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-45-v-147",
+                    "serialNo": 14,
+                    "nameMr": "हमलापुरी",
+                    "nameEn": "हमलापुरी"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-45-v-148",
+                    "serialNo": 15,
+                    "nameMr": "चाकुर्डा (रि)",
+                    "nameEn": "चाकुर्डा (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-45-v-149",
+                    "serialNo": 16,
+                    "nameMr": "नवेगाव (रि)",
+                    "nameEn": "नवेगाव (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-45-v-150",
+                    "serialNo": 17,
+                    "nameMr": "पाचपावली (रि)",
+                    "nameEn": "पाचपावली (रि)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-31-gp-45-v-151",
+                    "serialNo": 18,
+                    "nameMr": "देव्हाळा (रि.)",
+                    "nameEn": "देव्हाळा (रि.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ramtek-div-16-gan-32",
+            "number": 32,
+            "nameMr": "नगरधन",
+            "nameEn": "Nagardhan",
+            "code": "३२-नगरधन",
+            "gramPanchayats": [
+              {
+                "id": "ramtek-div-16-gan-32-gp-46",
+                "serialNo": 1,
+                "nameMr": "नगरधन",
+                "nameEn": "नगरधन",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-32-gp-46-v-152",
+                    "serialNo": 1,
+                    "nameMr": "नगरधन",
+                    "nameEn": "नगरधन"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-16-gan-32-gp-47",
+                "serialNo": 2,
+                "nameMr": "आजनी",
+                "nameEn": "आजनी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-32-gp-47-v-153",
+                    "serialNo": 2,
+                    "nameMr": "आजनी",
+                    "nameEn": "आजनी"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-16-gan-32-gp-48",
+                "serialNo": 3,
+                "nameMr": "काचुरवाही",
+                "nameEn": "काचुरवाही",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-32-gp-48-v-154",
+                    "serialNo": 3,
+                    "nameMr": "काचुरवाही",
+                    "nameEn": "काचुरवाही"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-32-gp-48-v-155",
+                    "serialNo": 4,
+                    "nameMr": "खोडगांव",
+                    "nameEn": "खोडगांव"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-32-gp-48-v-156",
+                    "serialNo": 5,
+                    "nameMr": "मिन्सी (रिठी)",
+                    "nameEn": "मिन्सी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "ramtek-div-16-gan-32-gp-49",
+                "serialNo": 4,
+                "nameMr": "लोहडोंगरी",
+                "nameEn": "लोहडोंगरी",
+                "villages": [
+                  {
+                    "id": "ramtek-div-16-gan-32-gp-49-v-157",
+                    "serialNo": 6,
+                    "nameMr": "लोहडोंगरी",
+                    "nameEn": "लोहडोंगरी"
+                  },
+                  {
+                    "id": "ramtek-div-16-gan-32-gp-49-v-158",
+                    "serialNo": 7,
+                    "nameMr": "हातोडी",
+                    "nameEn": "हातोडी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "पारशिवनी",
+    "talukaEn": "Parseoni",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "parseoni-div-8",
+        "number": 8,
+        "nameMr": "माहुली",
+        "nameEn": "Mahuli",
+        "code": "८-माहुली",
+        "gana": [
+          {
+            "id": "parseoni-div-8-gan-15",
+            "number": 15,
+            "nameMr": "चारगाव",
+            "nameEn": "Chargaon",
+            "code": "१५-चारगाव",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-8-gan-15-gp-1",
+                "serialNo": 1,
+                "nameMr": "कोलीतमारा",
+                "nameEn": "कोलीतमारा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "कोलीतमारा",
+                    "nameEn": "कोलीतमारा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "किरंगी सर्रा",
+                    "nameEn": "किरंगी सर्रा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-1-v-3",
+                    "serialNo": 3,
+                    "nameMr": "सुरेरा",
+                    "nameEn": "सुरेरा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-1-v-4",
+                    "serialNo": 4,
+                    "nameMr": "घाटपेंढरी",
+                    "nameEn": "घाटपेंढरी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-1-v-5",
+                    "serialNo": 5,
+                    "nameMr": "कुकडा (रिठी)",
+                    "nameEn": "कुकडा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-1-v-6",
+                    "serialNo": 6,
+                    "nameMr": "महकेपार",
+                    "nameEn": "महकेपार"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-15-gp-2",
+                "serialNo": 2,
+                "nameMr": "ढवळापूर",
+                "nameEn": "ढवळापूर",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-2-v-7",
+                    "serialNo": 7,
+                    "nameMr": "ढवळापूर",
+                    "nameEn": "ढवळापूर"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-2-v-8",
+                    "serialNo": 8,
+                    "nameMr": "घाटकुकडा",
+                    "nameEn": "घाटकुकडा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-2-v-9",
+                    "serialNo": 9,
+                    "nameMr": "नरहर",
+                    "nameEn": "नरहर"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-2-v-10",
+                    "serialNo": 10,
+                    "nameMr": "बन्नेरा",
+                    "nameEn": "बन्नेरा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-2-v-11",
+                    "serialNo": 11,
+                    "nameMr": "सावंगी",
+                    "nameEn": "सावंगी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-15-gp-3",
+                "serialNo": 3,
+                "nameMr": "सुवरधरा",
+                "nameEn": "सुवरधरा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-12",
+                    "serialNo": 12,
+                    "nameMr": "सुवरधरा",
+                    "nameEn": "सुवरधरा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-13",
+                    "serialNo": 13,
+                    "nameMr": "मकरधोकडा",
+                    "nameEn": "मकरधोकडा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-14",
+                    "serialNo": 14,
+                    "nameMr": "सिलादेवी",
+                    "nameEn": "सिलादेवी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-15",
+                    "serialNo": 15,
+                    "nameMr": "अंबाझारी",
+                    "nameEn": "अंबाझारी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-16",
+                    "serialNo": 16,
+                    "nameMr": "गारगोटी (रिठी)",
+                    "nameEn": "गारगोटी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-17",
+                    "serialNo": 17,
+                    "nameMr": "पारडी (रिठी)",
+                    "nameEn": "पारडी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-18",
+                    "serialNo": 18,
+                    "nameMr": "सालेघाट",
+                    "nameEn": "सालेघाट"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-3-v-19",
+                    "serialNo": 19,
+                    "nameMr": "पठार (रिठी)",
+                    "nameEn": "पठार (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-15-gp-4",
+                "serialNo": 4,
+                "nameMr": "चारगाव",
+                "nameEn": "चारगाव",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-4-v-20",
+                    "serialNo": 20,
+                    "nameMr": "चारगाव",
+                    "nameEn": "चारगाव"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-4-v-21",
+                    "serialNo": 21,
+                    "nameMr": "आवळेघाट",
+                    "nameEn": "आवळेघाट"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-4-v-22",
+                    "serialNo": 22,
+                    "nameMr": "बच्छेरा",
+                    "nameEn": "बच्छेरा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-4-v-23",
+                    "serialNo": 23,
+                    "nameMr": "भिवगड (रिठी)",
+                    "nameEn": "भिवगड (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-15-gp-5",
+                "serialNo": 5,
+                "nameMr": "नवेगाव खैरी",
+                "nameEn": "नवेगाव खैरी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-24",
+                    "serialNo": 24,
+                    "nameMr": "नवेगाव",
+                    "nameEn": "नवेगाव"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-25",
+                    "serialNo": 25,
+                    "nameMr": "घाटखैरी",
+                    "nameEn": "घाटखैरी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-26",
+                    "serialNo": 26,
+                    "nameMr": "कामठी (रिठी)",
+                    "nameEn": "कामठी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-27",
+                    "serialNo": 27,
+                    "nameMr": "नेऊरवाळा",
+                    "nameEn": "नेऊरवाळा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-28",
+                    "serialNo": 28,
+                    "nameMr": "बोरबन (रिठी)",
+                    "nameEn": "बोरबन (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-29",
+                    "serialNo": 29,
+                    "nameMr": "देवळी (रिठी)",
+                    "nameEn": "देवळी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-30",
+                    "serialNo": 30,
+                    "nameMr": "बजरकुंड (रिठी)",
+                    "nameEn": "बजरकुंड (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-5-v-31",
+                    "serialNo": 31,
+                    "nameMr": "गोरखपुर (रिठी)",
+                    "nameEn": "गोरखपुर (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-15-gp-6",
+                "serialNo": 6,
+                "nameMr": "पालासावळी",
+                "nameEn": "पालासावळी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-6-v-32",
+                    "serialNo": 32,
+                    "nameMr": "पालासावळी",
+                    "nameEn": "पालासावळी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-6-v-33",
+                    "serialNo": 33,
+                    "nameMr": "कालभैरव",
+                    "nameEn": "कालभैरव"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-6-v-34",
+                    "serialNo": 34,
+                    "nameMr": "परसोडी (पेठ)",
+                    "nameEn": "परसोडी (पेठ)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-6-v-35",
+                    "serialNo": 35,
+                    "nameMr": "कोंडासावळी",
+                    "nameEn": "कोंडासावळी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-6-v-36",
+                    "serialNo": 36,
+                    "nameMr": "रंगारी (रिठी)",
+                    "nameEn": "रंगारी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-15-gp-7",
+                "serialNo": 7,
+                "nameMr": "टेकाडी (वन)",
+                "nameEn": "टेकाडी (वन)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-7-v-37",
+                    "serialNo": 37,
+                    "nameMr": "टेकाडी (वन)",
+                    "nameEn": "टेकाडी (वन)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-7-v-38",
+                    "serialNo": 38,
+                    "nameMr": "कान्हादेवी",
+                    "nameEn": "कान्हादेवी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-15-gp-8",
+                "serialNo": 8,
+                "nameMr": "सालई (मोकासा)",
+                "nameEn": "सालई (मोकासा)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-15-gp-8-v-39",
+                    "serialNo": 39,
+                    "nameMr": "सालई (मोकासा)",
+                    "nameEn": "सालई (मोकासा)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "parseoni-div-8-gan-16",
+            "number": 16,
+            "nameMr": "माहुली",
+            "nameEn": "Mahuli",
+            "code": "१६-माहुली",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-8-gan-16-gp-9",
+                "serialNo": 1,
+                "nameMr": "बिटोली",
+                "nameEn": "बिटोली",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-9-v-40",
+                    "serialNo": 1,
+                    "nameMr": "बिटोली",
+                    "nameEn": "बिटोली"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-9-v-41",
+                    "serialNo": 2,
+                    "nameMr": "भुलेवाडी",
+                    "nameEn": "भुलेवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-16-gp-10",
+                "serialNo": 2,
+                "nameMr": "सालई (माहुली)",
+                "nameEn": "सालई (माहुली)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-10-v-42",
+                    "serialNo": 3,
+                    "nameMr": "सालई (माहुली)",
+                    "nameEn": "सालई (माहुली)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-16-gp-11",
+                "serialNo": 3,
+                "nameMr": "आमगाव",
+                "nameEn": "आमगाव",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-11-v-43",
+                    "serialNo": 4,
+                    "nameMr": "आमगाव",
+                    "nameEn": "आमगाव"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-11-v-44",
+                    "serialNo": 5,
+                    "nameMr": "बाबुरवाडा",
+                    "nameEn": "बाबुरवाडा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-11-v-45",
+                    "serialNo": 6,
+                    "nameMr": "सुगणाबोडी (रिठी)",
+                    "nameEn": "सुगणाबोडी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-11-v-46",
+                    "serialNo": 7,
+                    "nameMr": "डुंडाखैरी (रिठी)",
+                    "nameEn": "डुंडाखैरी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-16-gp-12",
+                "serialNo": 4,
+                "nameMr": "भागीमहारी",
+                "nameEn": "भागीमहारी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-12-v-47",
+                    "serialNo": 8,
+                    "nameMr": "भागीमहारी",
+                    "nameEn": "भागीमहारी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-12-v-48",
+                    "serialNo": 9,
+                    "nameMr": "पेंढरी",
+                    "nameEn": "पेंढरी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-16-gp-13",
+                "serialNo": 5,
+                "nameMr": "उमरी (पाली)",
+                "nameEn": "उमरी (पाली)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-13-v-49",
+                    "serialNo": 10,
+                    "nameMr": "उमरी",
+                    "nameEn": "उमरी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-13-v-50",
+                    "serialNo": 11,
+                    "nameMr": "लोहारा (रिठी)",
+                    "nameEn": "लोहारा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-13-v-51",
+                    "serialNo": 12,
+                    "nameMr": "घुकशी",
+                    "nameEn": "घुकशी"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-13-v-52",
+                    "serialNo": 13,
+                    "nameMr": "पाली",
+                    "nameEn": "पाली"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-16-gp-14",
+                "serialNo": 6,
+                "nameMr": "माहुली",
+                "nameEn": "माहुली",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-14-v-53",
+                    "serialNo": 14,
+                    "nameMr": "माहुली",
+                    "nameEn": "माहुली"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-14-v-54",
+                    "serialNo": 15,
+                    "nameMr": "काळापाठा",
+                    "nameEn": "काळापाठा"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-14-v-55",
+                    "serialNo": 16,
+                    "nameMr": "गुंढरी (पांडे)",
+                    "nameEn": "गुंढरी (पांडे)"
+                  },
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-14-v-56",
+                    "serialNo": 17,
+                    "nameMr": "चिचभुवन",
+                    "nameEn": "चिचभुवन"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-8-gan-16-gp-15",
+                "serialNo": 7,
+                "nameMr": "नयाकुंड",
+                "nameEn": "नयाकुंड",
+                "villages": [
+                  {
+                    "id": "parseoni-div-8-gan-16-gp-15-v-57",
+                    "serialNo": 18,
+                    "nameMr": "नयाकुंड",
+                    "nameEn": "नयाकुंड"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "parseoni-div-9",
+        "number": 9,
+        "nameMr": "करंभाड",
+        "nameEn": "Karambhad",
+        "code": "९-करंभाड",
+        "gana": [
+          {
+            "id": "parseoni-div-9-gan-17",
+            "number": 17,
+            "nameMr": "करंभाड",
+            "nameEn": "Karambhad",
+            "code": "१७-करंभाड",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-9-gan-17-gp-16",
+                "serialNo": 1,
+                "nameMr": "निंबा",
+                "nameEn": "निंबा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-16-v-58",
+                    "serialNo": 1,
+                    "nameMr": "निंबा",
+                    "nameEn": "निंबा"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-16-v-59",
+                    "serialNo": 2,
+                    "nameMr": "कुसूमधरा",
+                    "nameEn": "कुसूमधरा"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-16-v-60",
+                    "serialNo": 3,
+                    "nameMr": "सकरला",
+                    "nameEn": "सकरला"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-17-gp-17",
+                "serialNo": 2,
+                "nameMr": "सावळी",
+                "nameEn": "सावळी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-17-v-61",
+                    "serialNo": 4,
+                    "nameMr": "सावळी",
+                    "nameEn": "सावळी"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-17-v-62",
+                    "serialNo": 5,
+                    "nameMr": "मोगर",
+                    "nameEn": "मोगर"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-17-v-63",
+                    "serialNo": 6,
+                    "nameMr": "महादुला",
+                    "nameEn": "महादुला"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-17-v-64",
+                    "serialNo": 7,
+                    "nameMr": "चिचोली",
+                    "nameEn": "चिचोली"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-17-gp-18",
+                "serialNo": 3,
+                "nameMr": "दहेगाव (जोशी)",
+                "nameEn": "दहेगाव (जोशी)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-18-v-65",
+                    "serialNo": 8,
+                    "nameMr": "दहेगाव (जोशी)",
+                    "nameEn": "दहेगाव (जोशी)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-17-gp-19",
+                "serialNo": 4,
+                "nameMr": "करंभाड",
+                "nameEn": "करंभाड",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-19-v-66",
+                    "serialNo": 9,
+                    "nameMr": "करंभाड",
+                    "nameEn": "करंभाड"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-17-gp-20",
+                "serialNo": 5,
+                "nameMr": "खंडाळा (म.)",
+                "nameEn": "खंडाळा (म.)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-20-v-67",
+                    "serialNo": 10,
+                    "nameMr": "खंडाळा (म.)",
+                    "nameEn": "खंडाळा (म.)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-17-gp-21",
+                "serialNo": 6,
+                "nameMr": "पारडी",
+                "nameEn": "पारडी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-21-v-68",
+                    "serialNo": 11,
+                    "nameMr": "पारडी",
+                    "nameEn": "पारडी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-17-gp-22",
+                "serialNo": 7,
+                "nameMr": "इटगाव",
+                "nameEn": "इटगाव",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-22-v-69",
+                    "serialNo": 12,
+                    "nameMr": "इटगाव",
+                    "nameEn": "इटगाव"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-17-gp-22-v-70",
+                    "serialNo": 13,
+                    "nameMr": "दिगलवाडी",
+                    "nameEn": "दिगलवाडी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "parseoni-div-9-gan-18",
+            "number": 18,
+            "nameMr": "तामसवाडी",
+            "nameEn": "Tamaswadi",
+            "code": "१८-तामसवाडी",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-9-gan-18-gp-23",
+                "serialNo": 1,
+                "nameMr": "पालोरा",
+                "nameEn": "पालोरा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-23-v-71",
+                    "serialNo": 1,
+                    "nameMr": "पालोरा",
+                    "nameEn": "पालोरा"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-18-gp-24",
+                "serialNo": 2,
+                "nameMr": "गुंढरी (वांढे)",
+                "nameEn": "गुंढरी (वांढे)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-24-v-72",
+                    "serialNo": 2,
+                    "nameMr": "गुंढरी (वांढे)",
+                    "nameEn": "गुंढरी (वांढे)"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-24-v-73",
+                    "serialNo": 3,
+                    "nameMr": "सोनेगाव",
+                    "nameEn": "सोनेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-18-gp-25",
+                "serialNo": 3,
+                "nameMr": "पिपळा",
+                "nameEn": "पिपळा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-25-v-74",
+                    "serialNo": 4,
+                    "nameMr": "पिपळा",
+                    "nameEn": "पिपळा"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-25-v-75",
+                    "serialNo": 5,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-18-gp-26",
+                "serialNo": 4,
+                "nameMr": "गवणा",
+                "nameEn": "गवणा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-26-v-76",
+                    "serialNo": 6,
+                    "nameMr": "गवणा",
+                    "nameEn": "गवणा"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-26-v-77",
+                    "serialNo": 7,
+                    "nameMr": "गरंडा",
+                    "nameEn": "गरंडा"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-18-gp-27",
+                "serialNo": 5,
+                "nameMr": "हिंगणा (बारा)",
+                "nameEn": "हिंगणा (बारा)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-27-v-78",
+                    "serialNo": 8,
+                    "nameMr": "हिंगणा (बारा)",
+                    "nameEn": "हिंगणा (बारा)"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-27-v-79",
+                    "serialNo": 9,
+                    "nameMr": "सिंगोरी",
+                    "nameEn": "सिंगोरी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-18-gp-28",
+                "serialNo": 6,
+                "nameMr": "वाघोडा",
+                "nameEn": "वाघोडा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-28-v-80",
+                    "serialNo": 10,
+                    "nameMr": "वाघोडा",
+                    "nameEn": "वाघोडा"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-18-gp-29",
+                "serialNo": 7,
+                "nameMr": "डोरली",
+                "nameEn": "डोरली",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-29-v-81",
+                    "serialNo": 11,
+                    "nameMr": "डोरली",
+                    "nameEn": "डोरली"
+                  },
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-29-v-82",
+                    "serialNo": 12,
+                    "nameMr": "साहोली",
+                    "nameEn": "साहोली"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-9-gan-18-gp-30",
+                "serialNo": 8,
+                "nameMr": "तामसवाडी",
+                "nameEn": "तामसवाडी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-9-gan-18-gp-30-v-83",
+                    "serialNo": 13,
+                    "nameMr": "तामसवाडी",
+                    "nameEn": "तामसवाडी"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "parseoni-div-10",
+        "number": 10,
+        "nameMr": "गोंडेगाव",
+        "nameEn": "Gondegaon",
+        "code": "१०-गोंडेगाव",
+        "gana": [
+          {
+            "id": "parseoni-div-10-gan-19",
+            "number": 19,
+            "nameMr": "गोंडेगाव",
+            "nameEn": "Gondegaon",
+            "code": "१९-गोंडेगाव",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-10-gan-19-gp-31",
+                "serialNo": 1,
+                "nameMr": "बखारी",
+                "nameEn": "बखारी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-31-v-84",
+                    "serialNo": 1,
+                    "nameMr": "बखारी",
+                    "nameEn": "बखारी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-19-gp-32",
+                "serialNo": 2,
+                "nameMr": "नांदगाव",
+                "nameEn": "नांदगाव",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-32-v-85",
+                    "serialNo": 2,
+                    "nameMr": "नांदगाव",
+                    "nameEn": "नांदगाव"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-19-gp-33",
+                "serialNo": 3,
+                "nameMr": "वराडा",
+                "nameEn": "वराडा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-33-v-86",
+                    "serialNo": 3,
+                    "nameMr": "वराडा",
+                    "nameEn": "वराडा"
+                  },
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-33-v-87",
+                    "serialNo": 4,
+                    "nameMr": "चांम्पा (रिठी)",
+                    "nameEn": "चांम्पा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-33-v-88",
+                    "serialNo": 5,
+                    "nameMr": "वाघोली",
+                    "nameEn": "वाघोली"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-19-gp-34",
+                "serialNo": 4,
+                "nameMr": "घाटरोहणा",
+                "nameEn": "घाटरोहणा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-34-v-89",
+                    "serialNo": 6,
+                    "nameMr": "घाटरोहणा",
+                    "nameEn": "घाटरोहणा"
+                  },
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-34-v-90",
+                    "serialNo": 7,
+                    "nameMr": "एसंबा",
+                    "nameEn": "एसंबा"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-19-gp-35",
+                "serialNo": 5,
+                "nameMr": "गोंडेगाव",
+                "nameEn": "गोंडेगाव",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-35-v-91",
+                    "serialNo": 8,
+                    "nameMr": "गोंडेगाव",
+                    "nameEn": "गोंडेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-19-gp-36",
+                "serialNo": 6,
+                "nameMr": "जुनिकामठी",
+                "nameEn": "जुनिकामठी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-19-gp-36-v-92",
+                    "serialNo": 9,
+                    "nameMr": "जुनिकामठी",
+                    "nameEn": "जुनिकामठी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "parseoni-div-10-gan-20",
+            "number": 20,
+            "nameMr": "बनपुरी",
+            "nameEn": "Banpuri",
+            "code": "२०-बनपुरी",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-10-gan-20-gp-37",
+                "serialNo": 1,
+                "nameMr": "आमडी",
+                "nameEn": "आमडी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-37-v-93",
+                    "serialNo": 1,
+                    "nameMr": "आमडी",
+                    "nameEn": "आमडी"
+                  },
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-37-v-94",
+                    "serialNo": 2,
+                    "nameMr": "हिवरी",
+                    "nameEn": "हिवरी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-20-gp-38",
+                "serialNo": 2,
+                "nameMr": "खंडाळा (डु.)",
+                "nameEn": "खंडाळा (डु.)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-38-v-95",
+                    "serialNo": 3,
+                    "nameMr": "खंडाळा (डुमरी)",
+                    "nameEn": "खंडाळा (डुमरी)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-20-gp-39",
+                "serialNo": 3,
+                "nameMr": "मेहंदी",
+                "nameEn": "मेहंदी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-39-v-96",
+                    "serialNo": 4,
+                    "nameMr": "मेहंदी",
+                    "nameEn": "मेहंदी"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-20-gp-40",
+                "serialNo": 4,
+                "nameMr": "डुमरी कला",
+                "nameEn": "डुमरी कला",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-40-v-97",
+                    "serialNo": 5,
+                    "nameMr": "डुमरी (कला)",
+                    "nameEn": "डुमरी (कला)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-20-gp-41",
+                "serialNo": 5,
+                "nameMr": "साटक",
+                "nameEn": "साटक",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-41-v-98",
+                    "serialNo": 6,
+                    "nameMr": "साटक",
+                    "nameEn": "साटक"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-20-gp-42",
+                "serialNo": 6,
+                "nameMr": "बनपूरी",
+                "nameEn": "बनपूरी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-42-v-99",
+                    "serialNo": 7,
+                    "nameMr": "बनपुरी",
+                    "nameEn": "बनपुरी"
+                  },
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-42-v-100",
+                    "serialNo": 8,
+                    "nameMr": "भागी (रिठी)",
+                    "nameEn": "भागी (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-10-gan-20-gp-43",
+                "serialNo": 7,
+                "nameMr": "केरडी",
+                "nameEn": "केरडी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-43-v-101",
+                    "serialNo": 9,
+                    "nameMr": "बेलडोंगरी",
+                    "nameEn": "बेलडोंगरी"
+                  },
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-43-v-102",
+                    "serialNo": 10,
+                    "nameMr": "केरडी",
+                    "nameEn": "केरडी"
+                  },
+                  {
+                    "id": "parseoni-div-10-gan-20-gp-43-v-103",
+                    "serialNo": 11,
+                    "nameMr": "डुमरी (खुर्द)",
+                    "nameEn": "डुमरी (खुर्द)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "parseoni-div-11",
+        "number": 11,
+        "nameMr": "टेकाडी (को.ख.)",
+        "nameEn": "Tekadi (Ko.Kh.)",
+        "code": "११-टेकाडी (को.ख.)",
+        "gana": [
+          {
+            "id": "parseoni-div-11-gan-21",
+            "number": 21,
+            "nameMr": "टेकाडी (को.ख.)",
+            "nameEn": "Tekadi (Ko.Kh.)",
+            "code": "२१-टेकाडी (को.ख.)",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-11-gan-21-gp-44",
+                "serialNo": 1,
+                "nameMr": "टेकाडी (को.ख.)",
+                "nameEn": "टेकाडी (को.ख.)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-11-gan-21-gp-44-v-104",
+                    "serialNo": 1,
+                    "nameMr": "टेकाडी (को.ख.)",
+                    "nameEn": "टेकाडी (को.ख.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "parseoni-div-11-gan-22",
+            "number": 22,
+            "nameMr": "खंडाळा (घटाटे)",
+            "nameEn": "Khandala (Ghatate)",
+            "code": "२२-खंडाळा (घटाटे)",
+            "gramPanchayats": [
+              {
+                "id": "parseoni-div-11-gan-22-gp-45",
+                "serialNo": 1,
+                "nameMr": "बोरडा (गणेशी)",
+                "nameEn": "बोरडा (गणेशी)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-45-v-105",
+                    "serialNo": 1,
+                    "nameMr": "बोरडा (गणेशी)",
+                    "nameEn": "बोरडा (गणेशी)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-11-gan-22-gp-46",
+                "serialNo": 2,
+                "nameMr": "निमखेडा",
+                "nameEn": "निमखेडा",
+                "villages": [
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-46-v-106",
+                    "serialNo": 2,
+                    "nameMr": "निमखेडा",
+                    "nameEn": "निमखेडा"
+                  },
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-46-v-107",
+                    "serialNo": 3,
+                    "nameMr": "तेलंगखेडी",
+                    "nameEn": "तेलंगखेडी"
+                  },
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-46-v-108",
+                    "serialNo": 4,
+                    "nameMr": "पांजरा (रिठी)",
+                    "nameEn": "पांजरा (रिठी)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-11-gan-22-gp-47",
+                "serialNo": 3,
+                "nameMr": "खेडी",
+                "nameEn": "खेडी",
+                "villages": [
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-47-v-109",
+                    "serialNo": 5,
+                    "nameMr": "खेडी",
+                    "nameEn": "खेडी"
+                  },
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-47-v-110",
+                    "serialNo": 6,
+                    "nameMr": "बोरी (राणी)",
+                    "nameEn": "बोरी (राणी)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-11-gan-22-gp-48",
+                "serialNo": 4,
+                "nameMr": "खंडाळा (घ.)",
+                "nameEn": "खंडाळा (घ.)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-48-v-111",
+                    "serialNo": 7,
+                    "nameMr": "खंडाळा (घटाटे)",
+                    "nameEn": "खंडाळा (घटाटे)"
+                  },
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-48-v-112",
+                    "serialNo": 8,
+                    "nameMr": "हिवरा (गह्)",
+                    "nameEn": "हिवरा (गह्)"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-11-gan-22-gp-49",
+                "serialNo": 5,
+                "nameMr": "निलज",
+                "nameEn": "निलज",
+                "villages": [
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-49-v-113",
+                    "serialNo": 9,
+                    "nameMr": "निलज",
+                    "nameEn": "निलज"
+                  }
+                ]
+              },
+              {
+                "id": "parseoni-div-11-gan-22-gp-50",
+                "serialNo": 6,
+                "nameMr": "बोरी (सिं.)",
+                "nameEn": "बोरी (सिं.)",
+                "villages": [
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-50-v-114",
+                    "serialNo": 10,
+                    "nameMr": "बोरी (सिंगोरी)",
+                    "nameEn": "बोरी (सिंगोरी)"
+                  },
+                  {
+                    "id": "parseoni-div-11-gan-22-gp-50-v-115",
+                    "serialNo": 11,
+                    "nameMr": "सिंगारदिप",
+                    "nameEn": "सिंगारदिप"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "districtMr": "नागपूर",
+    "districtEn": "Nagpur",
+    "talukaMr": "सावनेर",
+    "talukaEn": "Savner",
+    "notificationNumber": "जिपनि-२०२५/प्र.क्र.३६/पं.रा.२ दिनांक १२ जून, २०२५",
+    "notificationDateMr": "१२ जून, २०२५",
+    "orderNumber": "निवडणूक-१/कार्या-३/कावि-३९८-२०२५",
+    "orderDateMr": "२२ ऑगस्ट, २०२५",
+    "issuingAuthorityMr": "डॉ. विपीन, जिल्हाधिकारी, नागपूर",
+    "issuingAuthorityEn": "Dr. Vipin, District Collector, Nagpur",
+    "isVerifiedFromPdf": true,
+    "sourcePdfFilename": "Nagpur_District_ZP_PS_Gazette.csv",
+    "divisions": [
+      {
+        "id": "savner-div-1",
+        "number": 1,
+        "nameMr": "बडेगाव",
+        "nameEn": "Badegaon",
+        "code": "१-बडेगाव",
+        "gana": [
+          {
+            "id": "savner-div-1-gan-1",
+            "number": 1,
+            "nameMr": "बडेगाव",
+            "nameEn": "Badegaon",
+            "code": "१-बडेगाव",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-1-gan-1-gp-1",
+                "serialNo": 1,
+                "nameMr": "बडेगाव",
+                "nameEn": "बडेगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-1-v-1",
+                    "serialNo": 1,
+                    "nameMr": "बडेगाव",
+                    "nameEn": "बडेगाव"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-1-v-2",
+                    "serialNo": 2,
+                    "nameMr": "चारगाव",
+                    "nameEn": "चारगाव"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-2",
+                "serialNo": 2,
+                "nameMr": "सिंदेवानी (बु.)",
+                "nameEn": "सिंदेवानी (बु.)",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-2-v-3",
+                    "serialNo": 3,
+                    "nameMr": "सिंदेवानी (बु.)",
+                    "nameEn": "सिंदेवानी (बु.)"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-2-v-4",
+                    "serialNo": 4,
+                    "nameMr": "सिंदेवानी (खु.)",
+                    "nameEn": "सिंदेवानी (खु.)"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-2-v-5",
+                    "serialNo": 5,
+                    "nameMr": "टेकाडी",
+                    "nameEn": "टेकाडी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-3",
+                "serialNo": 3,
+                "nameMr": "बिचवा",
+                "nameEn": "बिचवा",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-3-v-6",
+                    "serialNo": 6,
+                    "nameMr": "बिचवा",
+                    "nameEn": "बिचवा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-4",
+                "serialNo": 4,
+                "nameMr": "सर्रा",
+                "nameEn": "सर्रा",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-4-v-7",
+                    "serialNo": 7,
+                    "nameMr": "सर्रा",
+                    "nameEn": "सर्रा"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-4-v-8",
+                    "serialNo": 8,
+                    "nameMr": "वरपानी",
+                    "nameEn": "वरपानी"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-4-v-9",
+                    "serialNo": 9,
+                    "nameMr": "कोरमेटा",
+                    "nameEn": "कोरमेटा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-5",
+                "serialNo": 5,
+                "nameMr": "नागलवाडी",
+                "nameEn": "नागलवाडी",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-5-v-10",
+                    "serialNo": 10,
+                    "nameMr": "नागलवाडी",
+                    "nameEn": "नागलवाडी"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-5-v-11",
+                    "serialNo": 11,
+                    "nameMr": "भोंडेताल",
+                    "nameEn": "भोंडेताल"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-6",
+                "serialNo": 6,
+                "nameMr": "सिरोंजी",
+                "nameEn": "सिरोंजी",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-6-v-12",
+                    "serialNo": 12,
+                    "nameMr": "सिरोंजी",
+                    "nameEn": "सिरोंजी"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-6-v-13",
+                    "serialNo": 13,
+                    "nameMr": "सुरेवानी",
+                    "nameEn": "सुरेवानी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-7",
+                "serialNo": 7,
+                "nameMr": "सोनपूर",
+                "nameEn": "सोनपूर",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-7-v-14",
+                    "serialNo": 14,
+                    "nameMr": "सोनपूर",
+                    "nameEn": "सोनपूर"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-7-v-15",
+                    "serialNo": 15,
+                    "nameMr": "राजेगाव (पाण्याखाली)",
+                    "nameEn": "राजेगाव (पाण्याखाली)",
+                    "notes": "पाण्याखाली (Submerged)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-8",
+                "serialNo": 8,
+                "nameMr": "रायवाडी",
+                "nameEn": "रायवाडी",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-8-v-16",
+                    "serialNo": 16,
+                    "nameMr": "रायवाडी",
+                    "nameEn": "रायवाडी"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-8-v-17",
+                    "serialNo": 17,
+                    "nameMr": "चौरखैरी",
+                    "nameEn": "चौरखैरी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-9",
+                "serialNo": 9,
+                "nameMr": "टेंभूरडोह",
+                "nameEn": "टेंभूरडोह",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-9-v-18",
+                    "serialNo": 18,
+                    "nameMr": "टेंभूरडोह",
+                    "nameEn": "टेंभूरडोह"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-9-v-19",
+                    "serialNo": 19,
+                    "nameMr": "महारकुंड",
+                    "nameEn": "महारकुंड"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-1-gp-10",
+                "serialNo": 10,
+                "nameMr": "खर्डूका",
+                "nameEn": "खर्डूका",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-1-gp-10-v-20",
+                    "serialNo": 20,
+                    "nameMr": "खर्डूका",
+                    "nameEn": "खर्डूका"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-10-v-21",
+                    "serialNo": 21,
+                    "nameMr": "पीपला (री.)",
+                    "nameEn": "पीपला (री.)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "savner-div-1-gan-1-gp-10-v-22",
+                    "serialNo": 22,
+                    "nameMr": "चारगाव (री.)",
+                    "nameEn": "चारगाव (री.)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "savner-div-1-gan-2",
+            "number": 2,
+            "nameMr": "खुबाळा",
+            "nameEn": "Khubala",
+            "code": "२-खुबाळा",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-1-gan-2-gp-11",
+                "serialNo": 1,
+                "nameMr": "खुबाळा",
+                "nameEn": "खुबाळा",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-11-v-23",
+                    "serialNo": 1,
+                    "nameMr": "खुबाळा",
+                    "nameEn": "खुबाळा"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-11-v-24",
+                    "serialNo": 2,
+                    "nameMr": "हिंगणा",
+                    "nameEn": "हिंगणा"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-11-v-25",
+                    "serialNo": 3,
+                    "nameMr": "रिसाळा",
+                    "nameEn": "रिसाळा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-2-gp-12",
+                "serialNo": 2,
+                "nameMr": "गडमी",
+                "nameEn": "गडमी",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-12-v-26",
+                    "serialNo": 4,
+                    "nameMr": "गडमी",
+                    "nameEn": "गडमी"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-12-v-27",
+                    "serialNo": 5,
+                    "nameMr": "पेंढरी",
+                    "nameEn": "पेंढरी"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-12-v-28",
+                    "serialNo": 6,
+                    "nameMr": "हेटीखेडा",
+                    "nameEn": "हेटीखेडा"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-12-v-29",
+                    "serialNo": 7,
+                    "nameMr": "मोहगाव (ज)",
+                    "nameEn": "मोहगाव (ज)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-2-gp-13",
+                "serialNo": 3,
+                "nameMr": "निमतलाई",
+                "nameEn": "निमतलाई",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-13-v-30",
+                    "serialNo": 8,
+                    "nameMr": "निमतलाई",
+                    "nameEn": "निमतलाई"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-13-v-31",
+                    "serialNo": 9,
+                    "nameMr": "कुसुंबी",
+                    "nameEn": "कुसुंबी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-2-gp-14",
+                "serialNo": 4,
+                "nameMr": "खैरी (प)",
+                "nameEn": "खैरी (प)",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-14-v-32",
+                    "serialNo": 10,
+                    "nameMr": "खैरी (प)",
+                    "nameEn": "खैरी (प)"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-14-v-33",
+                    "serialNo": 11,
+                    "nameMr": "रामडोंगरी",
+                    "nameEn": "रामडोंगरी"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-14-v-34",
+                    "serialNo": 12,
+                    "nameMr": "ढकारा",
+                    "nameEn": "ढकारा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-2-gp-15",
+                "serialNo": 5,
+                "nameMr": "उमरी (जा)",
+                "nameEn": "उमरी (जा)",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-15-v-35",
+                    "serialNo": 13,
+                    "nameMr": "उमरी (जा)",
+                    "nameEn": "उमरी (जा)"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-15-v-36",
+                    "serialNo": 14,
+                    "nameMr": "बावनगाव",
+                    "nameEn": "बावनगाव"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-2-gp-16",
+                "serialNo": 6,
+                "nameMr": "कोच्छी",
+                "nameEn": "कोच्छी",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-16-v-37",
+                    "serialNo": 15,
+                    "nameMr": "कोच्छी",
+                    "nameEn": "कोच्छी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-2-gp-17",
+                "serialNo": 7,
+                "nameMr": "किरणापूर",
+                "nameEn": "किरणापूर",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-17-v-38",
+                    "serialNo": 16,
+                    "nameMr": "किरणापूर",
+                    "nameEn": "किरणापूर"
+                  },
+                  {
+                    "id": "savner-div-1-gan-2-gp-17-v-39",
+                    "serialNo": 17,
+                    "nameMr": "वाघोली",
+                    "nameEn": "वाघोली"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-1-gan-2-gp-18",
+                "serialNo": 8,
+                "nameMr": "कोथुळणा",
+                "nameEn": "कोथुळणा",
+                "villages": [
+                  {
+                    "id": "savner-div-1-gan-2-gp-18-v-40",
+                    "serialNo": 18,
+                    "nameMr": "कोथुळणा",
+                    "nameEn": "कोथुळणा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "savner-div-2",
+        "number": 2,
+        "nameMr": "वाघोडा",
+        "nameEn": "Waghoda",
+        "code": "२-वाघोडा",
+        "gana": [
+          {
+            "id": "savner-div-2-gan-3",
+            "number": 3,
+            "nameMr": "वाघोडा",
+            "nameEn": "Waghoda",
+            "code": "३-वाघोडा",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-2-gan-3-gp-19",
+                "serialNo": 1,
+                "nameMr": "वाघोडा",
+                "nameEn": "वाघोडा",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-3-gp-19-v-41",
+                    "serialNo": 1,
+                    "nameMr": "वाघोडा",
+                    "nameEn": "वाघोडा"
+                  },
+                  {
+                    "id": "savner-div-2-gan-3-gp-19-v-42",
+                    "serialNo": 2,
+                    "nameMr": "उमरी (री.)",
+                    "nameEn": "उमरी (री.)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-3-gp-20",
+                "serialNo": 2,
+                "nameMr": "बोरूजवाडा",
+                "nameEn": "बोरूजवाडा",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-3-gp-20-v-43",
+                    "serialNo": 3,
+                    "nameMr": "बोरूजवाडा",
+                    "nameEn": "बोरूजवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-3-gp-21",
+                "serialNo": 3,
+                "nameMr": "तिघई",
+                "nameEn": "तिघई",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-3-gp-21-v-44",
+                    "serialNo": 4,
+                    "nameMr": "तिघई",
+                    "nameEn": "तिघई"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-3-gp-22",
+                "serialNo": 4,
+                "nameMr": "कोदेगाव",
+                "nameEn": "कोदेगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-3-gp-22-v-45",
+                    "serialNo": 5,
+                    "nameMr": "कोदेगाव",
+                    "nameEn": "कोदेगाव"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-3-gp-23",
+                "serialNo": 5,
+                "nameMr": "आजनी",
+                "nameEn": "आजनी",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-3-gp-23-v-46",
+                    "serialNo": 6,
+                    "nameMr": "आजनी",
+                    "nameEn": "आजनी"
+                  },
+                  {
+                    "id": "savner-div-2-gan-3-gp-23-v-47",
+                    "serialNo": 7,
+                    "nameMr": "शेरडी",
+                    "nameEn": "शेरडी"
+                  },
+                  {
+                    "id": "savner-div-2-gan-3-gp-23-v-48",
+                    "serialNo": 8,
+                    "nameMr": "खेडी",
+                    "nameEn": "खेडी"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "savner-div-2-gan-4",
+            "number": 4,
+            "nameMr": "मंगसा",
+            "nameEn": "Mangasa",
+            "code": "४-मंगसा",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-2-gan-4-gp-24",
+                "serialNo": 1,
+                "nameMr": "मंगसा",
+                "nameEn": "मंगसा",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-24-v-49",
+                    "serialNo": 1,
+                    "nameMr": "मंगसा",
+                    "nameEn": "मंगसा"
+                  },
+                  {
+                    "id": "savner-div-2-gan-4-gp-24-v-50",
+                    "serialNo": 2,
+                    "nameMr": "नांदा (खुर्द)",
+                    "nameEn": "नांदा (खुर्द)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-4-gp-25",
+                "serialNo": 2,
+                "nameMr": "गडेगाव",
+                "nameEn": "गडेगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-25-v-51",
+                    "serialNo": 3,
+                    "nameMr": "गडेगाव",
+                    "nameEn": "गडेगाव"
+                  },
+                  {
+                    "id": "savner-div-2-gan-4-gp-25-v-52",
+                    "serialNo": 4,
+                    "nameMr": "करजघाट",
+                    "nameEn": "करजघाट"
+                  },
+                  {
+                    "id": "savner-div-2-gan-4-gp-25-v-53",
+                    "serialNo": 5,
+                    "nameMr": "दुधबर्डी",
+                    "nameEn": "दुधबर्डी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-4-gp-26",
+                "serialNo": 3,
+                "nameMr": "नांदोरी",
+                "nameEn": "नांदोरी",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-26-v-54",
+                    "serialNo": 6,
+                    "nameMr": "नांदोरी",
+                    "nameEn": "नांदोरी"
+                  },
+                  {
+                    "id": "savner-div-2-gan-4-gp-26-v-55",
+                    "serialNo": 7,
+                    "nameMr": "नंदापूर",
+                    "nameEn": "नंदापूर"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-4-gp-27",
+                "serialNo": 4,
+                "nameMr": "खैरी (ढा.)",
+                "nameEn": "खैरी (ढा.)",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-27-v-56",
+                    "serialNo": 8,
+                    "nameMr": "खैरी (ढा.)",
+                    "nameEn": "खैरी (ढा.)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-4-gp-28",
+                "serialNo": 5,
+                "nameMr": "परसोडी",
+                "nameEn": "परसोडी",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-28-v-57",
+                    "serialNo": 9,
+                    "nameMr": "परसोडी",
+                    "nameEn": "परसोडी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-4-gp-29",
+                "serialNo": 6,
+                "nameMr": "खानगाव",
+                "nameEn": "खानगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-29-v-58",
+                    "serialNo": 10,
+                    "nameMr": "खानगाव",
+                    "nameEn": "खानगाव"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-4-gp-30",
+                "serialNo": 7,
+                "nameMr": "खुरजगाव",
+                "nameEn": "खुरजगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-30-v-59",
+                    "serialNo": 11,
+                    "nameMr": "खुरजगाव",
+                    "nameEn": "खुरजगाव"
+                  },
+                  {
+                    "id": "savner-div-2-gan-4-gp-30-v-60",
+                    "serialNo": 12,
+                    "nameMr": "पारडी (री)",
+                    "nameEn": "पारडी (री)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-2-gan-4-gp-31",
+                "serialNo": 8,
+                "nameMr": "सावंगी",
+                "nameEn": "सावंगी",
+                "villages": [
+                  {
+                    "id": "savner-div-2-gan-4-gp-31-v-61",
+                    "serialNo": 13,
+                    "nameMr": "सावंगी",
+                    "nameEn": "सावंगी"
+                  },
+                  {
+                    "id": "savner-div-2-gan-4-gp-31-v-62",
+                    "serialNo": 14,
+                    "nameMr": "हेटी (सु.)",
+                    "nameEn": "हेटी (सु.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "savner-div-3",
+        "number": 3,
+        "nameMr": "केळवद",
+        "nameEn": "Kelwad",
+        "code": "३-केळवद",
+        "gana": [
+          {
+            "id": "savner-div-3-gan-5",
+            "number": 5,
+            "nameMr": "केळवद",
+            "nameEn": "Kelwad",
+            "code": "५-केळवद",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-3-gan-5-gp-32",
+                "serialNo": 1,
+                "nameMr": "केळवद",
+                "nameEn": "केळवद",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-5-gp-32-v-63",
+                    "serialNo": 1,
+                    "nameMr": "केळवद",
+                    "nameEn": "केळवद"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-5-gp-33",
+                "serialNo": 2,
+                "nameMr": "हत्तीसरा",
+                "nameEn": "हत्तीसरा",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-5-gp-33-v-64",
+                    "serialNo": 2,
+                    "nameMr": "हत्तीसरा",
+                    "nameEn": "हत्तीसरा"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-33-v-65",
+                    "serialNo": 3,
+                    "nameMr": "आष्टी (बु.)",
+                    "nameEn": "आष्टी (बु.)"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-33-v-66",
+                    "serialNo": 4,
+                    "nameMr": "आष्टी (खु.)",
+                    "nameEn": "आष्टी (खु.)"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-33-v-67",
+                    "serialNo": 5,
+                    "nameMr": "कवठा",
+                    "nameEn": "कवठा"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-33-v-68",
+                    "serialNo": 6,
+                    "nameMr": "जैतगड",
+                    "nameEn": "जैतगड"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-5-gp-34",
+                "serialNo": 3,
+                "nameMr": "रामपुरी",
+                "nameEn": "रामपुरी",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-5-gp-34-v-69",
+                    "serialNo": 7,
+                    "nameMr": "रामपुरी",
+                    "nameEn": "रामपुरी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-5-gp-35",
+                "serialNo": 4,
+                "nameMr": "जटामखोरा",
+                "nameEn": "जटामखोरा",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-5-gp-35-v-70",
+                    "serialNo": 8,
+                    "nameMr": "जटामखोरा",
+                    "nameEn": "जटामखोरा"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-35-v-71",
+                    "serialNo": 9,
+                    "nameMr": "रायबासा",
+                    "nameEn": "रायबासा"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-35-v-72",
+                    "serialNo": 10,
+                    "nameMr": "बीडजटामखोरा",
+                    "nameEn": "बीडजटामखोरा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-5-gp-36",
+                "serialNo": 5,
+                "nameMr": "नरसाळा",
+                "nameEn": "नरसाळा",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-5-gp-36-v-73",
+                    "serialNo": 11,
+                    "nameMr": "नरसाळा",
+                    "nameEn": "नरसाळा"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-36-v-74",
+                    "serialNo": 12,
+                    "nameMr": "भागेमाहेरी",
+                    "nameEn": "भागेमाहेरी"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-36-v-75",
+                    "serialNo": 13,
+                    "nameMr": "भोजापूर (री.)",
+                    "nameEn": "भोजापूर (री.)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-36-v-76",
+                    "serialNo": 14,
+                    "nameMr": "पोहणा (री.)",
+                    "nameEn": "पोहणा (री.)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-5-gp-37",
+                "serialNo": 6,
+                "nameMr": "पंढरी",
+                "nameEn": "पंढरी",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-5-gp-37-v-77",
+                    "serialNo": 15,
+                    "nameMr": "पंढरी",
+                    "nameEn": "पंढरी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-5-gp-38",
+                "serialNo": 7,
+                "nameMr": "खापा (न.)",
+                "nameEn": "खापा (न.)",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-5-gp-38-v-78",
+                    "serialNo": 16,
+                    "nameMr": "खापा (न.)",
+                    "nameEn": "खापा (न.)"
+                  },
+                  {
+                    "id": "savner-div-3-gan-5-gp-38-v-79",
+                    "serialNo": 17,
+                    "nameMr": "पिपला (भ.)",
+                    "nameEn": "पिपला (भ.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "savner-div-3-gan-6",
+            "number": 6,
+            "nameMr": "नांदागोमुख",
+            "nameEn": "Nandagomukh",
+            "code": "६-नांदागोमुख",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-3-gan-6-gp-39",
+                "serialNo": 1,
+                "nameMr": "नांदागोमुख",
+                "nameEn": "नांदागोमुख",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-39-v-80",
+                    "serialNo": 1,
+                    "nameMr": "नांदागोमुख",
+                    "nameEn": "नांदागोमुख"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-40",
+                "serialNo": 2,
+                "nameMr": "सावळी (मो.)",
+                "nameEn": "सावळी (मो.)",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-40-v-81",
+                    "serialNo": 2,
+                    "nameMr": "सावळी (मो.)",
+                    "nameEn": "सावळी (मो.)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-41",
+                "serialNo": 3,
+                "nameMr": "खुर्सापार",
+                "nameEn": "खुर्सापार",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-41-v-82",
+                    "serialNo": 3,
+                    "nameMr": "खुर्सापार",
+                    "nameEn": "खुर्सापार"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-42",
+                "serialNo": 4,
+                "nameMr": "जोगा",
+                "nameEn": "जोगा",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-42-v-83",
+                    "serialNo": 4,
+                    "nameMr": "जोगा",
+                    "nameEn": "जोगा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-43",
+                "serialNo": 5,
+                "nameMr": "जैतपूर",
+                "nameEn": "जैतपूर",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-43-v-84",
+                    "serialNo": 5,
+                    "nameMr": "जैतपूर",
+                    "nameEn": "जैतपूर"
+                  },
+                  {
+                    "id": "savner-div-3-gan-6-gp-43-v-85",
+                    "serialNo": 6,
+                    "nameMr": "छत्रापूर",
+                    "nameEn": "छत्रापूर"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-44",
+                "serialNo": 6,
+                "nameMr": "जलालखेडा",
+                "nameEn": "जलालखेडा",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-44-v-86",
+                    "serialNo": 7,
+                    "nameMr": "जलालखेडा",
+                    "nameEn": "जलालखेडा"
+                  },
+                  {
+                    "id": "savner-div-3-gan-6-gp-44-v-87",
+                    "serialNo": 8,
+                    "nameMr": "बोरगाव (ज.)",
+                    "nameEn": "बोरगाव (ज.)"
+                  },
+                  {
+                    "id": "savner-div-3-gan-6-gp-44-v-88",
+                    "serialNo": 9,
+                    "nameMr": "जाखेवाडा (री.)",
+                    "nameEn": "जाखेवाडा (री.)",
+                    "notes": "रिठी (Uninhabited / Deserted)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-45",
+                "serialNo": 7,
+                "nameMr": "तेलंगखेडी",
+                "nameEn": "तेलंगखेडी",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-45-v-89",
+                    "serialNo": 10,
+                    "nameMr": "तेलंगखेडी",
+                    "nameEn": "तेलंगखेडी"
+                  },
+                  {
+                    "id": "savner-div-3-gan-6-gp-45-v-90",
+                    "serialNo": 11,
+                    "nameMr": "जुनेवानी (पाण्याखाली)",
+                    "nameEn": "जुनेवानी (पाण्याखाली)",
+                    "notes": "पाण्याखाली (Submerged)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-46",
+                "serialNo": 8,
+                "nameMr": "उमरी (भ.)",
+                "nameEn": "उमरी (भ.)",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-46-v-91",
+                    "serialNo": 12,
+                    "nameMr": "उमरी (भ.)",
+                    "nameEn": "उमरी (भ.)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-47",
+                "serialNo": 9,
+                "nameMr": "सालई",
+                "nameEn": "सालई",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-47-v-92",
+                    "serialNo": 13,
+                    "nameMr": "सालई",
+                    "nameEn": "सालई"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-3-gan-6-gp-48",
+                "serialNo": 10,
+                "nameMr": "माळेगाव (जो.)",
+                "nameEn": "माळेगाव (जो.)",
+                "villages": [
+                  {
+                    "id": "savner-div-3-gan-6-gp-48-v-93",
+                    "serialNo": 14,
+                    "nameMr": "माळेगाव (जो.)",
+                    "nameEn": "माळेगाव (जो.)"
+                  },
+                  {
+                    "id": "savner-div-3-gan-6-gp-48-v-94",
+                    "serialNo": 15,
+                    "nameMr": "खापा (जना.)",
+                    "nameEn": "खापा (जना.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "savner-div-4",
+        "number": 4,
+        "nameMr": "पाटणसावंगी",
+        "nameEn": "Patansawangi",
+        "code": "४-पाटणसावंगी",
+        "gana": [
+          {
+            "id": "savner-div-4-gan-7",
+            "number": 7,
+            "nameMr": "पाटणसावंगी",
+            "nameEn": "Patansawangi",
+            "code": "७-पाटणसावंगी",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-4-gan-7-gp-49",
+                "serialNo": 1,
+                "nameMr": "पाटणसावंगी",
+                "nameEn": "पाटणसावंगी",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-7-gp-49-v-95",
+                    "serialNo": 1,
+                    "nameMr": "पाटणसावंगी",
+                    "nameEn": "पाटणसावंगी"
+                  },
+                  {
+                    "id": "savner-div-4-gan-7-gp-49-v-96",
+                    "serialNo": 2,
+                    "nameMr": "कवडस",
+                    "nameEn": "कवडस"
+                  },
+                  {
+                    "id": "savner-div-4-gan-7-gp-49-v-97",
+                    "serialNo": 3,
+                    "nameMr": "बिडकवडस",
+                    "nameEn": "बिडकवडस"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "savner-div-4-gan-8",
+            "number": 8,
+            "nameMr": "टाकळी (भ.)",
+            "nameEn": "Takli (Bha.)",
+            "code": "८-टाकळी (भ.)",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-4-gan-8-gp-50",
+                "serialNo": 1,
+                "nameMr": "टाकळी (भ.)",
+                "nameEn": "टाकळी (भ.)",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-50-v-98",
+                    "serialNo": 1,
+                    "nameMr": "टाकळी (भ.)",
+                    "nameEn": "टाकळी (भ.)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-51",
+                "serialNo": 2,
+                "nameMr": "मानेगाव",
+                "nameEn": "मानेगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-51-v-99",
+                    "serialNo": 2,
+                    "nameMr": "मानेगाव",
+                    "nameEn": "मानेगाव"
+                  },
+                  {
+                    "id": "savner-div-4-gan-8-gp-51-v-100",
+                    "serialNo": 3,
+                    "nameMr": "पंधराखेडी",
+                    "nameEn": "पंधराखेडी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-52",
+                "serialNo": 3,
+                "nameMr": "कुसुंबी",
+                "nameEn": "कुसुंबी",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-52-v-101",
+                    "serialNo": 4,
+                    "nameMr": "कुसुंबी",
+                    "nameEn": "कुसुंबी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-53",
+                "serialNo": 4,
+                "nameMr": "कोटोडी",
+                "nameEn": "कोटोडी",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-53-v-102",
+                    "serialNo": 5,
+                    "nameMr": "कोटोडी",
+                    "nameEn": "कोटोडी"
+                  },
+                  {
+                    "id": "savner-div-4-gan-8-gp-53-v-103",
+                    "serialNo": 6,
+                    "nameMr": "एरणगाव",
+                    "nameEn": "एरणगाव"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-54",
+                "serialNo": 5,
+                "nameMr": "पटकाखेडी",
+                "nameEn": "पटकाखेडी",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-54-v-104",
+                    "serialNo": 7,
+                    "nameMr": "पटकाखेडी",
+                    "nameEn": "पटकाखेडी"
+                  },
+                  {
+                    "id": "savner-div-4-gan-8-gp-54-v-105",
+                    "serialNo": 8,
+                    "nameMr": "आंगेवाडा",
+                    "nameEn": "आंगेवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-55",
+                "serialNo": 6,
+                "nameMr": "ब्रम्हपुरी",
+                "nameEn": "ब्रम्हपुरी",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-55-v-106",
+                    "serialNo": 9,
+                    "nameMr": "ब्रम्हपुरी",
+                    "nameEn": "ब्रम्हपुरी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-56",
+                "serialNo": 7,
+                "nameMr": "सिल्लोरी",
+                "nameEn": "सिल्लोरी",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-56-v-107",
+                    "serialNo": 10,
+                    "nameMr": "सिल्लोरी",
+                    "nameEn": "सिल्लोरी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-57",
+                "serialNo": 8,
+                "nameMr": "इटनगोटी",
+                "nameEn": "इटनगोटी",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-57-v-108",
+                    "serialNo": 11,
+                    "nameMr": "इटनगोटी",
+                    "nameEn": "इटनगोटी"
+                  },
+                  {
+                    "id": "savner-div-4-gan-8-gp-57-v-109",
+                    "serialNo": 12,
+                    "nameMr": "बेल्लोरी (खु.)",
+                    "nameEn": "बेल्लोरी (खु.)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-58",
+                "serialNo": 9,
+                "nameMr": "चांपा",
+                "nameEn": "चांपा",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-58-v-110",
+                    "serialNo": 13,
+                    "nameMr": "चांपा",
+                    "nameEn": "चांपा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-4-gan-8-gp-59",
+                "serialNo": 10,
+                "nameMr": "सावरमेंढा",
+                "nameEn": "सावरमेंढा",
+                "villages": [
+                  {
+                    "id": "savner-div-4-gan-8-gp-59-v-111",
+                    "serialNo": 14,
+                    "nameMr": "सावरमेंढा",
+                    "nameEn": "सावरमेंढा"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "savner-div-5",
+        "number": 5,
+        "nameMr": "वलनी",
+        "nameEn": "Walani",
+        "code": "५-वलनी",
+        "gana": [
+          {
+            "id": "savner-div-5-gan-9",
+            "number": 9,
+            "nameMr": "वलनी",
+            "nameEn": "Walani",
+            "code": "९-वलनी",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-5-gan-9-gp-60",
+                "serialNo": 1,
+                "nameMr": "वलनी",
+                "nameEn": "वलनी",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-9-gp-60-v-112",
+                    "serialNo": 1,
+                    "nameMr": "वलनी",
+                    "nameEn": "वलनी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-9-gp-61",
+                "serialNo": 2,
+                "nameMr": "पिपळा (डा. बं.)",
+                "nameEn": "पिपळा (डा. बं.)",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-9-gp-61-v-113",
+                    "serialNo": 2,
+                    "nameMr": "पिपळा (डा. बं.)",
+                    "nameEn": "पिपळा (डा. बं.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "savner-div-5-gan-10",
+            "number": 10,
+            "nameMr": "वाकोडी",
+            "nameEn": "Wakodi",
+            "code": "१०-वाकोडी",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-5-gan-10-gp-62",
+                "serialNo": 1,
+                "nameMr": "वाकोडी",
+                "nameEn": "वाकोडी",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-62-v-114",
+                    "serialNo": 1,
+                    "nameMr": "वाकोडी",
+                    "nameEn": "वाकोडी"
+                  },
+                  {
+                    "id": "savner-div-5-gan-10-gp-62-v-115",
+                    "serialNo": 2,
+                    "nameMr": "डोहनघाट",
+                    "nameEn": "डोहनघाट"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-10-gp-63",
+                "serialNo": 2,
+                "nameMr": "वाकी",
+                "nameEn": "वाकी",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-63-v-116",
+                    "serialNo": 3,
+                    "nameMr": "चीचघाट",
+                    "nameEn": "चीचघाट"
+                  },
+                  {
+                    "id": "savner-div-5-gan-10-gp-63-v-117",
+                    "serialNo": 4,
+                    "nameMr": "बिडचीचघाट",
+                    "nameEn": "बिडचीचघाट"
+                  },
+                  {
+                    "id": "savner-div-5-gan-10-gp-63-v-118",
+                    "serialNo": 5,
+                    "nameMr": "वाकी",
+                    "nameEn": "वाकी"
+                  },
+                  {
+                    "id": "savner-div-5-gan-10-gp-63-v-119",
+                    "serialNo": 6,
+                    "nameMr": "कोदार्डोंगरी",
+                    "nameEn": "कोदार्डोंगरी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-10-gp-64",
+                "serialNo": 3,
+                "nameMr": "गोसेवाडी",
+                "nameEn": "गोसेवाडी",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-64-v-120",
+                    "serialNo": 7,
+                    "nameMr": "गोसेवाडी",
+                    "nameEn": "गोसेवाडी"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-10-gp-65",
+                "serialNo": 4,
+                "nameMr": "वेलतूर",
+                "nameEn": "वेलतूर",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-65-v-121",
+                    "serialNo": 8,
+                    "nameMr": "वेलतूर",
+                    "nameEn": "वेलतूर"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-10-gp-66",
+                "serialNo": 5,
+                "nameMr": "ईसापूर",
+                "nameEn": "ईसापूर",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-66-v-122",
+                    "serialNo": 9,
+                    "nameMr": "ईसापूर",
+                    "nameEn": "ईसापूर"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-10-gp-67",
+                "serialNo": 6,
+                "nameMr": "गुमगाव",
+                "nameEn": "गुमगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-67-v-123",
+                    "serialNo": 10,
+                    "nameMr": "गुमगाव",
+                    "nameEn": "गुमगाव"
+                  },
+                  {
+                    "id": "savner-div-5-gan-10-gp-67-v-124",
+                    "serialNo": 11,
+                    "nameMr": "राजना (ह.)",
+                    "nameEn": "राजना (ह.)"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-10-gp-68",
+                "serialNo": 7,
+                "nameMr": "भेंडाळा",
+                "nameEn": "भेंडाळा",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-68-v-125",
+                    "serialNo": 12,
+                    "nameMr": "भेंडाळा",
+                    "nameEn": "भेंडाळा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-5-gan-10-gp-69",
+                "serialNo": 8,
+                "nameMr": "माळेगाव (टा)",
+                "nameEn": "माळेगाव (टा)",
+                "villages": [
+                  {
+                    "id": "savner-div-5-gan-10-gp-69-v-126",
+                    "serialNo": 13,
+                    "nameMr": "माळेगाव (टा)",
+                    "nameEn": "माळेगाव (टा)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "savner-div-6",
+        "number": 6,
+        "nameMr": "चनकापूर",
+        "nameEn": "Chankapur",
+        "code": "६-चनकापूर",
+        "gana": [
+          {
+            "id": "savner-div-6-gan-11",
+            "number": 11,
+            "nameMr": "चनकापूर",
+            "nameEn": "Chankapur",
+            "code": "११-चनकापूर",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-6-gan-11-gp-70",
+                "serialNo": 1,
+                "nameMr": "पोटा (चनकापूर)",
+                "nameEn": "पोटा (चनकापूर)",
+                "villages": [
+                  {
+                    "id": "savner-div-6-gan-11-gp-70-v-127",
+                    "serialNo": 1,
+                    "nameMr": "चनकापूर",
+                    "nameEn": "चनकापूर"
+                  },
+                  {
+                    "id": "savner-div-6-gan-11-gp-70-v-128",
+                    "serialNo": 2,
+                    "nameMr": "पोटा",
+                    "nameEn": "पोटा"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "savner-div-6-gan-12",
+            "number": 12,
+            "nameMr": "सिल्लेवाडा",
+            "nameEn": "Sillewada",
+            "code": "१२-सिल्लेवाडा",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-6-gan-12-gp-71",
+                "serialNo": 1,
+                "nameMr": "सिल्लेवाडा",
+                "nameEn": "सिल्लेवाडा",
+                "villages": [
+                  {
+                    "id": "savner-div-6-gan-12-gp-71-v-129",
+                    "serialNo": 1,
+                    "nameMr": "सिल्लेवाडा",
+                    "nameEn": "सिल्लेवाडा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-6-gan-12-gp-72",
+                "serialNo": 2,
+                "nameMr": "दहेगाव (रं)",
+                "nameEn": "दहेगाव (रं)",
+                "villages": [
+                  {
+                    "id": "savner-div-6-gan-12-gp-72-v-130",
+                    "serialNo": 2,
+                    "nameMr": "दहेगाव (रं)",
+                    "nameEn": "दहेगाव (रं)"
+                  },
+                  {
+                    "id": "savner-div-6-gan-12-gp-72-v-131",
+                    "serialNo": 3,
+                    "nameMr": "रनाळा",
+                    "nameEn": "रनाळा"
+                  }
+                ]
+              },
+              {
+                "id": "savner-div-6-gan-12-gp-73",
+                "serialNo": 3,
+                "nameMr": "रोहना",
+                "nameEn": "रोहना",
+                "villages": [
+                  {
+                    "id": "savner-div-6-gan-12-gp-73-v-132",
+                    "serialNo": 4,
+                    "nameMr": "रोहना",
+                    "nameEn": "रोहना"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "savner-div-7",
+        "number": 7,
+        "nameMr": "चिचोली",
+        "nameEn": "Chicholi",
+        "code": "७-चिचोली",
+        "gana": [
+          {
+            "id": "savner-div-7-gan-13",
+            "number": 13,
+            "nameMr": "चिचोली",
+            "nameEn": "Chicholi",
+            "code": "१३-चिचोली",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-7-gan-13-gp-74",
+                "serialNo": 1,
+                "nameMr": "चिचोली",
+                "nameEn": "चिचोली",
+                "villages": [
+                  {
+                    "id": "savner-div-7-gan-13-gp-74-v-133",
+                    "serialNo": 1,
+                    "nameMr": "चिचोली वार्ड क्र. १",
+                    "nameEn": "चिचोली वार्ड क्र. १",
+                    "notes": "वार्ड क्र. (Ward No.)"
+                  },
+                  {
+                    "id": "savner-div-7-gan-13-gp-74-v-134",
+                    "serialNo": 2,
+                    "nameMr": "२",
+                    "nameEn": "२"
+                  },
+                  {
+                    "id": "savner-div-7-gan-13-gp-74-v-135",
+                    "serialNo": 3,
+                    "nameMr": "३",
+                    "nameEn": "३"
+                  },
+                  {
+                    "id": "savner-div-7-gan-13-gp-74-v-136",
+                    "serialNo": 4,
+                    "nameMr": "४",
+                    "nameEn": "४"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "savner-div-7-gan-14",
+            "number": 14,
+            "nameMr": "भानेगाव",
+            "nameEn": "Bhanegaon",
+            "code": "१४-भानेगाव",
+            "gramPanchayats": [
+              {
+                "id": "savner-div-7-gan-14-gp-75",
+                "serialNo": 1,
+                "nameMr": "भानेगाव",
+                "nameEn": "भानेगाव",
+                "villages": [
+                  {
+                    "id": "savner-div-7-gan-14-gp-75-v-137",
+                    "serialNo": 1,
+                    "nameMr": "भानेगाव",
+                    "nameEn": "भानेगाव"
+                  },
+                  {
+                    "id": "savner-div-7-gan-14-gp-75-v-138",
+                    "serialNo": 2,
+                    "nameMr": "चिचोली वार्ड क्र. ५",
+                    "nameEn": "चिचोली वार्ड क्र. ५",
+                    "notes": "वार्ड क्र. (Ward No.)"
+                  },
+                  {
+                    "id": "savner-div-7-gan-14-gp-75-v-139",
+                    "serialNo": 3,
+                    "nameMr": "६",
+                    "nameEn": "६"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+];
